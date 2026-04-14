@@ -1,0 +1,18 @@
+Backbone,Configuration,Selector,Acc@1 (ID),Acc@10 (ID),Acc@1 (Cat),Acc@10 (Cat)
+Common,Rule-based (alias_dict),Rule-based,0.0573,0.1094,0.1215,0.3507
+Common,BM25 (2-gram),BM25,0.4896,0.7899,0.7795,0.8438
+SBERT,SBERT + Cos,Cos,0.1233,0.2847,0.3524,0.6372
+SBERT,SBERT + Cos + Llama3,Cos + Llama3,0.2118,0.2847,0.4549,0.6372
+SBERT,SBERT + Cos + Mistral,Cos + Mistral,0.0000,0.2847,0.0017,0.6372
+SBERT,SBERT + Cos + Qwen3,Cos + Qwen3,0.0243,0.2847,0.0295,0.6372
+SBERT,SBERT + FoodMatchMLT (Ours),FoodMatchMLT (Ours),0.4549,0.7587,0.7726,0.9462
+E5-large,E5 + Cos,Cos,0.4167,0.7812,0.7587,0.9444
+E5-large,E5 + Cos + Llama3,Cos + Llama3,0.5312,0.7812,0.8889,0.9444
+E5-large,E5 + Cos + Mistral,Cos + Mistral,0.0000,0.7812,0.0087,0.9444
+E5-large,E5 + Cos + Qwen3,Cos + Qwen3,0.0417,0.7812,0.0538,0.9444
+E5-large,E5 + FoodMatchMLT (Ours),FoodMatchMLT (Ours),0.4948,0.8108,0.8229,0.9688
+Qwen3:8B,Qwen3 + Cos,Cos,0.1858,0.3628,0.5122,0.6962
+Qwen3:8B,Qwen3 + Cos + Llama3,Cos + Llama3,0.2830,0.3628,0.6163,0.6962
+Qwen3:8B,Qwen3 + Cos + Mistral,Cos + Mistral,0.0000,0.3628,0.0035,0.6962
+Qwen3:8B,Qwen3 + Cos + Qwen3,Cos + Qwen3,0.0156,0.3628,0.0208,0.6962
+Qwen3:8B,Qwen3 + FoodMatchMLT (Ours),FoodMatchMLT (Ours),0.5729,0.9167,0.9306,0.9965

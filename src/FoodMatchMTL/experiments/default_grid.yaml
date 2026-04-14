@@ -1,0 +1,62 @@
+module: src.ours_v2.train
+
+base_args:
+  mode: only_id
+  run_task1_mode_sweep: true
+  encoder: multilingual_e5_large
+  # encoder alternatives:
+  # - sentence_bert
+  # - qwen3_8b
+  lr: 1.0e-5
+  batch_size: 64
+  epochs: 10
+  alpha: 0.1
+  beta: 0.1
+  max_len: 64
+  pooling: mean
+  normalize: true
+  score_fn: cosine
+  output_root: ./src/FoodMatchMTL/results
+  eval_path: data/ingredient_label.csv
+  env_file: ./.wandb_access.env
+  use_wandb: true
+  wandb_log_interval: 50
+  enable_pseudo_link: true
+  pseudo_link_threshold: 0.75
+  pseudo_link_weight: 0.5
+  taxonomy_restrict_mode: ancestors_of_linked
+  taxonomy_max_nodes: 30000
+  pseudo_link_batch_size: 256
+  num_workers: 2
+  eval_batch_size: 256
+  use_e5_prefix: auto
+  use_lora: false
+  encoder_torch_dtype: auto
+  lora_r: 16
+  lora_alpha: 32
+  lora_dropout: 0.05
+  lora_target_modules: q_proj,k_proj,v_proj,o_proj,gate_proj,up_proj,down_proj
+  seed: 42
+
+sweeps:
+  seed: [42]
+  
+paired_sweeps:
+  alpha: [0.05, 0.1, 0.2]
+  beta:  [0.05,  0.1, 0.05]
+
+# Pair-wise (zipped) sweeps for linked hyper-parameters:
+# paired_sweeps:
+#   alpha: [0.05, 0.1, 0.2]
+#   beta:  [0.2,  0.1, 0.05]
+
+# Optional explicit runs can be appended:
+# experiments:
+#   - name: quick_multitask_debug
+#     mode: multitask
+#     batch_size: 2
+#     epochs: 1
+#     max_train_rows: 64
+#     train_steps_per_epoch: 1
+#     eval_max_items: 16
+#     num_workers: 0

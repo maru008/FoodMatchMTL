@@ -1,0 +1,7682 @@
+{
+  "あけび　果皮　生": {
+    "tax_id": 155132,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "あけび　果肉　生": {
+    "tax_id": 155132,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "あさ　乾": {
+    "tax_id": 3483,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "あさつき　葉　ゆで": {
+    "tax_id": 74900,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "あさつき　葉　生": {
+    "tax_id": 74900,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "あしたば　茎葉　ゆで": {
+    "tax_id": 357850,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "あしたば　茎葉　生": {
+    "tax_id": 357850,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "あずき　あん　こし生あん": {
+    "tax_id": 3914,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "あずき　あん　さらしあん　（乾燥あん）": {
+    "tax_id": 3914,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "あずき　あん　つぶし練りあん": {
+    "tax_id": 3914,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "あずき　ゆで小豆缶詰": {
+    "tax_id": 3914,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "あずき　全粒　ゆで": {
+    "tax_id": 3914,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "あずき　全粒　乾": {
+    "tax_id": 3914,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "あひる卵　ピータン": {
+    "tax_id": 8835,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "あまに　いり": {
+    "tax_id": 4006,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "あまのり　ほしのり": {
+    "tax_id": 2784,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "あまのり　味付けのり": {
+    "tax_id": 2784,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "あまのり　焼きのり": {
+    "tax_id": 2784,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "あらめ　蒸し干し": {
+    "tax_id": 6395,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "あわ　あわもち": {
+    "tax_id": 4555,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "あわ　精白粒": {
+    "tax_id": 4555,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "あんず　ジャム　低糖度": {
+    "tax_id": 36596,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "あんず　ジャム　高糖度": {
+    "tax_id": 36596,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "あんず　乾": {
+    "tax_id": 36596,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "あんず　生": {
+    "tax_id": 36596,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "あんず　缶詰": {
+    "tax_id": 36596,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "いちじく　乾": {
+    "tax_id": 3494,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "いちじく　生": {
+    "tax_id": 3494,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "いわのり　素干し": {
+    "tax_id": 2784,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "いんげんまめ　うずら豆": {
+    "tax_id": 3885,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "いんげんまめ　こし生あん": {
+    "tax_id": 3885,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "いんげんまめ　さやいんげん　若ざや　ゆで": {
+    "tax_id": 3885,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "いんげんまめ　さやいんげん　若ざや　生": {
+    "tax_id": 4686,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "いんげんまめ　全粒　ゆで": {
+    "tax_id": 3885,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "いんげんまめ　全粒　乾": {
+    "tax_id": 3885,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "いんげんまめ　豆きんとん": {
+    "tax_id": 3885,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "うこっけい卵　全卵　生": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "うずら卵　全卵　生": {
+    "tax_id": 93934,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "うずら卵　水煮缶詰": {
+    "tax_id": 93934,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "うみぶどう　生": {
+    "tax_id": 148947,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "うめ　果実飲料　20%果汁入り飲料": {
+    "tax_id": 102107,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "うめ　梅びしお": {
+    "tax_id": 102107,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "うめ　梅干し　塩漬": {
+    "tax_id": 102107,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "うめ　梅干し　調味漬": {
+    "tax_id": 102107,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "うめ　梅漬　塩漬": {
+    "tax_id": 102107,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "うめ　梅漬　調味漬": {
+    "tax_id": 102107,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "うめ　生": {
+    "tax_id": 102107,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "えごのり　おきうと": {
+    "tax_id": 218447,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "えごのり　素干し": {
+    "tax_id": 218447,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "えごま　乾": {
+    "tax_id": 151328,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "えだまめ　ゆで": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "えだまめ　冷凍": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "えだまめ　生": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "えのきたけ　ゆで": {
+    "tax_id": 38945,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "えのきたけ　味付け瓶詰": {
+    "tax_id": 38945,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "えのきたけ　油いため": {
+    "tax_id": 38945,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "えのきたけ　生": {
+    "tax_id": 38945,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "えんどう　うぐいす豆": {
+    "tax_id": 3888,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "えんどう　グリンピース（揚げ豆）": {
+    "tax_id": 3888,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "えんどう　全粒　赤えんどう　ゆで": {
+    "tax_id": 3888,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "えんどう　全粒　赤えんどう　乾": {
+    "tax_id": 3888,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "えんどう　全粒　青えんどう　ゆで": {
+    "tax_id": 3888,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "えんどう　全粒　青えんどう　乾": {
+    "tax_id": 3888,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "えんどう　塩豆": {
+    "tax_id": 3888,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "えんばく　オートミール": {
+    "tax_id": 4498,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "おおむぎ　七分つき押麦": {
+    "tax_id": 4513,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "おおむぎ　大麦めん　ゆで": {
+    "tax_id": 4513,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "おおむぎ　大麦めん　乾": {
+    "tax_id": 4513,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "おおむぎ　押麦　乾": {
+    "tax_id": 4513,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "おおむぎ　米粒麦": {
+    "tax_id": 4513,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "おおむぎ　麦こがし": {
+    "tax_id": 4513,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "おかひじき　茎葉　ゆで": {
+    "tax_id": 175695,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "おかひじき　茎葉　生": {
+    "tax_id": 175695,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "おごのり　塩蔵　塩抜き": {
+    "tax_id": 2774,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "かき　干しがき": {
+    "tax_id": 35925,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "かき　渋抜きがき　生": {
+    "tax_id": 35925,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "かき　甘がき　生": {
+    "tax_id": 35925,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "かや　いり": {
+    "tax_id": 50189,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "かりん　生": {
+    "tax_id": 36622,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "かわのり　素干し": {
+    "tax_id": 185965,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "かんぴょう　ゆで": {
+    "tax_id": 3668,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "かんぴょう　乾": {
+    "tax_id": 3668,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "きく　花びら　ゆで": {
+    "tax_id": 41568,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "きく　花びら　生": {
+    "tax_id": 41568,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "きく　菊のり": {
+    "tax_id": 41568,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "きび　精白粒": {
+    "tax_id": 4540,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "きゅうり　果実　生": {
+    "tax_id": 3659,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "きゅうり　漬物　しょうゆ漬": {
+    "tax_id": 3659,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "きゅうり　漬物　ぬかみそ漬": {
+    "tax_id": 3659,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "きゅうり　漬物　ピクルス　サワー型": {
+    "tax_id": 3659,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "きゅうり　漬物　ピクルス　スイート型": {
+    "tax_id": 3659,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "きゅうり　漬物　塩漬": {
+    "tax_id": 3659,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ぎんなん　ゆで": {
+    "tax_id": 3311,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ぎんなん　生": {
+    "tax_id": 3311,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "くるみ　いり": {
+    "tax_id": 51240,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "くろあわびたけ　生": {
+    "tax_id": 47962,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "くわい　塊茎　ゆで": {
+    "tax_id": 63789,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "くわい　塊茎　生": {
+    "tax_id": 63789,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ぐみ　生": {
+    "tax_id": 36776,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "けし　乾": {
+    "tax_id": 3469,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こごみ　若芽　生": {
+    "tax_id": 3277,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［うどん・そうめん類］　うどん　ゆで": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［うどん・そうめん類］　うどん　生": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［うどん・そうめん類］　そうめん・ひやむぎ　ゆで": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［うどん・そうめん類］　そうめん・ひやむぎ　乾": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［うどん・そうめん類］　干しうどん　ゆで": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［うどん・そうめん類］　干しうどん　乾": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［うどん・そうめん類］　手延そうめん・手延ひやむぎ　ゆで": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［うどん・そうめん類］　手延そうめん・手延ひやむぎ　乾": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［その他］　ぎょうざの皮　生": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［その他］　しゅうまいの皮　生": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［その他］　ちくわぶ": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［その他］　パン粉　乾燥": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［その他］　パン粉　半生": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［その他］　パン粉　生": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［その他］　ピザ生地": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［その他］　冷めん　生": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［その他］　小麦たんぱく　ペースト状": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［その他］　小麦たんぱく　粉末状": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［その他］　小麦たんぱく　粒状": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［その他］　小麦はいが": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［ふ類］　焼きふ　板ふ": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［ふ類］　焼きふ　車ふ": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［ふ類］　焼きふ　釜焼きふ": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［ふ類］　生ふ": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［パン類］　ぶどうパン": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［パン類］　イングリッシュマフィン": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［パン類］　クロワッサン　リッチタイプ": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［パン類］　コッペパン": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［パン類］　ナン": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［パン類］　フランスパン": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［パン類］　ベーグル": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［パン類］　ライ麦パン": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［パン類］　ロールパン": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［パン類］　乾パン": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［パン類］　角形食パン　食パン": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［マカロニ・スパゲッティ類］　マカロニ・スパゲッティ　ゆで": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［マカロニ・スパゲッティ類］　マカロニ・スパゲッティ　乾": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［マカロニ・スパゲッティ類］　生パスタ　生": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［中華めん類］　中華めん　ゆで": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［中華めん類］　中華めん　生": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［中華めん類］　干し中華めん　ゆで": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［中華めん類］　干し中華めん　乾": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［中華めん類］　干し沖縄そば　ゆで": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［中華めん類］　干し沖縄そば　乾": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［中華めん類］　沖縄そば　ゆで": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［中華めん類］　沖縄そば　生": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［中華めん類］　蒸し中華めん　蒸し中華めん": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［即席めん類］　中華スタイル即席カップめん　油揚げ　焼きそば　乾　（添付調味料等を含むもの）": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［即席めん類］　中華スタイル即席カップめん　非油揚げ　乾　（添付調味料等を含むもの）": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［即席めん類］　即席中華めん　油揚げ　乾　（添付調味料等を含まないもの）": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［即席めん類］　即席中華めん　油揚げ　乾　（添付調味料等を含むもの）": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［即席めん類］　即席中華めん　油揚げ味付け": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［即席めん類］　即席中華めん　非油揚げ　乾　（添付調味料等を含まないもの）": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［即席めん類］　即席中華めん　非油揚げ　乾　（添付調味料等を含むもの）": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［即席めん類］　和風スタイル即席カップめん　油揚げ　乾　（添付調味料等を含むもの）": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［小麦粉］　プレミックス粉　お好み焼き用": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［小麦粉］　プレミックス粉　から揚げ用": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［小麦粉］　プレミックス粉　ホットケーキ用": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［小麦粉］　プレミックス粉　天ぷら用": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［小麦粉］　中力粉　1等": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［小麦粉］　中力粉　2等": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［小麦粉］　強力粉　1等": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［小麦粉］　強力粉　2等": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［小麦粉］　強力粉　全粒粉": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［小麦粉］　薄力粉　1等": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［小麦粉］　薄力粉　2等": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［玄穀］　国産　普通": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［玄穀］　輸入　硬質": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こむぎ　［玄穀］　輸入　軟質": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［うるち米製品］　おにぎり": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［うるち米製品］　きりたんぽ": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［うるち米製品］　アルファ化米　一般用": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［うるち米製品］　アルファ化米　学校給食用強化品": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［うるち米製品］　ビーフン": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［うるち米製品］　上新粉": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［うるち米製品］　焼きおにぎり": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［うるち米製品］　玄米粉": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［うるち米製品］　米こうじ": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［うるち米製品］　米粉": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［うるち米製品］　米粉めん": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［うるち米製品］　米粉パン　小麦グルテン不使用のもの": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［その他］　米ぬか": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［もち米製品］　あくまき": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［もち米製品］　もち": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［もち米製品］　白玉粉": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［もち米製品］　赤飯": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［もち米製品］　道明寺粉": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［水稲おもゆ］　七分つき米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［水稲おもゆ］　半つき米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［水稲おもゆ］　玄米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［水稲おもゆ］　精白米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［水稲めし］　はいが精米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［水稲めし］　七分つき米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［水稲めし］　半つき米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［水稲めし］　玄米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［水稲めし］　発芽玄米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［水稲めし］　精白米　うるち米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［水稲めし］　精白米　もち米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［水稲五分かゆ］　七分つき米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［水稲五分かゆ］　半つき米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［水稲五分かゆ］　玄米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［水稲五分かゆ］　精白米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［水稲全かゆ］　七分つき米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［水稲全かゆ］　半つき米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［水稲全かゆ］　玄米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［水稲全かゆ］　精白米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［水稲穀粒］　はいが精米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［水稲穀粒］　七分つき米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［水稲穀粒］　半つき米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［水稲穀粒］　玄米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［水稲穀粒］　発芽玄米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［水稲穀粒］　精白米　うるち米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［水稲穀粒］　精白米　もち米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［水稲穀粒］　精白米　インディカ米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［陸稲めし］　七分つき米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［陸稲めし］　半つき米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［陸稲めし］　玄米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［陸稲めし］　精白米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［陸稲穀粒］　七分つき米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［陸稲穀粒］　半つき米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［陸稲穀粒］　玄米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "こめ　［陸稲穀粒］　精白米": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ごま　いり": {
+    "tax_id": 4182,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ごま　ねり": {
+    "tax_id": 4182,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ごま　むき": {
+    "tax_id": 4182,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ごま　乾": {
+    "tax_id": 4182,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "さくらんぼ　国産　生": {
+    "tax_id": 42229,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "さくらんぼ　米国産　生": {
+    "tax_id": 42229,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "さくらんぼ　米国産　缶詰": {
+    "tax_id": 42229,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ささげ　全粒　ゆで": {
+    "tax_id": 3917,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ささげ　全粒　乾": {
+    "tax_id": 3917,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ざくろ　生": {
+    "tax_id": 22663,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "しい　生": {
+    "tax_id": 114816,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "しいたけ　乾しいたけ　ゆで": {
+    "tax_id": 5353,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "しいたけ　乾しいたけ　乾": {
+    "tax_id": 5353,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "しいたけ　生しいたけ　原木栽培　ゆで": {
+    "tax_id": 5353,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "しいたけ　生しいたけ　原木栽培　油いため": {
+    "tax_id": 5353,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "しいたけ　生しいたけ　原木栽培　生": {
+    "tax_id": 5353,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "しいたけ　生しいたけ　菌床栽培　ゆで": {
+    "tax_id": 5353,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "しいたけ　生しいたけ　菌床栽培　油いため": {
+    "tax_id": 5353,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "しいたけ　生しいたけ　菌床栽培　生": {
+    "tax_id": 5353,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "しかくまめ　若ざや　生": {
+    "tax_id": 3891,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "しそ　実　生": {
+    "tax_id": 179837,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "しそ　葉　生": {
+    "tax_id": 179837,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "じゅうろくささげ　若ざや　ゆで": {
+    "tax_id": 3917,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "じゅうろくささげ　若ざや　生": {
+    "tax_id": 3917,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "じゅんさい　若葉　水煮びん詰": {
+    "tax_id": 4424,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "すいか　いり　味付け": {
+    "tax_id": 3654,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "すいか　赤肉種　生": {
+    "tax_id": 3654,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "すいか　黄肉種　生": {
+    "tax_id": 3654,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "すいぜんじのり　素干し　水戻し": {
+    "tax_id": 1122,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ずいき　干しずいき　ゆで": {
+    "tax_id": 4460,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ずいき　干しずいき　乾": {
+    "tax_id": 4460,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ずいき　生ずいき　ゆで": {
+    "tax_id": 4460,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ずいき　生ずいき　生": {
+    "tax_id": 4460,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "せり　茎葉　ゆで": {
+    "tax_id": 49556,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "せり　茎葉　生": {
+    "tax_id": 49556,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ぜんまい　干しぜんまい　干し若芽　ゆで": {
+    "tax_id": 90693,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ぜんまい　干しぜんまい　干し若芽　乾": {
+    "tax_id": 90693,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ぜんまい　生ぜんまい　若芽　ゆで": {
+    "tax_id": 90693,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ぜんまい　生ぜんまい　若芽　生": {
+    "tax_id": 90693,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "そば　そば　ゆで": {
+    "tax_id": 3617,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "そば　そば　生": {
+    "tax_id": 3617,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "そば　そば米": {
+    "tax_id": 3617,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "そば　そば粉　中層粉": {
+    "tax_id": 3617,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "そば　そば粉　全層粉": {
+    "tax_id": 3617,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "そば　そば粉　内層粉": {
+    "tax_id": 3617,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "そば　そば粉　表層粉": {
+    "tax_id": 3617,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "そば　干しそば　ゆで": {
+    "tax_id": 3617,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "そば　干しそば　乾": {
+    "tax_id": 3617,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "そらまめ　おたふく豆": {
+    "tax_id": 3906,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "そらまめ　しょうゆ豆": {
+    "tax_id": 3906,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "そらまめ　ふき豆": {
+    "tax_id": 3906,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "そらまめ　フライビーンズ": {
+    "tax_id": 3906,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "そらまめ　全粒　乾": {
+    "tax_id": 3906,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "そらまめ　未熟豆　ゆで": {
+    "tax_id": 3906,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "そらまめ　未熟豆　生": {
+    "tax_id": 3906,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "たけのこ　めんま　塩蔵　塩抜き": {
+    "tax_id": 257763,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "たけのこ　水煮缶詰": {
+    "tax_id": 15747,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "たけのこ　若茎　ゆで": {
+    "tax_id": 15747,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "たけのこ　若茎　生": {
+    "tax_id": 15747,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "たもぎたけ　生": {
+    "tax_id": 5321,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "たらのめ　若芽　ゆで": {
+    "tax_id": 82095,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "たらのめ　若芽　生": {
+    "tax_id": 82095,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［その他］　おから　乾燥": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［その他］　おから　生": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［その他］　ひしおみそ": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［その他］　テンペ": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［その他］　大豆たんぱく　分離大豆たんぱく　塩分無調整タイプ": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［その他］　大豆たんぱく　分離大豆たんぱく　塩分調整タイプ": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［その他］　大豆たんぱく　濃縮大豆たんぱく": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［その他］　大豆たんぱく　粒状大豆たんぱく": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［その他］　大豆たんぱく　繊維状大豆たんぱく": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［その他］　湯葉　干し　乾": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［その他］　湯葉　干し　湯戻し": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［その他］　湯葉　生": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［その他］　豆乳　調製豆乳": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［その他］　豆乳　豆乳": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［その他］　豆乳　豆乳飲料・麦芽コーヒー": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［その他］　金山寺みそ": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［全粒・全粒製品］　いり大豆　青大豆": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［全粒・全粒製品］　いり大豆　黄大豆": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［全粒・全粒製品］　いり大豆　黒大豆": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［全粒・全粒製品］　きな粉　青大豆　全粒大豆": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［全粒・全粒製品］　きな粉　黄大豆　全粒大豆": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［全粒・全粒製品］　きな粉　黄大豆　脱皮大豆": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［全粒・全粒製品］　ぶどう豆": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［全粒・全粒製品］　全粒　黄大豆　ブラジル産　乾": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［全粒・全粒製品］　全粒　黄大豆　中国産　乾": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［全粒・全粒製品］　全粒　黄大豆　国産　ゆで": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［全粒・全粒製品］　全粒　黄大豆　国産　乾": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［全粒・全粒製品］　全粒　黄大豆　米国産　乾": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［全粒・全粒製品］　全粒　黒大豆　国産　乾": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［全粒・全粒製品］　大豆はいが": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［全粒・全粒製品］　水煮缶詰　黄大豆": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［全粒・全粒製品］　蒸し大豆　黄大豆": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［納豆類］　五斗納豆": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［納豆類］　寺納豆": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［納豆類］　挽きわり納豆": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［納豆類］　糸引き納豆": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［豆腐・油揚げ類］　がんもどき": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［豆腐・油揚げ類］　ゆし豆腐": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［豆腐・油揚げ類］　ろくじょう豆腐": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［豆腐・油揚げ類］　ソフト豆腐": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［豆腐・油揚げ類］　充てん豆腐": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［豆腐・油揚げ類］　凍り豆腐　乾": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［豆腐・油揚げ類］　凍り豆腐　水煮": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［豆腐・油揚げ類］　木綿豆腐": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［豆腐・油揚げ類］　沖縄豆腐": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［豆腐・油揚げ類］　油揚げ　油抜き　ゆで": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［豆腐・油揚げ類］　油揚げ　油抜き　焼き": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［豆腐・油揚げ類］　油揚げ　油抜き　生": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［豆腐・油揚げ類］　油揚げ　生": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［豆腐・油揚げ類］　焼き豆腐": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［豆腐・油揚げ類］　生揚げ": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［豆腐・油揚げ類］　絹ごし豆腐": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［豆腐・油揚げ類］　豆腐よう": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［豆腐・油揚げ類］　豆腐竹輪　焼き": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "だいず　［豆腐・油揚げ類］　豆腐竹輪　蒸し": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "つくし　胞子茎　ゆで": {
+    "tax_id": 3258,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "つくし　胞子茎　生": {
+    "tax_id": 3258,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "つるあずき　全粒　ゆで": {
+    "tax_id": 87088,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "つるあずき　全粒　乾": {
+    "tax_id": 87088,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "つるな　茎葉　生": {
+    "tax_id": 45318,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "つわぶき　葉柄　ゆで": {
+    "tax_id": 186951,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "つわぶき　葉柄　生": {
+    "tax_id": 186951,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "てんぐさ　ところてん": {
+    "tax_id": 37200,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "てんぐさ　寒天": {
+    "tax_id": 37200,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "てんぐさ　粉寒天": {
+    "tax_id": 37200,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "てんぐさ　素干し": {
+    "tax_id": 37200,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "てんぐさ　角寒天": {
+    "tax_id": 37200,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "とうがらし　果実　乾": {
+    "tax_id": 4072,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "とうがらし　果実　生": {
+    "tax_id": 4072,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "とうがらし　葉･果実　油いため": {
+    "tax_id": 4072,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "とうがらし　葉･果実　生": {
+    "tax_id": 4072,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "とうがん　果実　ゆで": {
+    "tax_id": 102211,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "とうがん　果実　生": {
+    "tax_id": 102211,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "とうもろこし　コーングリッツ　白色種": {
+    "tax_id": 4577,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "とうもろこし　コーングリッツ　黄色種": {
+    "tax_id": 4577,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "とうもろこし　コーンフラワー　白色種": {
+    "tax_id": 4577,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "とうもろこし　コーンフラワー　黄色種": {
+    "tax_id": 4577,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "とうもろこし　コーンフレーク": {
+    "tax_id": 4577,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "とうもろこし　コーンミール　白色種": {
+    "tax_id": 4577,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "とうもろこし　コーンミール　黄色種": {
+    "tax_id": 4577,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "とうもろこし　ジャイアントコーン　フライ　味付け": {
+    "tax_id": 4577,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "とうもろこし　ポップコーン": {
+    "tax_id": 4577,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "とうもろこし　玄穀　白色種": {
+    "tax_id": 4577,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "とうもろこし　玄穀　黄色種": {
+    "tax_id": 4577,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "とさかのり　赤とさか　塩蔵　塩抜き": {
+    "tax_id": 88428,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "とさかのり　青とさか　塩蔵　塩抜き": {
+    "tax_id": 88428,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "とち　蒸し": {
+    "tax_id": 83375,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "とんぶり　ゆで": {
+    "tax_id": 83154,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "なずな　葉　生": {
+    "tax_id": 3719,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "なつめ　乾": {
+    "tax_id": 326968,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "なつめやし　乾": {
+    "tax_id": 42345,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "なめこ　株採り　ゆで": {
+    "tax_id": 1538424,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "なめこ　株採り　生": {
+    "tax_id": 1538424,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "なめこ　水煮缶詰": {
+    "tax_id": 1538424,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "にがうり　果実　油いため": {
+    "tax_id": 3673,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "にがうり　果実　生": {
+    "tax_id": 3673,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ぬめりすぎたけ　生": {
+    "tax_id": 64639,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "のびる　りん茎葉　生": {
+    "tax_id": 91198,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "はす　成熟　ゆで": {
+    "tax_id": 4432,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "はす　成熟　乾": {
+    "tax_id": 4432,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "はす　未熟　生": {
+    "tax_id": 4432,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "はとむぎ　精白粒": {
+    "tax_id": 714458,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "はやとうり　果実　白色種　塩漬": {
+    "tax_id": 184139,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "はやとうり　果実　白色種　生": {
+    "tax_id": 184139,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "はやとうり　果実　緑色種　生": {
+    "tax_id": 184139,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ひえ　精白粒": {
+    "tax_id": 121770,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ひじき　ほしひじき　ステンレス釜　ゆで": {
+    "tax_id": 590727,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ひじき　ほしひじき　ステンレス釜　乾": {
+    "tax_id": 590727,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ひじき　ほしひじき　ステンレス釜　油いため": {
+    "tax_id": 590727,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ひじき　ほしひじき　鉄釜　ゆで": {
+    "tax_id": 590727,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ひじき　ほしひじき　鉄釜　乾": {
+    "tax_id": 590727,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ひじき　ほしひじき　鉄釜　油いため": {
+    "tax_id": 590727,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ひとえぐさ　つくだ煮": {
+    "tax_id": 138667,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ひとえぐさ　素干し": {
+    "tax_id": 138667,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ひまわり　フライ　味付け": {
+    "tax_id": 4232,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ひよこまめ　全粒　ゆで": {
+    "tax_id": 3827,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ひよこまめ　全粒　フライ　味付け": {
+    "tax_id": 3827,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ひよこまめ　全粒　乾": {
+    "tax_id": 3827,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "びわ　生": {
+    "tax_id": 32224,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "びわ　缶詰": {
+    "tax_id": 32224,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ふじまめ　若ざや　生": {
+    "tax_id": 35936,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ふだんそう　葉　ゆで": {
+    "tax_id": 1527200,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ふだんそう　葉　生": {
+    "tax_id": 1527200,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ふのり　素干し": {
+    "tax_id": 2823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "へちま　果実　ゆで": {
+    "tax_id": 1134398,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "へちま　果実　生": {
+    "tax_id": 1134398,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "べにばないんげん　全粒　ゆで": {
+    "tax_id": 3886,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "べにばないんげん　全粒　乾": {
+    "tax_id": 3886,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ほうれんそう　葉　冬採り　ゆで": {
+    "tax_id": 3562,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ほうれんそう　葉　冬採り　生": {
+    "tax_id": 3562,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ほうれんそう　葉　冷凍": {
+    "tax_id": 3562,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ほうれんそう　葉　夏採り　ゆで": {
+    "tax_id": 3562,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ほうれんそう　葉　夏採り　生": {
+    "tax_id": 3562,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ほうれんそう　葉　通年平均　ゆで": {
+    "tax_id": 3562,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ほうれんそう　葉　通年平均　油いため": {
+    "tax_id": 3562,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ほうれんそう　葉　通年平均　生": {
+    "tax_id": 3562,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "まいたけ　ゆで": {
+    "tax_id": 5627,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "まいたけ　乾": {
+    "tax_id": 5627,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "まいたけ　油いため": {
+    "tax_id": 5627,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "まいたけ　生": {
+    "tax_id": 5627,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "まくわうり　白肉種　生": {
+    "tax_id": 3656,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "まくわうり　黄肉種　生": {
+    "tax_id": 3656,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "まこも　茎　生": {
+    "tax_id": 58934,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "まつ　いり": {
+    "tax_id": 88728,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "まつ　生": {
+    "tax_id": 88728,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "まつたけ　生": {
+    "tax_id": 40145,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "まつも　素干し": {
+    "tax_id": 31333,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "むかご　肉芽　生": {
+    "tax_id": 55575,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "むかでのり　塩蔵　塩抜き": {
+    "tax_id": 151735,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "めたで　芽ばえ　生": {
+    "tax_id": 46901,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "もろこし　玄穀": {
+    "tax_id": 4558,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "もろこし　精白粒": {
+    "tax_id": 4558,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "やまもも　生": {
+    "tax_id": 3044216,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ようさい　茎葉　ゆで": {
+    "tax_id": 89636,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ようさい　茎葉　生": {
+    "tax_id": 89636,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "よめな　葉　生": {
+    "tax_id": 212788,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "よもぎ　葉　ゆで": {
+    "tax_id": 1242858,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "よもぎ　葉　生": {
+    "tax_id": 1242858,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "らいまめ　全粒　ゆで": {
+    "tax_id": 3884,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "らいまめ　全粒　乾": {
+    "tax_id": 3884,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "らっかせい　バターピーナッツ": {
+    "tax_id": 3818,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "らっかせい　ピーナッツバター": {
+    "tax_id": 3818,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "らっかせい　大粒種　いり": {
+    "tax_id": 3818,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "らっかせい　大粒種　乾": {
+    "tax_id": 3818,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "らっかせい　小粒種　いり": {
+    "tax_id": 3818,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "らっかせい　小粒種　乾": {
+    "tax_id": 3818,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "らっかせい　未熟豆　ゆで": {
+    "tax_id": 3818,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "らっかせい　未熟豆　生": {
+    "tax_id": 3818,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "りゅうがん　乾": {
+    "tax_id": 128017,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "りょくとう　全粒　ゆで": {
+    "tax_id": 157791,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "りょくとう　全粒　乾": {
+    "tax_id": 157791,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "りんご　ジャム": {
+    "tax_id": 283210,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "りんご　果実飲料　30%果汁入り飲料": {
+    "tax_id": 283210,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "りんご　果実飲料　50%果汁入り飲料": {
+    "tax_id": 283210,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "りんご　果実飲料　ストレートジュース": {
+    "tax_id": 283210,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "りんご　果実飲料　濃縮還元ジュース": {
+    "tax_id": 283210,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "りんご　皮つき　生": {
+    "tax_id": 283210,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "りんご　皮なし　生": {
+    "tax_id": 283210,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "りんご　缶詰": {
+    "tax_id": 283210,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "れんこん　根茎　ゆで": {
+    "tax_id": 4432,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "れんこん　根茎　生": {
+    "tax_id": 4432,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "わかめ　くきわかめ　湯通し塩蔵　塩抜き": {
+    "tax_id": 74381,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "わかめ　めかぶわかめ　生": {
+    "tax_id": 74381,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "わかめ　カットわかめ　乾": {
+    "tax_id": 74381,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "わかめ　乾燥わかめ　板わかめ": {
+    "tax_id": 74381,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "わかめ　乾燥わかめ　灰干し　水戻し": {
+    "tax_id": 74381,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "わかめ　乾燥わかめ　素干し": {
+    "tax_id": 74381,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "わかめ　乾燥わかめ　素干し　水戻し": {
+    "tax_id": 74381,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "わかめ　原藻　生": {
+    "tax_id": 74381,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "わかめ　湯通し塩蔵わかめ　塩抜き　生": {
+    "tax_id": 74381,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "わらび　干しわらび　乾": {
+    "tax_id": 32101,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "わらび　生わらび　ゆで": {
+    "tax_id": 32101,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "わらび　生わらび　生": {
+    "tax_id": 32101,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "アスパラガス　水煮缶詰": {
+    "tax_id": 4686,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "アスパラガス　若茎　ゆで": {
+    "tax_id": 4686,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "アスパラガス　若茎　油いため": {
+    "tax_id": 4686,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "アスパラガス　若茎　生": {
+    "tax_id": 4686,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "アセロラ　果実飲料　10%果汁入り飲料": {
+    "tax_id": 71611,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "アセロラ　甘味種　生": {
+    "tax_id": 71611,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "アセロラ　酸味種　生": {
+    "tax_id": 71611,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "アテモヤ　生": {
+    "tax_id": 169284,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "アボカド　生": {
+    "tax_id": 3435,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "アーティチョーク　花らい　ゆで": {
+    "tax_id": 4264,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "アーティチョーク　花らい　生": {
+    "tax_id": 4264,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "アーモンド　いり　無塩": {
+    "tax_id": 3755,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "アーモンド　フライ　味付け": {
+    "tax_id": 3755,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "アーモンド　乾": {
+    "tax_id": 3755,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "エンダイブ　葉　生": {
+    "tax_id": 114280,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "オクラ　果実　ゆで": {
+    "tax_id": 455045,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "オクラ　果実　生": {
+    "tax_id": 455045,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "オリーブ　塩漬　グリーンオリーブ": {
+    "tax_id": 4146,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "オリーブ　塩漬　スタッフドオリーブ": {
+    "tax_id": 4146,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "オリーブ　塩漬　ブラックオリーブ": {
+    "tax_id": 4146,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "カシューナッツ　フライ　味付け": {
+    "tax_id": 171929,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "キワノ　生": {
+    "tax_id": 61886,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "キンサイ　茎葉　ゆで": {
+    "tax_id": 4045,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "キンサイ　茎葉　生": {
+    "tax_id": 4045,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "クレソン　茎葉　生": {
+    "tax_id": 65948,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "グァバ　果実飲料　10%果汁入り飲料": {
+    "tax_id": 120290,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "グァバ　果実飲料　20%果汁入り飲料　（ネクター）": {
+    "tax_id": 120290,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "グァバ　白肉種　生": {
+    "tax_id": 120290,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "グァバ　赤肉種　生": {
+    "tax_id": 120290,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ココナッツ　ココナッツウォーター": {
+    "tax_id": 13894,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ココナッツ　ココナッツパウダー": {
+    "tax_id": 13894,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ココナッツ　ココナッツミルク": {
+    "tax_id": 13894,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ココナッツ　ナタデココ": {
+    "tax_id": 13894,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ザーサイ　漬物": {
+    "tax_id": 323352,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "スターフルーツ　生": {
+    "tax_id": 28974,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "セロリ　葉柄　生": {
+    "tax_id": 4045,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "チェリモヤ　生": {
+    "tax_id": 49314,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "チコリ　若芽　生": {
+    "tax_id": 13427,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "トレビス　葉　生": {
+    "tax_id": 13427,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ドラゴンフルーツ　生": {
+    "tax_id": 154422,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ドリアン　生": {
+    "tax_id": 66656,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ハスカップ　生": {
+    "tax_id": 134520,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "バジル　葉　生": {
+    "tax_id": 39350,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "パインアップル　果実飲料　10%果汁入り飲料": {
+    "tax_id": 4615,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "パインアップル　果実飲料　50%果汁入り飲料": {
+    "tax_id": 4615,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "パインアップル　果実飲料　ストレートジュース": {
+    "tax_id": 4615,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "パインアップル　果実飲料　濃縮還元ジュース": {
+    "tax_id": 4615,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "パインアップル　生": {
+    "tax_id": 4615,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "パインアップル　砂糖漬": {
+    "tax_id": 4615,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "パインアップル　缶詰": {
+    "tax_id": 4615,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "パセリ　葉　生": {
+    "tax_id": 4043,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "パッションフルーツ　果汁　生": {
+    "tax_id": 78168,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "パパイア　完熟　生": {
+    "tax_id": 3649,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "パパイア　未熟　生": {
+    "tax_id": 3649,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ピスタチオ　いり　味付け": {
+    "tax_id": 55513,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ブラジルナッツ　フライ　味付け": {
+    "tax_id": 3645,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ヘーゼルナッツ　フライ　味付け": {
+    "tax_id": 13451,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ペカン　フライ　味付け": {
+    "tax_id": 32201,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ホワイトサポテ　生": {
+    "tax_id": 68535,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ホースラディシュ　根茎　生": {
+    "tax_id": 3704,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "マカダミアナッツ　いり　味付け": {
+    "tax_id": 60698,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "マッシュルーム　ゆで": {
+    "tax_id": 5341,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "マッシュルーム　水煮缶詰": {
+    "tax_id": 5341,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "マッシュルーム　油いため": {
+    "tax_id": 5341,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "マッシュルーム　生": {
+    "tax_id": 5341,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "マルメロ　生": {
+    "tax_id": 36610,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "マンゴスチン　生": {
+    "tax_id": 58228,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "マンゴー　生": {
+    "tax_id": 29780,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "メロン　温室メロン　生": {
+    "tax_id": 3656,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "メロン　露地メロン　緑肉種　生": {
+    "tax_id": 3656,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "メロン　露地メロン　赤肉種　生": {
+    "tax_id": 3656,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "モロヘイヤ　茎葉　ゆで": {
+    "tax_id": 93759,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "モロヘイヤ　茎葉　生": {
+    "tax_id": 93759,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ライむぎ　ライ麦粉": {
+    "tax_id": 4550,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ライむぎ　全粒粉": {
+    "tax_id": 4550,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ライチー　生": {
+    "tax_id": 151069,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ラズベリー　生": {
+    "tax_id": 32247,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ルッコラ　葉　生": {
+    "tax_id": 180536,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ルバーブ　葉柄　ゆで": {
+    "tax_id": 3621,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "ルバーブ　葉柄　生": {
+    "tax_id": 3621,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "レンズまめ　全粒　ゆで": {
+    "tax_id": 3864,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "レンズまめ　全粒　乾": {
+    "tax_id": 3864,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "鶏卵　たまご焼　だし巻きたまご": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "鶏卵　たまご焼　厚焼きたまご": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "鶏卵　たまご豆腐": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "鶏卵　全卵　ゆで": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "鶏卵　全卵　ポーチドエッグ": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "鶏卵　全卵　乾燥全卵": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "鶏卵　全卵　加糖全卵": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "鶏卵　全卵　水煮缶詰": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "鶏卵　全卵　生": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "鶏卵　卵白　ゆで": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "鶏卵　卵白　乾燥卵白": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "鶏卵　卵白　生": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "鶏卵　卵黄　ゆで": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "鶏卵　卵黄　乾燥卵黄": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "鶏卵　卵黄　加糖卵黄": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "鶏卵　卵黄　生": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（うど類）　うど　茎　水さらし": {
+    "tax_id": 29746,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（うど類）　うど　茎　生": {
+    "tax_id": 29746,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（うど類）　やまうど　茎　生": {
+    "tax_id": 29746,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（えんどう類）　さやえんどう　若ざや　ゆで": {
+    "tax_id": 3888,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（えんどう類）　さやえんどう　若ざや　生": {
+    "tax_id": 3888,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（えんどう類）　グリンピース　ゆで": {
+    "tax_id": 3888,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（えんどう類）　グリンピース　冷凍": {
+    "tax_id": 3888,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（えんどう類）　グリンピース　水煮缶詰": {
+    "tax_id": 3888,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（えんどう類）　グリンピース　生": {
+    "tax_id": 3888,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（えんどう類）　スナップえんどう　若ざや　生": {
+    "tax_id": 3888,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（えんどう類）　トウミョウ　芽ばえ　ゆで": {
+    "tax_id": 3888,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（えんどう類）　トウミョウ　芽ばえ　油いため": {
+    "tax_id": 3888,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（えんどう類）　トウミョウ　芽ばえ　生": {
+    "tax_id": 3888,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（えんどう類）　トウミョウ　茎葉　生": {
+    "tax_id": 3888,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かぼちゃ類）　そうめんかぼちゃ　果実　生": {
+    "tax_id": 3663,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かぼちゃ類）　日本かぼちゃ　果実　ゆで": {
+    "tax_id": 3662,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かぼちゃ類）　日本かぼちゃ　果実　生": {
+    "tax_id": 3662,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かぼちゃ類）　西洋かぼちゃ　果実　ゆで": {
+    "tax_id": 3661,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かぼちゃ類）　西洋かぼちゃ　果実　冷凍": {
+    "tax_id": 3661,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かぼちゃ類）　西洋かぼちゃ　果実　焼き": {
+    "tax_id": 3661,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かぼちゃ類）　西洋かぼちゃ　果実　生": {
+    "tax_id": 3661,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　いよかん　砂じょう　生": {
+    "tax_id": 79217,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　うんしゅうみかん　じょうのう　早生　生": {
+    "tax_id": 55188,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　うんしゅうみかん　じょうのう　普通　生": {
+    "tax_id": 55188,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　うんしゅうみかん　果実飲料　20%果汁入り飲料": {
+    "tax_id": 55188,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　うんしゅうみかん　果実飲料　50%果汁入り飲料": {
+    "tax_id": 55188,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　うんしゅうみかん　果実飲料　ストレートジュース": {
+    "tax_id": 55188,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　うんしゅうみかん　果実飲料　果粒入りジュース": {
+    "tax_id": 55188,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　うんしゅうみかん　果実飲料　濃縮還元ジュース": {
+    "tax_id": 55188,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　うんしゅうみかん　砂じょう　早生　生": {
+    "tax_id": 55188,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　うんしゅうみかん　砂じょう　普通　生": {
+    "tax_id": 55188,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　うんしゅうみかん　缶詰　果肉": {
+    "tax_id": 55188,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　うんしゅうみかん　缶詰　液汁": {
+    "tax_id": 55188,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　かぼす　果汁　生": {
+    "tax_id": 650012,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　かわちばんかん　砂じょう　生": {
+    "tax_id": 37334,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　きよみ　砂じょう　生": {
+    "tax_id": 2834875,
+    "score": 0.7631456851959229,
+    "source": "pseudo"
+  },
+  "（かんきつ類）　きんかん　全果　生": {
+    "tax_id": 408488,
+    "score": 0.7651858925819397,
+    "source": "pseudo"
+  },
+  "（かんきつ類）　さんぼうかん　砂じょう　生": {
+    "tax_id": 237573,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　しらぬひ　砂じょう　生": {
+    "tax_id": 2834875,
+    "score": 0.7630550861358643,
+    "source": "pseudo"
+  },
+  "（かんきつ類）　すだち　果汁　生": {
+    "tax_id": 558546,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　すだち　果皮　生": {
+    "tax_id": 558546,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　せとか　砂じょう　生": {
+    "tax_id": 2834875,
+    "score": 0.7662581205368042,
+    "source": "pseudo"
+  },
+  "（かんきつ類）　だいだい　果汁　生": {
+    "tax_id": 43166,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　なつみかん　砂じょう　生": {
+    "tax_id": 109792,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　なつみかん　缶詰": {
+    "tax_id": 109792,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　はっさく　砂じょう　生": {
+    "tax_id": 488171,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　はるみ　砂じょう　生": {
+    "tax_id": 2834875,
+    "score": 0.780635416507721,
+    "source": "pseudo"
+  },
+  "（かんきつ類）　ひゅうがなつ　じょうのう及びアルベド　生": {
+    "tax_id": 488172,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　ひゅうがなつ　砂じょう　生": {
+    "tax_id": 488172,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　ぶんたん　ざぼん漬": {
+    "tax_id": 37334,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　ぶんたん　砂じょう　生": {
+    "tax_id": 37334,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　ぽんかん　砂じょう　生": {
+    "tax_id": 85571,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　ゆず　果汁　生": {
+    "tax_id": 135197,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　ゆず　果皮　生": {
+    "tax_id": 135197,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　オレンジ　ネーブル　砂じょう　生": {
+    "tax_id": 2711,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　オレンジ　バレンシア　マーマレード　低糖度": {
+    "tax_id": 2711,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　オレンジ　バレンシア　マーマレード　高糖度": {
+    "tax_id": 2711,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　オレンジ　バレンシア　果実飲料　30%果汁入り飲料": {
+    "tax_id": 2711,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　オレンジ　バレンシア　果実飲料　50%果汁入り飲料": {
+    "tax_id": 2711,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　オレンジ　バレンシア　果実飲料　ストレートジュース": {
+    "tax_id": 2711,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　オレンジ　バレンシア　果実飲料　濃縮還元ジュース": {
+    "tax_id": 2711,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　オレンジ　バレンシア　米国産　砂じょう　生": {
+    "tax_id": 2711,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　オレンジ　福原オレンジ　砂じょう　生": {
+    "tax_id": 2711,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　オロブランコ　砂じょう　生": {
+    "tax_id": 2834875,
+    "score": 0.7515988349914551,
+    "source": "pseudo"
+  },
+  "（かんきつ類）　グレープフルーツ　果実飲料　50%果汁入り飲料": {
+    "tax_id": 1008980,
+    "score": 0.7517838478088379,
+    "source": "pseudo"
+  },
+  "（かんきつ類）　グレープフルーツ　紅肉種　砂じょう　生": {
+    "tax_id": 1008980,
+    "score": 0.7557235956192017,
+    "source": "pseudo"
+  },
+  "（かんきつ類）　グレープフルーツ　缶詰": {
+    "tax_id": 1008980,
+    "score": 0.7635474801063538,
+    "source": "pseudo"
+  },
+  "（かんきつ類）　シークヮーサー　果実飲料　10%果汁入り飲料": {
+    "tax_id": 697036,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　シークヮーサー　果汁　生": {
+    "tax_id": 697036,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（かんきつ類）　ライム　果汁　生": {
+    "tax_id": 2711,
+    "score": 0.7625154256820679,
+    "source": "pseudo"
+  },
+  "（かんきつ類）　レモン　全果　生": {
+    "tax_id": 2711,
+    "score": 0.759869396686554,
+    "source": "pseudo"
+  },
+  "（かんきつ類）　レモン　果汁　生": {
+    "tax_id": 2711,
+    "score": 0.7604503631591797,
+    "source": "pseudo"
+  },
+  "（きくらげ類）　あらげきくらげ　ゆで": {
+    "tax_id": 29893,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（きくらげ類）　あらげきくらげ　乾": {
+    "tax_id": 29893,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（きくらげ類）　あらげきくらげ　油いため": {
+    "tax_id": 29893,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（きくらげ類）　きくらげ　ゆで": {
+    "tax_id": 29892,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（きくらげ類）　きくらげ　乾": {
+    "tax_id": 29892,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（きくらげ類）　しろきくらげ　ゆで": {
+    "tax_id": 64657,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（きくらげ類）　しろきくらげ　乾": {
+    "tax_id": 64657,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（くり類）　中国ぐり　甘ぐり": {
+    "tax_id": 60419,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（くり類）　日本ぐり　ゆで": {
+    "tax_id": 103480,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（くり類）　日本ぐり　甘露煮": {
+    "tax_id": 103480,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（くり類）　日本ぐり　生": {
+    "tax_id": 103480,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（こんぶ類）　えながおにこんぶ　素干し": {
+    "tax_id": 416837,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（こんぶ類）　がごめこんぶ　素干し": {
+    "tax_id": 416830,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（こんぶ類）　ながこんぶ　素干し": {
+    "tax_id": 416841,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（こんぶ類）　ほそめこんぶ　素干し": {
+    "tax_id": 88150,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（こんぶ類）　まこんぶ　素干し　乾": {
+    "tax_id": 88149,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（こんぶ類）　みついしこんぶ　素干し": {
+    "tax_id": 88154,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（こんぶ類）　りしりこんぶ　素干し": {
+    "tax_id": 416842,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ごぼう類）　ごぼう　根　ゆで": {
+    "tax_id": 4217,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ごぼう類）　ごぼう　根　生": {
+    "tax_id": 4217,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ししとう類）　ししとう　果実　油いため": {
+    "tax_id": 4072,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ししとう類）　ししとう　果実　生": {
+    "tax_id": 4072,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（しめじ類）　はたけしめじ　ゆで": {
+    "tax_id": 64660,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（しめじ類）　はたけしめじ　生": {
+    "tax_id": 64660,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（しめじ類）　ぶなしめじ　ゆで": {
+    "tax_id": 39966,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（しめじ類）　ぶなしめじ　油いため": {
+    "tax_id": 39966,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（しめじ類）　ぶなしめじ　生": {
+    "tax_id": 39966,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（しめじ類）　ほんしめじ　ゆで": {
+    "tax_id": 47721,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（しめじ類）　ほんしめじ　生": {
+    "tax_id": 47721,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（しょうが類）　しょうが　根茎　皮なし　生": {
+    "tax_id": 94328,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（しょうが類）　しょうが　漬物　甘酢漬": {
+    "tax_id": 94328,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（しょうが類）　しょうが　漬物　酢漬": {
+    "tax_id": 94328,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（しょうが類）　葉しょうが　根茎　生": {
+    "tax_id": 94328,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（すぐり類）　グーズベリー　生": {
+    "tax_id": 135518,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（すもも類）　にほんすもも　生": {
+    "tax_id": 88123,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（すもも類）　プルーン　乾": {
+    "tax_id": 3758,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（すもも類）　プルーン　生": {
+    "tax_id": 3758,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（たまねぎ類）　たまねぎ　りん茎　ゆで": {
+    "tax_id": 4679,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（たまねぎ類）　たまねぎ　りん茎　水さらし": {
+    "tax_id": 4679,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（たまねぎ類）　たまねぎ　りん茎　油いため": {
+    "tax_id": 4679,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（たまねぎ類）　たまねぎ　りん茎　生": {
+    "tax_id": 4679,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（たまねぎ類）　葉たまねぎ　りん茎及び葉　生": {
+    "tax_id": 4679,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（たまねぎ類）　赤たまねぎ　りん茎　生": {
+    "tax_id": 4679,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（なし類）　中国なし　生": {
+    "tax_id": 3766,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（なし類）　日本なし　生": {
+    "tax_id": 3767,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（なし類）　日本なし　缶詰": {
+    "tax_id": 3767,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（なし類）　西洋なし　生": {
+    "tax_id": 23211,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（なし類）　西洋なし　缶詰": {
+    "tax_id": 23211,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（なす類）　なす　果実　ゆで": {
+    "tax_id": 3162873,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（なす類）　なす　果実　天ぷら": {
+    "tax_id": 3162873,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（なす類）　なす　果実　油いため": {
+    "tax_id": 3162873,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（なす類）　なす　果実　生": {
+    "tax_id": 3162873,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（なす類）　べいなす　果実　生": {
+    "tax_id": 3162873,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（なす類）　べいなす　果実　素揚げ": {
+    "tax_id": 3162873,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（なす類）　漬物　からし漬": {
+    "tax_id": 3162873,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（なす類）　漬物　こうじ漬": {
+    "tax_id": 3162873,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（なす類）　漬物　しば漬": {
+    "tax_id": 3162873,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（なす類）　漬物　ぬかみそ漬": {
+    "tax_id": 3162873,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（なす類）　漬物　塩漬": {
+    "tax_id": 3162873,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（なばな類）　洋種なばな　茎葉　ゆで": {
+    "tax_id": 3708,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（なばな類）　洋種なばな　茎葉　生": {
+    "tax_id": 3708,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（にら類）　にら　葉　ゆで": {
+    "tax_id": 4683,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（にら類）　にら　葉　油いため": {
+    "tax_id": 4683,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（にら類）　にら　葉　生": {
+    "tax_id": 4683,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（にら類）　花にら　花茎・花らい　生": {
+    "tax_id": 4683,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（にら類）　黄にら　葉　生": {
+    "tax_id": 4683,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（にんじん類）　きんとき　根　皮つき　ゆで": {
+    "tax_id": 4039,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（にんじん類）　きんとき　根　皮つき　生": {
+    "tax_id": 4039,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（にんじん類）　きんとき　根　皮なし　ゆで": {
+    "tax_id": 4039,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（にんじん類）　きんとき　根　皮なし　生": {
+    "tax_id": 4039,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（にんじん類）　にんじん　グラッセ": {
+    "tax_id": 4039,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（にんじん類）　にんじん　ジュース　缶詰": {
+    "tax_id": 4039,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（にんじん類）　にんじん　根　冷凍": {
+    "tax_id": 4039,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（にんじん類）　にんじん　根　皮　生": {
+    "tax_id": 4039,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（にんじん類）　にんじん　根　皮つき　ゆで": {
+    "tax_id": 4039,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（にんじん類）　にんじん　根　皮つき　生": {
+    "tax_id": 4039,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（にんじん類）　にんじん　根　皮なし　ゆで": {
+    "tax_id": 4039,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（にんじん類）　にんじん　根　皮なし　油いため": {
+    "tax_id": 4039,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（にんじん類）　にんじん　根　皮なし　生": {
+    "tax_id": 4039,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（にんじん類）　にんじん　根　皮なし　素揚げ": {
+    "tax_id": 4039,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（にんじん類）　ミニキャロット　根　生": {
+    "tax_id": 4039,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（にんじん類）　葉にんじん　葉　生": {
+    "tax_id": 4039,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（にんにく類）　にんにく　りん茎　油いため": {
+    "tax_id": 4682,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（にんにく類）　にんにく　りん茎　生": {
+    "tax_id": 4682,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（にんにく類）　茎にんにく　花茎　ゆで": {
+    "tax_id": 4682,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（にんにく類）　茎にんにく　花茎　生": {
+    "tax_id": 4682,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ねぎ類）　こねぎ　葉　生": {
+    "tax_id": 35875,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ねぎ類）　根深ねぎ　葉　軟白　ゆで": {
+    "tax_id": 35875,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ねぎ類）　根深ねぎ　葉　軟白　油いため": {
+    "tax_id": 35875,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ねぎ類）　根深ねぎ　葉　軟白　生": {
+    "tax_id": 35875,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ねぎ類）　葉ねぎ　葉　油いため": {
+    "tax_id": 35875,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ねぎ類）　葉ねぎ　葉　生": {
+    "tax_id": 35875,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ひし類）　ひし　生": {
+    "tax_id": 363523,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ひらたけ類）　うすひらたけ　生": {
+    "tax_id": 28995,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ひらたけ類）　ひらたけ　ゆで": {
+    "tax_id": 5322,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ひらたけ類）　ひらたけ　生": {
+    "tax_id": 5322,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ひらたけ類）　エリンギ　ゆで": {
+    "tax_id": 5323,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ひらたけ類）　エリンギ　油いため": {
+    "tax_id": 5323,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ひらたけ類）　エリンギ　焼き": {
+    "tax_id": 5323,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ひらたけ類）　エリンギ　生": {
+    "tax_id": 5323,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ふき類）　ふき　葉柄　ゆで": {
+    "tax_id": 186965,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ふき類）　ふき　葉柄　生": {
+    "tax_id": 186965,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ふき類）　ふきのとう　花序　ゆで": {
+    "tax_id": 186965,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ふき類）　ふきのとう　花序　生": {
+    "tax_id": 186965,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（みつば類）　切りみつば　葉　ゆで": {
+    "tax_id": 54828,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（みつば類）　切りみつば　葉　生": {
+    "tax_id": 54828,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（みつば類）　根みつば　葉　ゆで": {
+    "tax_id": 54828,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（みつば類）　根みつば　葉　生": {
+    "tax_id": 54828,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（みつば類）　糸みつば　葉　ゆで": {
+    "tax_id": 54828,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（みつば類）　糸みつば　葉　生": {
+    "tax_id": 54828,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（みょうが類）　みょうが　花穂　生": {
+    "tax_id": 136225,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（みょうが類）　みょうがたけ　茎葉　生": {
+    "tax_id": 136225,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（もずく類）　おきなわもずく　塩蔵　塩抜き": {
+    "tax_id": 309737,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（もずく類）　もずく　塩蔵　塩抜き": {
+    "tax_id": 2185085,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（もも類）　もも　果実飲料　30%果汁入り飲料　（ネクター）": {
+    "tax_id": 3760,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（もも類）　もも　白肉種　生": {
+    "tax_id": 3760,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（もも類）　もも　缶詰　液汁": {
+    "tax_id": 3760,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（もも類）　もも　缶詰　白肉種　果肉": {
+    "tax_id": 3760,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（もも類）　もも　缶詰　黄肉種　果肉": {
+    "tax_id": 3760,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（もも類）　ネクタリン　生": {
+    "tax_id": 3760,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（もやし類）　だいずもやし　ゆで": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（もやし類）　だいずもやし　生": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（もやし類）　りょくとうもやし　ゆで": {
+    "tax_id": 157791,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（もやし類）　りょくとうもやし　生": {
+    "tax_id": 157791,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（もやし類）　アルファルファもやし　生": {
+    "tax_id": 3879,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（もやし類）　ブラックマッペもやし　ゆで": {
+    "tax_id": 3915,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（もやし類）　ブラックマッペもやし　生": {
+    "tax_id": 3915,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（らっきょう類）　らっきょう　りん茎　生": {
+    "tax_id": 130426,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（らっきょう類）　らっきょう　甘酢漬": {
+    "tax_id": 130426,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（らっきょう類）　エシャレット　りん茎　生": {
+    "tax_id": 130426,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（トマト類）　加工品　トマトジュース　食塩添加": {
+    "tax_id": 12270,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（トマト類）　加工品　トマトジュース　食塩無添加": {
+    "tax_id": 12270,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（トマト類）　加工品　ホール　食塩無添加": {
+    "tax_id": 12270,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（トマト類）　加工品　ミックスジュース　食塩添加": {
+    "tax_id": 12270,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（トマト類）　加工品　ミックスジュース　食塩無添加": {
+    "tax_id": 12270,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（トマト類）　赤色トマト　果実　生": {
+    "tax_id": 12270,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（トマト類）　赤色ミニトマト　果実　生": {
+    "tax_id": 12270,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（バター類）　無発酵バター　有塩バター": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（バター類）　無発酵バター　食塩不使用バター": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（バター類）　発酵バター　有塩バター": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ピーマン類）　トマピー　果実　生": {
+    "tax_id": 4072,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ピーマン類）　赤ピーマン　果実　油いため": {
+    "tax_id": 4072,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ピーマン類）　赤ピーマン　果実　生": {
+    "tax_id": 4072,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ピーマン類）　青ピーマン　果実　油いため": {
+    "tax_id": 4072,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ピーマン類）　青ピーマン　果実　生": {
+    "tax_id": 4072,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ピーマン類）　黄ピーマン　果実　油いため": {
+    "tax_id": 4072,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（ピーマン類）　黄ピーマン　果実　生": {
+    "tax_id": 4072,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（動物油脂類）　ラード": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（動物油脂類）　牛脂": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（植物油脂類）　あまに油": {
+    "tax_id": 4006,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（植物油脂類）　えごま油": {
+    "tax_id": 151328,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（植物油脂類）　ごま油": {
+    "tax_id": 4182,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（植物油脂類）　とうもろこし油": {
+    "tax_id": 4577,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（植物油脂類）　なたね油": {
+    "tax_id": 3708,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（植物油脂類）　ひまわり油　ハイオレイック": {
+    "tax_id": 4232,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（植物油脂類）　ひまわり油　ハイリノール": {
+    "tax_id": 4232,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（植物油脂類）　ひまわり油　ミッドオレイック": {
+    "tax_id": 4232,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（植物油脂類）　やし油": {
+    "tax_id": 13894,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（植物油脂類）　オリーブ油": {
+    "tax_id": 4146,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（植物油脂類）　サフラワー油　ハイオレイック": {
+    "tax_id": 4222,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（植物油脂類）　サフラワー油　ハイリノール": {
+    "tax_id": 4222,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（植物油脂類）　パーム核油": {
+    "tax_id": 51952,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（植物油脂類）　パーム油": {
+    "tax_id": 51952,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（植物油脂類）　大豆油": {
+    "tax_id": 3847,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（植物油脂類）　米ぬか油": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "（植物油脂類）　落花生油": {
+    "tax_id": 3818,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いか・たこ類＞　（いか類）　あかいか　生": {
+    "tax_id": 61679,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いか・たこ類＞　（いか類）　けんさきいか　生": {
+    "tax_id": 6616,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いか・たこ類＞　（いか類）　こういか　生": {
+    "tax_id": 31210,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いか・たこ類＞　（いか類）　するめいか　水煮": {
+    "tax_id": 6637,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いか・たこ類＞　（いか類）　するめいか　焼き": {
+    "tax_id": 6637,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いか・たこ類＞　（いか類）　するめいか　生": {
+    "tax_id": 6637,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いか・たこ類＞　（いか類）　するめいか　耳・足　生": {
+    "tax_id": 6637,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いか・たこ類＞　（いか類）　するめいか　胴　皮つき　生": {
+    "tax_id": 6637,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いか・たこ類＞　（いか類）　するめいか　胴　皮なし　天ぷら": {
+    "tax_id": 6637,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いか・たこ類＞　（いか類）　するめいか　胴　皮なし　生": {
+    "tax_id": 6637,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いか・たこ類＞　（いか類）　ほたるいか　くん製": {
+    "tax_id": 6625,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いか・たこ類＞　（いか類）　ほたるいか　つくだ煮": {
+    "tax_id": 6625,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いか・たこ類＞　（いか類）　ほたるいか　ゆで": {
+    "tax_id": 6625,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いか・たこ類＞　（いか類）　ほたるいか　生": {
+    "tax_id": 6625,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いか・たこ類＞　（いか類）　やりいか　生": {
+    "tax_id": 6616,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いか・たこ類＞　（たこ類）　いいだこ　生": {
+    "tax_id": 515817,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いか・たこ類＞　（たこ類）　まだこ　ゆで": {
+    "tax_id": 6645,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いか・たこ類＞　（たこ類）　まだこ　皮つき　生": {
+    "tax_id": 6645,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　きくいも　塊茎　水煮": {
+    "tax_id": 4233,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　きくいも　塊茎　生": {
+    "tax_id": 4233,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　こんにゃく　しらたき": {
+    "tax_id": 78372,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　こんにゃく　凍みこんにゃく　ゆで": {
+    "tax_id": 78372,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　こんにゃく　凍みこんにゃく　乾": {
+    "tax_id": 78372,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　こんにゃく　板こんにゃく　生いもこんにゃく": {
+    "tax_id": 78372,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　こんにゃく　板こんにゃく　精粉こんにゃく": {
+    "tax_id": 78372,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　こんにゃく　精粉": {
+    "tax_id": 78372,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　こんにゃく　赤こんにゃく": {
+    "tax_id": 78372,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　じゃがいも　乾燥マッシュポテト": {
+    "tax_id": 4113,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　じゃがいも　塊茎　皮なし　フライドポテト　（市販冷凍食品を揚げたもの）": {
+    "tax_id": 4113,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　じゃがいも　塊茎　皮なし　水煮": {
+    "tax_id": 4113,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　じゃがいも　塊茎　皮なし　生": {
+    "tax_id": 4113,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　じゃがいも　塊茎　皮なし　蒸し": {
+    "tax_id": 4113,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　ヤーコン　塊根　水煮": {
+    "tax_id": 185202,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　ヤーコン　塊根　生": {
+    "tax_id": 185202,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　（さつまいも類）　さつまいも　塊根　皮つき　天ぷら": {
+    "tax_id": 4120,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　（さつまいも類）　さつまいも　塊根　皮つき　生": {
+    "tax_id": 4120,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　（さつまいも類）　さつまいも　塊根　皮つき　蒸し": {
+    "tax_id": 4120,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　（さつまいも類）　さつまいも　塊根　皮なし　焼き": {
+    "tax_id": 4120,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　（さつまいも類）　さつまいも　塊根　皮なし　生": {
+    "tax_id": 4120,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　（さつまいも類）　さつまいも　塊根　皮なし　蒸し": {
+    "tax_id": 4120,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　（さつまいも類）　さつまいも　蒸し切干": {
+    "tax_id": 4120,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　（さつまいも類）　むらさきいも　塊根　皮なし　生": {
+    "tax_id": 4120,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　（さつまいも類）　むらさきいも　塊根　皮なし　蒸し": {
+    "tax_id": 4120,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　（さといも類）　さといも　球茎　冷凍": {
+    "tax_id": 4460,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　（さといも類）　さといも　球茎　水煮": {
+    "tax_id": 4460,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　（さといも類）　さといも　球茎　生": {
+    "tax_id": 4460,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　（さといも類）　たけのこいも　球茎　水煮": {
+    "tax_id": 4460,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　（さといも類）　たけのこいも　球茎　生": {
+    "tax_id": 4460,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　（さといも類）　みずいも　球茎　水煮": {
+    "tax_id": 4460,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　（さといも類）　みずいも　球茎　生": {
+    "tax_id": 4460,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　（さといも類）　やつがしら　球茎　水煮": {
+    "tax_id": 4460,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　（さといも類）　やつがしら　球茎　生": {
+    "tax_id": 4460,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　（さといも類）　セレベス　球茎　水煮": {
+    "tax_id": 4460,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　（さといも類）　セレベス　球茎　生": {
+    "tax_id": 4460,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　（やまのいも類）　じねんじょ　塊根　生": {
+    "tax_id": 4673,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　（やまのいも類）　だいじょ　塊根　生": {
+    "tax_id": 55571,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　（やまのいも類）　ながいも　いちょういも　塊根　生": {
+    "tax_id": 55575,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　（やまのいも類）　ながいも　ながいも　塊根　水煮": {
+    "tax_id": 55575,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　（やまのいも類）　ながいも　ながいも　塊根　生": {
+    "tax_id": 55575,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜いも類＞　（やまのいも類）　ながいも　やまといも　塊根　生": {
+    "tax_id": 55575,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜えび・かに類＞　（えび類）　あまえび　生": {
+    "tax_id": 298721,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜えび・かに類＞　（えび類）　いせえび　生": {
+    "tax_id": 6736,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜えび・かに類＞　（えび類）　くるまえび　養殖　ゆで": {
+    "tax_id": 133894,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜えび・かに類＞　（えび類）　くるまえび　養殖　焼き": {
+    "tax_id": 133894,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜えび・かに類＞　（えび類）　くるまえび　養殖　生": {
+    "tax_id": 133894,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜えび・かに類＞　（えび類）　さくらえび　ゆで": {
+    "tax_id": 589641,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜えび・かに類＞　（えび類）　さくらえび　煮干し": {
+    "tax_id": 589641,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜えび・かに類＞　（えび類）　さくらえび　素干し": {
+    "tax_id": 589641,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜えび・かに類＞　（えび類）　しばえび　生": {
+    "tax_id": 290888,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜えび・かに類＞　（えび類）　バナメイえび　養殖　天ぷら": {
+    "tax_id": 6689,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜えび・かに類＞　（えび類）　バナメイえび　養殖　生": {
+    "tax_id": 6689,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜えび・かに類＞　（えび類）　ブラックタイガー　養殖　生": {
+    "tax_id": 6687,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜えび・かに類＞　（えび類）　加工品　干しえび": {
+    "tax_id": 1843376,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜えび・かに類＞　（えび類）　大正えび　生": {
+    "tax_id": 3052240,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜えび・かに類＞　（かに類）　がざみ　生": {
+    "tax_id": 210409,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜えび・かに類＞　（かに類）　ずわいがに　ゆで": {
+    "tax_id": 41210,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜えび・かに類＞　（かに類）　ずわいがに　水煮缶詰": {
+    "tax_id": 41210,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜えび・かに類＞　（かに類）　ずわいがに　生": {
+    "tax_id": 41210,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜えび・かに類＞　（かに類）　たらばがに　ゆで": {
+    "tax_id": 6741,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜えび・かに類＞　（かに類）　たらばがに　水煮缶詰": {
+    "tax_id": 6741,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜えび・かに類＞　（かに類）　たらばがに　生": {
+    "tax_id": 6741,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜えび・かに類＞　（かに類）　毛がに　ゆで": {
+    "tax_id": 299522,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜えび・かに類＞　（かに類）　毛がに　生": {
+    "tax_id": 299522,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜その他＞　あみ　つくだ煮": {
+    "tax_id": 1676841,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜その他＞　あみ　塩辛": {
+    "tax_id": 1676841,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜その他＞　いなご　つくだ煮": {
+    "tax_id": 165481,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜その他＞　うに　生うに": {
+    "tax_id": 7650,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜その他＞　うに　粒うに": {
+    "tax_id": 7650,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜その他＞　うに　練りうに": {
+    "tax_id": 7650,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜その他＞　おきあみ　ゆで": {
+    "tax_id": 6819,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜その他＞　おきあみ　生": {
+    "tax_id": 6819,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜その他＞　くらげ　塩蔵　塩抜き": {
+    "tax_id": 321803,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜その他＞　しゃこ　ゆで": {
+    "tax_id": 337810,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜その他＞　なまこ　このわた": {
+    "tax_id": 307972,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜その他＞　なまこ　生": {
+    "tax_id": 307972,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜その他＞　はち　はちの子缶詰": {
+    "tax_id": 1475057,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜その他＞　ほや　塩辛": {
+    "tax_id": 7728,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜その他＞　ほや　生": {
+    "tax_id": 7728,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜その他＞　やぎ乳": {
+    "tax_id": 9925,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜その他＞　人乳": {
+    "tax_id": 9606,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜その他＞　酵母　パン酵母　乾燥": {
+    "tax_id": 4932,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜その他＞　酵母　パン酵母　圧搾": {
+    "tax_id": 4932,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜でん粉・でん粉製品＞　（でん粉類）　さつまいもでん粉": {
+    "tax_id": 4120,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜でん粉・でん粉製品＞　（でん粉類）　じゃがいもでん粉": {
+    "tax_id": 4113,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜でん粉・でん粉製品＞　（でん粉類）　とうもろこしでん粉": {
+    "tax_id": 4577,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜でん粉・でん粉製品＞　（でん粉類）　キャッサバでん粉": {
+    "tax_id": 3983,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜でん粉・でん粉製品＞　（でん粉類）　サゴでん粉": {
+    "tax_id": 93297,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜でん粉・でん粉製品＞　（でん粉類）　小麦でん粉": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜でん粉・でん粉製品＞　（でん粉類）　米でん粉": {
+    "tax_id": 4530,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜和生菓子・和半生菓子類＞　くずもち　関東風　小麦でん粉製品": {
+    "tax_id": 4565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜牛乳及び乳製品＞　（液状乳類）　生乳　ジャージー種": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜牛乳及び乳製品＞　（液状乳類）　生乳　ホルスタイン種": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　いのしし　肉　脂身つき　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　いのぶた　肉　脂身つき　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うさぎ　肉　赤肉　生": {
+    "tax_id": 9986,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［ひき肉］　焼き": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［ひき肉］　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　かた　皮下脂肪なし　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　かた　脂身　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　かた　脂身つき　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　かた　赤肉　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　かたロース　皮下脂肪なし　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　かたロース　脂身つき　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　かたロース　赤肉　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　そともも　皮下脂肪なし　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　そともも　脂身つき　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　そともも　赤肉　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　ばら　脂身つき　焼き": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　ばら　脂身つき　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　もも　皮下脂肪なし　ゆで": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　もも　皮下脂肪なし　焼き": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　もも　皮下脂肪なし　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　もも　脂身　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　もも　脂身つき　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　もも　赤肉　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　サーロイン　皮下脂肪なし　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　サーロイン　脂身つき　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　サーロイン　赤肉　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　ヒレ　赤肉　焼き": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　ヒレ　赤肉　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　ランプ　皮下脂肪なし　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　ランプ　脂身つき　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　ランプ　赤肉　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　リブロース　皮下脂肪なし　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　リブロース　脂身　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　リブロース　脂身つき　ゆで": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　リブロース　脂身つき　焼き": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　リブロース　脂身つき　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［乳用肥育牛肉］　リブロース　赤肉　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［交雑牛肉］　ばら　脂身つき　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［交雑牛肉］　もも　皮下脂肪なし　ゆで": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［交雑牛肉］　もも　皮下脂肪なし　焼き": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［交雑牛肉］　もも　皮下脂肪なし　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［交雑牛肉］　もも　脂身　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［交雑牛肉］　もも　脂身つき　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［交雑牛肉］　もも　赤肉　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［交雑牛肉］　ヒレ　赤肉　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［交雑牛肉］　リブロース　皮下脂肪なし　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［交雑牛肉］　リブロース　脂身　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［交雑牛肉］　リブロース　脂身つき　ゆで": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［交雑牛肉］　リブロース　脂身つき　焼き": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［交雑牛肉］　リブロース　脂身つき　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［交雑牛肉］　リブロース　赤肉　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［副生物］　じん臓　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［副生物］　大腸　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［副生物］　子宮　ゆで": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［副生物］　小腸　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［副生物］　尾　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［副生物］　心臓　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［副生物］　横隔膜　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［副生物］　直腸　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［副生物］　第一胃　ゆで": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［副生物］　第三胃　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［副生物］　第二胃　ゆで": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［副生物］　第四胃　ゆで": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［副生物］　肝臓　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［副生物］　腱　ゆで": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［副生物］　舌　焼き": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［副生物］　舌　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［加工品］　コンビーフ缶詰": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［加工品］　スモークタン": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［加工品］　ビーフジャーキー": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［加工品］　ローストビーフ": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［加工品］　味付け缶詰": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　かた　皮下脂肪なし　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　かた　脂身　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　かた　脂身つき　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　かた　赤肉　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　かたロース　皮下脂肪なし　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　かたロース　脂身つき　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　かたロース　赤肉　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　そともも　皮下脂肪なし　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　そともも　脂身つき　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　そともも　赤肉　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　ばら　脂身つき　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　もも　皮下脂肪なし　ゆで": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　もも　皮下脂肪なし　焼き": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　もも　皮下脂肪なし　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　もも　脂身　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　もも　脂身つき　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　もも　赤肉　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　サーロイン　皮下脂肪なし　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　サーロイン　脂身つき　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　サーロイン　赤肉　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　ヒレ　赤肉　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　ランプ　皮下脂肪なし　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　ランプ　脂身つき　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　ランプ　赤肉　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　リブロース　皮下脂肪なし　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　リブロース　脂身　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　リブロース　脂身つき　ゆで": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　リブロース　脂身つき　焼き": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　リブロース　脂身つき　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［和牛肉］　リブロース　赤肉　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［子牛肉］　ばら　皮下脂肪なし　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［子牛肉］　もも　皮下脂肪なし　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［子牛肉］　リブロース　皮下脂肪なし　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　かた　皮下脂肪なし　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　かた　脂身　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　かた　脂身つき　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　かた　赤肉　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　かたロース　皮下脂肪なし　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　かたロース　脂身つき　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　かたロース　赤肉　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　そともも　皮下脂肪なし　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　そともも　脂身つき　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　そともも　赤肉　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　ばら　脂身つき　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　もも　皮下脂肪なし　ゆで": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　もも　皮下脂肪なし　焼き": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　もも　皮下脂肪なし　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　もも　脂身　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　もも　脂身つき　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　もも　赤肉　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　サーロイン　皮下脂肪なし　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　サーロイン　脂身つき　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　サーロイン　赤肉　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　ヒレ　赤肉　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　ランプ　皮下脂肪なし　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　ランプ　脂身つき　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　ランプ　赤肉　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　リブロース　皮下脂肪なし　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　リブロース　脂身　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　リブロース　脂身つき　ゆで": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　リブロース　脂身つき　焼き": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　リブロース　脂身つき　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うし　［輸入牛肉］　リブロース　赤肉　生": {
+    "tax_id": 9913,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　うま　肉　赤肉　生": {
+    "tax_id": 9796,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　くじら　うねす　生": {
+    "tax_id": 9767,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　くじら　さらしくじら": {
+    "tax_id": 9767,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　くじら　本皮　生": {
+    "tax_id": 9767,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　くじら　肉　赤肉　生": {
+    "tax_id": 9767,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　しか　あかしか　赤肉　生": {
+    "tax_id": 9860,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　しか　にほんじか　赤肉　生": {
+    "tax_id": 9863,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［その他］　スモークレバー": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［その他］　ゼラチン": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［その他］　レバーペースト": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［その他］　焼き豚": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［ひき肉］　焼き": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［ひき肉］　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［ソーセージ類］　ウインナーソーセージ　ウインナーソーセージ": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［ソーセージ類］　セミドライソーセージ": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［ソーセージ類］　ドライソーセージ": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［ソーセージ類］　フランクフルトソーセージ": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［ソーセージ類］　ボロニアソーセージ": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［ソーセージ類］　リオナソーセージ": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［ソーセージ類］　レバーソーセージ": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［ソーセージ類］　混合ソーセージ": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［ソーセージ類］　生ソーセージ": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［ハム類］　ショルダーハム": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［ハム類］　ボンレスハム": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［ハム類］　ロースハム　ロースハム": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［ハム類］　生ハム　促成": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［ハム類］　生ハム　長期熟成": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［ハム類］　骨付きハム": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［プレスハム類］　チョップドハム": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［プレスハム類］　プレスハム": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［ベーコン類］　ばらベーコン　ばらベーコン": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［ベーコン類］　ショルダーベーコン": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［ベーコン類］　ロースベーコン": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［中型種肉］　かた　皮下脂肪なし　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［中型種肉］　かた　脂身　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［中型種肉］　かた　脂身つき　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［中型種肉］　かた　赤肉　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［中型種肉］　かたロース　皮下脂肪なし　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［中型種肉］　かたロース　脂身　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［中型種肉］　かたロース　脂身つき　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［中型種肉］　かたロース　赤肉　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［中型種肉］　そともも　皮下脂肪なし　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［中型種肉］　そともも　脂身　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［中型種肉］　そともも　脂身つき　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［中型種肉］　そともも　赤肉　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［中型種肉］　ばら　脂身つき　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［中型種肉］　もも　皮下脂肪なし　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［中型種肉］　もも　脂身　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［中型種肉］　もも　脂身つき　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［中型種肉］　もも　赤肉　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［中型種肉］　ヒレ　赤肉　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［中型種肉］　ロース　皮下脂肪なし　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［中型種肉］　ロース　脂身　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［中型種肉］　ロース　脂身つき　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［中型種肉］　ロース　赤肉　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［副生物］　じん臓　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［副生物］　大腸　ゆで": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［副生物］　子宮　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［副生物］　小腸　ゆで": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［副生物］　心臓　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［副生物］　肝臓　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［副生物］　胃　ゆで": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［副生物］　舌　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［副生物］　豚足　ゆで": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［副生物］　軟骨　ゆで": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　かた　皮下脂肪なし　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　かた　脂身　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　かた　脂身つき　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　かた　赤肉　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　かたロース　皮下脂肪なし　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　かたロース　脂身　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　かたロース　脂身つき　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　かたロース　赤肉　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　そともも　皮下脂肪なし　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　そともも　脂身　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　そともも　脂身つき　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　そともも　赤肉　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　ばら　脂身つき　焼き": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　ばら　脂身つき　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　もも　皮下脂肪なし　ゆで": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　もも　皮下脂肪なし　焼き": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　もも　皮下脂肪なし　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　もも　脂身　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　もも　脂身つき　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　もも　赤肉　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　ヒレ　赤肉　とんかつ": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　ヒレ　赤肉　焼き": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　ヒレ　赤肉　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　ロース　皮下脂肪なし　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　ロース　脂身　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　ロース　脂身つき　とんかつ": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　ロース　脂身つき　ゆで": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　ロース　脂身つき　焼き": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　ロース　脂身つき　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　ぶた　［大型種肉］　ロース　赤肉　生": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　めんよう　混合プレスハム": {
+    "tax_id": 9823,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　めんよう　［マトン］　もも　脂身つき　生": {
+    "tax_id": 9940,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　めんよう　［マトン］　ロース　皮下脂肪なし　生": {
+    "tax_id": 9940,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　めんよう　［マトン］　ロース　脂身つき　焼き": {
+    "tax_id": 9940,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　めんよう　［マトン］　ロース　脂身つき　生": {
+    "tax_id": 9940,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　めんよう　［ラム］　かた　脂身つき　生": {
+    "tax_id": 9940,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　めんよう　［ラム］　もも　脂身つき　焼き": {
+    "tax_id": 9940,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　めんよう　［ラム］　もも　脂身つき　生": {
+    "tax_id": 9940,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　めんよう　［ラム］　ロース　皮下脂肪なし　生": {
+    "tax_id": 9940,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　めんよう　［ラム］　ロース　脂身つき　焼き": {
+    "tax_id": 9940,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　めんよう　［ラム］　ロース　脂身つき　生": {
+    "tax_id": 9940,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜畜肉類＞　やぎ　肉　赤肉　生": {
+    "tax_id": 9925,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　あかがい　生": {
+    "tax_id": 148819,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　あげまき　生": {
+    "tax_id": 98310,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　あさり　つくだ煮": {
+    "tax_id": 129788,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　あさり　生": {
+    "tax_id": 129788,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　あさり　缶詰　味付け": {
+    "tax_id": 129788,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　あさり　缶詰　水煮": {
+    "tax_id": 129788,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　あわび　塩辛": {
+    "tax_id": 6452,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　あわび　干し": {
+    "tax_id": 6452,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　あわび　水煮缶詰": {
+    "tax_id": 6452,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　いがい　生": {
+    "tax_id": 6548,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　いたやがい　養殖　生": {
+    "tax_id": 106278,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　さざえ　焼き": {
+    "tax_id": 63673,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　さざえ　生": {
+    "tax_id": 63673,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　さるぼう　味付け缶詰": {
+    "tax_id": 6554,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　しじみ　水煮": {
+    "tax_id": 45948,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　しじみ　生": {
+    "tax_id": 45948,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　たいらがい　貝柱　生": {
+    "tax_id": 49198,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　たにし　生": {
+    "tax_id": 1616135,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　とこぶし　生": {
+    "tax_id": 37770,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　とりがい　斧足　生": {
+    "tax_id": 80828,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　ばかがい　生": {
+    "tax_id": 339787,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　ほたてがい　水煮": {
+    "tax_id": 6573,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　ほたてがい　生": {
+    "tax_id": 6573,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　ほたてがい　貝柱　水煮缶詰": {
+    "tax_id": 6573,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　ほたてがい　貝柱　焼き": {
+    "tax_id": 6573,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　ほたてがい　貝柱　煮干し": {
+    "tax_id": 6573,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　ほたてがい　貝柱　生": {
+    "tax_id": 6573,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　ほっきがい　生": {
+    "tax_id": 6582,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　みるがい　水管　生": {
+    "tax_id": 545649,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　エスカルゴ　水煮缶詰": {
+    "tax_id": 6536,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　（はまぐり類）　ちょうせんはまぐり　生": {
+    "tax_id": 157363,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　（はまぐり類）　はまぐり　つくだ煮": {
+    "tax_id": 74491,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　（はまぐり類）　はまぐり　水煮": {
+    "tax_id": 74491,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　（はまぐり類）　はまぐり　焼き": {
+    "tax_id": 74491,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜貝類＞　（はまぐり類）　はまぐり　生": {
+    "tax_id": 74491,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜香辛料類＞　からし　粉": {
+    "tax_id": 3707,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜香辛料類＞　からし　粒入りマスタード": {
+    "tax_id": 3707,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜香辛料類＞　からし　練り": {
+    "tax_id": 3707,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜香辛料類＞　からし　練りマスタード": {
+    "tax_id": 3707,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜香辛料類＞　こしょう　混合　粉": {
+    "tax_id": 13216,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜香辛料類＞　こしょう　白　粉": {
+    "tax_id": 13216,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜香辛料類＞　こしょう　黒　粉": {
+    "tax_id": 13216,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜香辛料類＞　さんしょう　粉": {
+    "tax_id": 354529,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜香辛料類＞　しょうが　おろし": {
+    "tax_id": 94328,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜香辛料類＞　しょうが　粉": {
+    "tax_id": 94328,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜香辛料類＞　とうがらし　粉": {
+    "tax_id": 4072,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜香辛料類＞　にんにく　おろし": {
+    "tax_id": 4682,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜香辛料類＞　にんにく　ガーリックパウダー　食塩添加": {
+    "tax_id": 4682,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜香辛料類＞　にんにく　ガーリックパウダー　食塩無添加": {
+    "tax_id": 4682,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜香辛料類＞　オニオンパウダー": {
+    "tax_id": 4679,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜香辛料類＞　オールスパイス　粉": {
+    "tax_id": 375272,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜香辛料類＞　クローブ　粉": {
+    "tax_id": 219868,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜香辛料類＞　シナモン　粉": {
+    "tax_id": 128608,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜香辛料類＞　セージ　粉": {
+    "tax_id": 38868,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜香辛料類＞　タイム　粉": {
+    "tax_id": 49992,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜香辛料類＞　ナツメグ　粉": {
+    "tax_id": 51089,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜香辛料類＞　バジル　粉": {
+    "tax_id": 39350,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜香辛料類＞　パセリ　乾": {
+    "tax_id": 4043,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜香辛料類＞　パプリカ　粉": {
+    "tax_id": 4072,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　あいなめ　生": {
+    "tax_id": 72450,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　あこうだい　生": {
+    "tax_id": 201704,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　あなご　生": {
+    "tax_id": 7943,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　あまご　養殖　生": {
+    "tax_id": 8021,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　あまだい　水煮": {
+    "tax_id": 270562,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　あまだい　焼き": {
+    "tax_id": 270562,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　あまだい　生": {
+    "tax_id": 270562,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　あゆ　うるか": {
+    "tax_id": 61084,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　あゆ　天然　内臓　焼き": {
+    "tax_id": 61084,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　あゆ　天然　内臓　生": {
+    "tax_id": 61084,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　あゆ　天然　焼き": {
+    "tax_id": 61084,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　あゆ　天然　生": {
+    "tax_id": 61084,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　あゆ　養殖　内臓　焼き": {
+    "tax_id": 61084,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　あゆ　養殖　内臓　生": {
+    "tax_id": 61084,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　あゆ　養殖　焼き": {
+    "tax_id": 61084,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　あゆ　養殖　生": {
+    "tax_id": 61084,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　あんこう　きも　生": {
+    "tax_id": 30790,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　あんこう　生": {
+    "tax_id": 30790,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　いかなご　あめ煮": {
+    "tax_id": 215382,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　いかなご　つくだ煮": {
+    "tax_id": 215382,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　いかなご　煮干し": {
+    "tax_id": 215382,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　いかなご　生": {
+    "tax_id": 215382,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　いさき　生": {
+    "tax_id": 360507,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　いしだい　生": {
+    "tax_id": 163134,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　いぼだい　生": {
+    "tax_id": 163124,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　いわな　養殖　生": {
+    "tax_id": 8034,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　うぐい　生": {
+    "tax_id": 263869,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　うなぎ　かば焼": {
+    "tax_id": 7937,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　うなぎ　きも　生": {
+    "tax_id": 7937,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　うなぎ　白焼き": {
+    "tax_id": 7937,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　うなぎ　養殖　生": {
+    "tax_id": 7937,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　うまづらはぎ　味付け開き干し": {
+    "tax_id": 325629,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　うまづらはぎ　生": {
+    "tax_id": 325629,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　えい　生": {
+    "tax_id": 1443568,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　おいかわ　生": {
+    "tax_id": 80810,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　おおさが　生": {
+    "tax_id": 214493,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　おこぜ　生": {
+    "tax_id": 652442,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　おひょう　生": {
+    "tax_id": 195615,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　かさご　生": {
+    "tax_id": 41446,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　かじか　つくだ煮": {
+    "tax_id": 137882,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　かじか　水煮": {
+    "tax_id": 137882,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　かじか　生": {
+    "tax_id": 137882,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　かます　焼き": {
+    "tax_id": 392540,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　かます　生": {
+    "tax_id": 392540,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　かわはぎ　生": {
+    "tax_id": 143348,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　かんぱち　三枚おろし　生": {
+    "tax_id": 41447,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　きす　天ぷら": {
+    "tax_id": 43258,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　きす　生": {
+    "tax_id": 43258,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　きちじ　生": {
+    "tax_id": 98657,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　きびなご　生": {
+    "tax_id": 365052,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　きびなご　調味干し": {
+    "tax_id": 365052,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　きんめだい　生": {
+    "tax_id": 88663,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　ぎんだら　水煮": {
+    "tax_id": 229290,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　ぎんだら　生": {
+    "tax_id": 229290,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　ぐち　焼き": {
+    "tax_id": 118565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　ぐち　生": {
+    "tax_id": 118565,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　こい　養殖　内臓　生": {
+    "tax_id": 7962,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　こい　養殖　水煮": {
+    "tax_id": 7962,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　こい　養殖　生": {
+    "tax_id": 7962,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　このしろ　甘酢漬": {
+    "tax_id": 365056,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　このしろ　生": {
+    "tax_id": 365056,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　さより　生": {
+    "tax_id": 293917,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　さわら　焼き": {
+    "tax_id": 321164,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　さわら　生": {
+    "tax_id": 321164,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　さんま　みりん干し": {
+    "tax_id": 129043,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　さんま　皮つき　焼き": {
+    "tax_id": 129043,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　さんま　皮つき　生": {
+    "tax_id": 129043,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　さんま　皮なし　生": {
+    "tax_id": 129043,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　さんま　缶詰　かば焼": {
+    "tax_id": 129043,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　さんま　缶詰　味付け": {
+    "tax_id": 129043,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　さんま　開き干し": {
+    "tax_id": 129043,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　しいら　生": {
+    "tax_id": 34814,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　しまあじ　養殖　生": {
+    "tax_id": 349646,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　しらうお　生": {
+    "tax_id": 137522,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　すずき　生": {
+    "tax_id": 8164,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　たかさご　生": {
+    "tax_id": 497154,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　たかべ　生": {
+    "tax_id": 163138,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　たちうお　生": {
+    "tax_id": 13733,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　ちか　生": {
+    "tax_id": 203539,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　とびうお　生": {
+    "tax_id": 283373,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　どじょう　水煮": {
+    "tax_id": 75329,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　どじょう　生": {
+    "tax_id": 75329,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　にぎす　生": {
+    "tax_id": 170196,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　にしん　かずのこ　乾": {
+    "tax_id": 30724,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　にしん　かずのこ　塩蔵　水戻し": {
+    "tax_id": 30724,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　にしん　かずのこ　生": {
+    "tax_id": 30724,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　にしん　くん製": {
+    "tax_id": 30724,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　にしん　生": {
+    "tax_id": 30724,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　にしん　身欠きにしん": {
+    "tax_id": 30724,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　にしん　開き干し": {
+    "tax_id": 30724,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　はぜ　つくだ煮": {
+    "tax_id": 86203,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　はぜ　甘露煮": {
+    "tax_id": 86203,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　はぜ　生": {
+    "tax_id": 86203,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　はたはた　生": {
+    "tax_id": 148607,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　はたはた　生干し": {
+    "tax_id": 148607,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　はまふえふき　生": {
+    "tax_id": 182658,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　はも　生": {
+    "tax_id": 7946,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　ひらまさ　生": {
+    "tax_id": 302047,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　ひらめ　天然　生": {
+    "tax_id": 8255,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　ひらめ　養殖　皮つき　生": {
+    "tax_id": 8255,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　ひらめ　養殖　皮なし　生": {
+    "tax_id": 8255,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　ふな　水煮": {
+    "tax_id": 7957,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　ふな　甘露煮": {
+    "tax_id": 7957,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　ふな　生": {
+    "tax_id": 7957,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　ぶり　はまち　養殖　皮つき　生": {
+    "tax_id": 8161,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　ぶり　はまち　養殖　皮なし　生": {
+    "tax_id": 8161,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　ぶり　成魚　焼き": {
+    "tax_id": 8161,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　ぶり　成魚　生": {
+    "tax_id": 8161,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　ほうぼう　生": {
+    "tax_id": 450224,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　ほっけ　塩ほっけ": {
+    "tax_id": 175282,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　ほっけ　生": {
+    "tax_id": 175282,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　ほっけ　開き干し　焼き": {
+    "tax_id": 175282,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　ほっけ　開き干し　生": {
+    "tax_id": 175282,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　ほんもろこ　生": {
+    "tax_id": 435243,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　ぼら　からすみ": {
+    "tax_id": 48193,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　ぼら　生": {
+    "tax_id": 48193,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　まながつお　生": {
+    "tax_id": 206143,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　みなみくろたち　生": {
+    "tax_id": 499858,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　みなみだら　生": {
+    "tax_id": 745698,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　むつ　水煮": {
+    "tax_id": 433667,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　むつ　生": {
+    "tax_id": 433667,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　めじな　生": {
+    "tax_id": 163149,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　めばる　生": {
+    "tax_id": 34820,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　やつめうなぎ　干しやつめ": {
+    "tax_id": 13103,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　やつめうなぎ　生": {
+    "tax_id": 13103,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　やまめ　養殖　生": {
+    "tax_id": 90313,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　わかさぎ　あめ煮": {
+    "tax_id": 182223,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　わかさぎ　つくだ煮": {
+    "tax_id": 182223,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　わかさぎ　生": {
+    "tax_id": 182223,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　アラスカめぬけ　生": {
+    "tax_id": 72055,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　キャビア　塩蔵品": {
+    "tax_id": 7901,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　キングクリップ　生": {
+    "tax_id": 661088,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　シルバー　生": {
+    "tax_id": 316136,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　ナイルティラピア　生": {
+    "tax_id": 8128,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　ホキ　生": {
+    "tax_id": 248764,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　マジェランあいなめ　生": {
+    "tax_id": 100907,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　メルルーサ　生": {
+    "tax_id": 8062,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（あじ類）　にしまあじ　水煮": {
+    "tax_id": 36212,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（あじ類）　にしまあじ　焼き": {
+    "tax_id": 36212,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（あじ類）　にしまあじ　生": {
+    "tax_id": 36212,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（あじ類）　まあじ　小型　骨付き　から揚げ": {
+    "tax_id": 83875,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（あじ類）　まあじ　小型　骨付き　生": {
+    "tax_id": 83875,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（あじ類）　まあじ　皮つき　フライ": {
+    "tax_id": 83875,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（あじ類）　まあじ　皮つき　水煮": {
+    "tax_id": 83875,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（あじ類）　まあじ　皮つき　焼き": {
+    "tax_id": 83875,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（あじ類）　まあじ　皮つき　生": {
+    "tax_id": 83875,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（あじ類）　まあじ　皮なし　生": {
+    "tax_id": 83875,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（あじ類）　まあじ　開き干し　焼き": {
+    "tax_id": 83875,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（あじ類）　まあじ　開き干し　生": {
+    "tax_id": 83875,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（あじ類）　まるあじ　焼き": {
+    "tax_id": 58220,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（あじ類）　まるあじ　生": {
+    "tax_id": 58220,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（あじ類）　むろあじ　くさや": {
+    "tax_id": 492021,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（あじ類）　むろあじ　焼き": {
+    "tax_id": 492021,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（あじ類）　むろあじ　生": {
+    "tax_id": 492021,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（あじ類）　むろあじ　開き干し": {
+    "tax_id": 492021,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（いわし類）　うるめいわし　丸干し": {
+    "tax_id": 224716,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（いわし類）　うるめいわし　生": {
+    "tax_id": 224716,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（いわし類）　かたくちいわし　煮干し": {
+    "tax_id": 42892,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（いわし類）　かたくちいわし　生": {
+    "tax_id": 42892,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（いわし類）　かたくちいわし　田作り": {
+    "tax_id": 42892,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（いわし類）　しらす干し　半乾燥品": {
+    "tax_id": 28380,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（いわし類）　しらす干し　微乾燥品": {
+    "tax_id": 28380,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（いわし類）　たたみいわし": {
+    "tax_id": 28380,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（いわし類）　まいわし　フライ": {
+    "tax_id": 28380,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（いわし類）　まいわし　丸干し": {
+    "tax_id": 28380,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（いわし類）　まいわし　塩いわし": {
+    "tax_id": 28380,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（いわし類）　まいわし　水煮": {
+    "tax_id": 28380,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（いわし類）　まいわし　焼き": {
+    "tax_id": 28380,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（いわし類）　まいわし　生": {
+    "tax_id": 28380,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（いわし類）　まいわし　生干し": {
+    "tax_id": 28380,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（いわし類）　みりん干し　かたくちいわし": {
+    "tax_id": 28380,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（いわし類）　みりん干し　まいわし": {
+    "tax_id": 28380,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（いわし類）　めざし　焼き": {
+    "tax_id": 28380,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（いわし類）　めざし　生": {
+    "tax_id": 28380,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（いわし類）　缶詰　かば焼": {
+    "tax_id": 28380,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（いわし類）　缶詰　アンチョビ": {
+    "tax_id": 42892,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（いわし類）　缶詰　トマト漬": {
+    "tax_id": 28380,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（いわし類）　缶詰　味付け": {
+    "tax_id": 28380,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（いわし類）　缶詰　水煮": {
+    "tax_id": 28380,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（いわし類）　缶詰　油漬": {
+    "tax_id": 28380,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（かじき類）　くろかじき　生": {
+    "tax_id": 384371,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（かじき類）　まかじき　生": {
+    "tax_id": 13718,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（かじき類）　めかじき　焼き": {
+    "tax_id": 8245,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（かじき類）　めかじき　生": {
+    "tax_id": 8245,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（かつお類）　かつお　春獲り　生": {
+    "tax_id": 8226,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（かつお類）　かつお　秋獲り　生": {
+    "tax_id": 8226,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（かつお類）　そうだがつお　生": {
+    "tax_id": 13352,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（かれい類）　まがれい　水煮": {
+    "tax_id": 8261,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（かれい類）　まがれい　焼き": {
+    "tax_id": 8261,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（かれい類）　まがれい　生": {
+    "tax_id": 8261,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（かれい類）　まこがれい　焼き": {
+    "tax_id": 8261,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（かれい類）　まこがれい　生": {
+    "tax_id": 8261,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（かれい類）　干しかれい": {
+    "tax_id": 244450,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（こち類）　まごち　生": {
+    "tax_id": 3111536,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（こち類）　めごち　生": {
+    "tax_id": 1188039,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　からふとます　塩ます": {
+    "tax_id": 8017,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　からふとます　水煮缶詰": {
+    "tax_id": 8017,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　からふとます　焼き": {
+    "tax_id": 8017,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　からふとます　生": {
+    "tax_id": 8017,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　ぎんざけ　養殖　焼き": {
+    "tax_id": 8019,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　ぎんざけ　養殖　生": {
+    "tax_id": 8019,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　さくらます　焼き": {
+    "tax_id": 90313,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　さくらます　生": {
+    "tax_id": 90313,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　しろさけ　すじこ": {
+    "tax_id": 8018,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　しろさけ　めふん": {
+    "tax_id": 8018,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　しろさけ　イクラ": {
+    "tax_id": 8018,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　しろさけ　塩ざけ": {
+    "tax_id": 8018,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　しろさけ　新巻き　焼き": {
+    "tax_id": 8018,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　しろさけ　新巻き　生": {
+    "tax_id": 8018,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　しろさけ　水煮": {
+    "tax_id": 8018,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　しろさけ　水煮缶詰": {
+    "tax_id": 8018,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　しろさけ　焼き": {
+    "tax_id": 8018,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　しろさけ　生": {
+    "tax_id": 8018,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮つき　焼き": {
+    "tax_id": 8030,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮つき　生": {
+    "tax_id": 8030,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　にじます　海面養殖　皮つき　焼き": {
+    "tax_id": 8022,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　にじます　海面養殖　皮つき　生": {
+    "tax_id": 8022,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　にじます　海面養殖　皮なし　生": {
+    "tax_id": 8022,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　にじます　淡水養殖　皮つき　生": {
+    "tax_id": 8022,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　べにざけ　くん製": {
+    "tax_id": 8023,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　べにざけ　焼き": {
+    "tax_id": 8023,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　べにざけ　生": {
+    "tax_id": 8023,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　ますのすけ　焼き": {
+    "tax_id": 74940,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さけ・ます類）　ますのすけ　生": {
+    "tax_id": 74940,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さば類）　ごまさば　さば節": {
+    "tax_id": 13676,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さば類）　ごまさば　水煮": {
+    "tax_id": 29150,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さば類）　ごまさば　焼き": {
+    "tax_id": 29150,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さば類）　ごまさば　生": {
+    "tax_id": 29150,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さば類）　たいせいようさば　水煮": {
+    "tax_id": 13677,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さば類）　たいせいようさば　焼き": {
+    "tax_id": 13677,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さば類）　たいせいようさば　生": {
+    "tax_id": 13677,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さば類）　まさば　フライ": {
+    "tax_id": 13676,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さば類）　まさば　水煮": {
+    "tax_id": 13676,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さば類）　まさば　焼き": {
+    "tax_id": 13676,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さば類）　まさば　生": {
+    "tax_id": 13676,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さめ類）　あぶらつのざめ　生": {
+    "tax_id": 7797,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（さめ類）　よしきりざめ　生": {
+    "tax_id": 7815,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（ししゃも類）　からふとししゃも　生干し　焼き": {
+    "tax_id": 30960,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（ししゃも類）　からふとししゃも　生干し　生": {
+    "tax_id": 30960,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（ししゃも類）　ししゃも　生干し　焼き": {
+    "tax_id": 136040,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（ししゃも類）　ししゃも　生干し　生": {
+    "tax_id": 136040,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（たい類）　きだい　生": {
+    "tax_id": 670562,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（たい類）　くろだい　生": {
+    "tax_id": 72011,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（たい類）　ちだい　生": {
+    "tax_id": 119714,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（たい類）　まだい　天然　生": {
+    "tax_id": 143350,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（たい類）　まだい　養殖　皮つき　水煮": {
+    "tax_id": 143350,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（たい類）　まだい　養殖　皮つき　焼き": {
+    "tax_id": 143350,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（たい類）　まだい　養殖　皮つき　生": {
+    "tax_id": 143350,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（たい類）　まだい　養殖　皮なし　生": {
+    "tax_id": 143350,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（たら類）　まだら　しらこ　生": {
+    "tax_id": 80720,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（たら類）　まだら　塩だら": {
+    "tax_id": 80720,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（たら類）　まだら　干しだら": {
+    "tax_id": 80720,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（たら類）　まだら　焼き": {
+    "tax_id": 80720,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（たら類）　まだら　生": {
+    "tax_id": 80720,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（たら類）　加工品　でんぶ": {
+    "tax_id": 80720,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（ふぐ類）　とらふぐ　養殖　生": {
+    "tax_id": 31033,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（ふぐ類）　まふぐ　生": {
+    "tax_id": 176187,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（まぐろ類）　きはだ　生": {
+    "tax_id": 8236,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（まぐろ類）　くろまぐろ　天然　脂身　生": {
+    "tax_id": 8237,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（まぐろ類）　くろまぐろ　天然　赤身　生": {
+    "tax_id": 8237,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（まぐろ類）　びんなが　生": {
+    "tax_id": 8235,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（まぐろ類）　みなみまぐろ　脂身　生": {
+    "tax_id": 8240,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（まぐろ類）　みなみまぐろ　赤身　生": {
+    "tax_id": 8240,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜魚類＞　（まぐろ類）　めじまぐろ　生": {
+    "tax_id": 8237,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　うずら　肉　皮つき　生": {
+    "tax_id": 9090,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　かも　あいがも　肉　皮つき　生": {
+    "tax_id": 8835,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　かも　あひる　皮　生": {
+    "tax_id": 8835,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　かも　あひる　肉　皮つき　生": {
+    "tax_id": 8835,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　かも　まがも　肉　皮なし　生": {
+    "tax_id": 8839,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　がちょう　フォアグラ　ゆで": {
+    "tax_id": 8843,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　きじ　肉　皮なし　生": {
+    "tax_id": 9055,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　しちめんちょう　肉　皮なし　生": {
+    "tax_id": 9103,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　すずめ　肉　骨・皮つき　生": {
+    "tax_id": 9160,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［その他］　つくね": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［その他］　チキンナゲット": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［二次品目］　ひき肉　焼き": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［二次品目］　ひき肉　生": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［副品目］　すなぎも　生": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［副品目］　なんこつ（胸肉）　生": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［副品目］　心臓　生": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［副品目］　皮　むね　生": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［副品目］　皮　もも　生": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［副品目］　肝臓　生": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［若どり・主品目］　むね　皮つき　焼き": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［若どり・主品目］　むね　皮つき　生": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［若どり・主品目］　むね　皮なし　焼き": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［若どり・主品目］　むね　皮なし　生": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［若どり・主品目］　もも　皮つき　から揚げ": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［若どり・主品目］　もも　皮つき　ゆで": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［若どり・主品目］　もも　皮つき　焼き": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［若どり・主品目］　もも　皮つき　生": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［若どり・主品目］　もも　皮なし　から揚げ": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［若どり・主品目］　もも　皮なし　ゆで": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［若どり・主品目］　もも　皮なし　焼き": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［若どり・主品目］　もも　皮なし　生": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［若どり・主品目］　手羽　皮つき　生": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［若どり・主品目］　手羽さき　皮つき　生": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［若どり・主品目］　手羽もと　皮つき　生": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［若どり・副品目］　ささみ　ゆで": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［若どり・副品目］　ささみ　焼き": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［若どり・副品目］　ささみ　生": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［親・主品目］　むね　皮つき　生": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［親・主品目］　むね　皮なし　生": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［親・主品目］　もも　皮つき　生": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［親・主品目］　もも　皮なし　生": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［親・主品目］　手羽　皮つき　生": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　にわとり　［親・副品目］　ささみ　生": {
+    "tax_id": 9031,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　はと　肉　皮なし　生": {
+    "tax_id": 8932,
+    "score": 1.0,
+    "source": "gold"
+  },
+  "＜鳥肉類＞　ほろほろちょう　肉　皮なし　生": {
+    "tax_id": 8996,
+    "score": 1.0,
+    "source": "gold"
+  }
+}

@@ -1,0 +1,6850 @@
+[
+  {
+    "ingredient": "ドッグパン",
+    "foodtable_maping": 1028,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ウインナー",
+    "foodtable_maping": 11186,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "有塩バター",
+    "foodtable_maping": 14017,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "14017",
+        "food_name": "（バター類）　無発酵バター　有塩バター",
+        "score": 1.0
+      },
+      {
+        "id": "14019",
+        "food_name": "（バター類）　発酵バター　有塩バター",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "粒マスタード",
+    "foodtable_maping": 17060,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "トマトケチャップ",
+    "foodtable_maping": 17036,
+    "response": {
+      "id": "17036"
+    },
+    "top10_candidates": [
+      {
+        "id": "17036",
+        "food_name": "＜調味料類＞　（トマト加工品類）　トマトケチャップ",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "卵",
+    "foodtable_maping": 12004,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "マヨネーズ",
+    "foodtable_maping": 17042,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "17042",
+        "food_name": "＜調味料類＞　（ドレッシング類）　半固形状ドレッシング　マヨネーズ　全卵型",
+        "score": 1.0
+      },
+      {
+        "id": "17043",
+        "food_name": "＜調味料類＞　（ドレッシング類）　半固形状ドレッシング　マヨネーズ　卵黄型",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "塩",
+    "foodtable_maping": 17012,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "粉チーズ",
+    "foodtable_maping": 13038,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "油",
+    "foodtable_maping": 14006,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "パセリ",
+    "foodtable_maping": 6239,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06239",
+        "food_name": "パセリ　葉　生",
+        "score": 1.0
+      },
+      {
+        "id": "17078",
+        "food_name": "＜香辛料類＞　パセリ　乾",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "ミニトマト",
+    "foodtable_maping": 6183,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "玉ねぎ",
+    "foodtable_maping": 6153,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "顆粒コンソメ",
+    "foodtable_maping": 17027,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "こしょう",
+    "foodtable_maping": 17064,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "17063",
+        "food_name": "＜香辛料類＞　こしょう　黒　粉",
+        "score": 1.0
+      },
+      {
+        "id": "17064",
+        "food_name": "＜香辛料類＞　こしょう　白　粉",
+        "score": 1.0
+      },
+      {
+        "id": "17065",
+        "food_name": "＜香辛料類＞　こしょう　混合　粉",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "乾燥パセリ",
+    "foodtable_maping": 17078,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "バナナ",
+    "foodtable_maping": 7107,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "07107",
+        "food_name": "バナナ　生",
+        "score": 1.0
+      },
+      {
+        "id": "07108",
+        "food_name": "バナナ　乾",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "米",
+    "foodtable_maping": 1083,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "いわし",
+    "foodtable_maping": 10047,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "梅干し",
+    "foodtable_maping": 7023,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "07022",
+        "food_name": "うめ　梅干し　塩漬",
+        "score": 1.0
+      },
+      {
+        "id": "07023",
+        "food_name": "うめ　梅干し　調味漬",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "しそ",
+    "foodtable_maping": 6095,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06095",
+        "food_name": "しそ　葉　生",
+        "score": 1.0
+      },
+      {
+        "id": "06096",
+        "food_name": "しそ　実　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "薄力粉",
+    "foodtable_maping": 1015,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "01015",
+        "food_name": "こむぎ　［小麦粉］　薄力粉　1等",
+        "score": 1.0
+      },
+      {
+        "id": "01016",
+        "food_name": "こむぎ　［小麦粉］　薄力粉　2等",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "乾燥パン粉",
+    "foodtable_maping": 1079,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "キャベツ",
+    "foodtable_maping": 6061,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06061",
+        "food_name": "（キャベツ類）　キャベツ　結球葉　生",
+        "score": 1.0
+      },
+      {
+        "id": "06062",
+        "food_name": "（キャベツ類）　キャベツ　結球葉　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06333",
+        "food_name": "（キャベツ類）　キャベツ　結球葉　油いため",
+        "score": 1.0
+      },
+      {
+        "id": "06403",
+        "food_name": "（キャベツ類）　キャベツ　結球葉　カット　常法洗浄",
+        "score": 1.0
+      },
+      {
+        "id": "06404",
+        "food_name": "（キャベツ類）　キャベツ　結球葉　カット　次亜塩素酸洗浄",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "にんじん",
+    "foodtable_maping": 6212,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06212",
+        "food_name": "（にんじん類）　にんじん　根　皮つき　生",
+        "score": 1.0
+      },
+      {
+        "id": "06213",
+        "food_name": "（にんじん類）　にんじん　根　皮つき　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06214",
+        "food_name": "（にんじん類）　にんじん　根　皮なし　生",
+        "score": 1.0
+      },
+      {
+        "id": "06215",
+        "food_name": "（にんじん類）　にんじん　根　皮なし　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06216",
+        "food_name": "（にんじん類）　にんじん　根　冷凍",
+        "score": 1.0
+      },
+      {
+        "id": "06217",
+        "food_name": "（にんじん類）　にんじん　ジュース　缶詰",
+        "score": 1.0
+      },
+      {
+        "id": "06345",
+        "food_name": "（にんじん類）　にんじん　根　皮なし　油いため",
+        "score": 1.0
+      },
+      {
+        "id": "06346",
+        "food_name": "（にんじん類）　にんじん　根　皮なし　素揚げ",
+        "score": 1.0
+      },
+      {
+        "id": "06347",
+        "food_name": "（にんじん類）　にんじん　根　皮　生",
+        "score": 1.0
+      },
+      {
+        "id": "06348",
+        "food_name": "（にんじん類）　にんじん　グラッセ",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "なす",
+    "foodtable_maping": 6191,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06191",
+        "food_name": "（なす類）　なす　果実　生",
+        "score": 1.0
+      },
+      {
+        "id": "06192",
+        "food_name": "（なす類）　なす　果実　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06342",
+        "food_name": "（なす類）　なす　果実　油いため",
+        "score": 1.0
+      },
+      {
+        "id": "06343",
+        "food_name": "（なす類）　なす　果実　天ぷら",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "豚ひき肉",
+    "foodtable_maping": 11163,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "しょうが",
+    "foodtable_maping": 6103,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06103",
+        "food_name": "（しょうが類）　しょうが　根茎　皮なし　生",
+        "score": 1.0
+      },
+      {
+        "id": "06104",
+        "food_name": "（しょうが類）　しょうが　漬物　酢漬",
+        "score": 1.0
+      },
+      {
+        "id": "06105",
+        "food_name": "（しょうが類）　しょうが　漬物　甘酢漬",
+        "score": 1.0
+      },
+      {
+        "id": "06365",
+        "food_name": "（しょうが類）　しょうが　根茎　皮なし　生　おろし",
+        "score": 1.0
+      },
+      {
+        "id": "06366",
+        "food_name": "（しょうが類）　しょうが　根茎　皮なし　生　おろし汁",
+        "score": 1.0
+      },
+      {
+        "id": "17068",
+        "food_name": "＜香辛料類＞　しょうが　粉",
+        "score": 1.0
+      },
+      {
+        "id": "17069",
+        "food_name": "＜香辛料類＞　しょうが　おろし",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "しょうゆ",
+    "foodtable_maping": 17007,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "砂糖",
+    "foodtable_maping": 3003,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "料理酒",
+    "foodtable_maping": 17138,
+    "response": {
+      "id": "17138"
+    },
+    "top10_candidates": [
+      {
+        "id": "17138",
+        "food_name": "＜調味料類＞　（その他）　料理酒",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "出汁",
+    "foodtable_maping": 17019,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "小松菜",
+    "foodtable_maping": 6086,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ねぎ",
+    "foodtable_maping": 6226,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "味噌",
+    "foodtable_maping": 17045,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "コーヒーゼリー",
+    "foodtable_maping": 15088,
+    "response": {
+      "id": "15088"
+    },
+    "top10_candidates": [
+      {
+        "id": "15088",
+        "food_name": "＜デザート菓子類＞　ゼリー　コーヒー",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "木綿豆腐",
+    "foodtable_maping": 4032,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "04032",
+        "food_name": "だいず　［豆腐・油揚げ類］　木綿豆腐",
+        "score": 1.0
+      },
+      {
+        "id": "04097",
+        "food_name": "だいず　［豆腐・油揚げ類］　木綿豆腐　（凝固剤：塩化マグネシウム）",
+        "score": 1.0
+      },
+      {
+        "id": "04098",
+        "food_name": "だいず　［豆腐・油揚げ類］　木綿豆腐　（凝固剤：硫酸カルシウム）",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "じゃがいも",
+    "foodtable_maping": 2063,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "02017",
+        "food_name": "＜いも類＞　じゃがいも　塊茎　皮なし　生",
+        "score": 1.0
+      },
+      {
+        "id": "02018",
+        "food_name": "＜いも類＞　じゃがいも　塊茎　皮なし　蒸し",
+        "score": 1.0
+      },
+      {
+        "id": "02019",
+        "food_name": "＜いも類＞　じゃがいも　塊茎　皮なし　水煮",
+        "score": 1.0
+      },
+      {
+        "id": "02020",
+        "food_name": "＜いも類＞　じゃがいも　塊茎　皮なし　フライドポテト　（市販冷凍食品を揚げたもの）",
+        "score": 1.0
+      },
+      {
+        "id": "02021",
+        "food_name": "＜いも類＞　じゃがいも　乾燥マッシュポテト",
+        "score": 1.0
+      },
+      {
+        "id": "02063",
+        "food_name": "＜いも類＞　じゃがいも　塊茎　皮つき　生",
+        "score": 1.0
+      },
+      {
+        "id": "02064",
+        "food_name": "＜いも類＞　じゃがいも　塊茎　皮つき　電子レンジ調理",
+        "score": 1.0
+      },
+      {
+        "id": "02065",
+        "food_name": "＜いも類＞　じゃがいも　塊茎　皮つき　フライドポテト　（生を揚げたもの）",
+        "score": 1.0
+      },
+      {
+        "id": "02066",
+        "food_name": "＜いも類＞　じゃがいも　塊茎　皮なし　電子レンジ調理",
+        "score": 1.0
+      },
+      {
+        "id": "02067",
+        "food_name": "＜いも類＞　じゃがいも　塊茎　皮なし　フライドポテト　（生を揚げたもの）",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "にんにく",
+    "foodtable_maping": 6223,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06223",
+        "food_name": "（にんにく類）　にんにく　りん茎　生",
+        "score": 1.0
+      },
+      {
+        "id": "06349",
+        "food_name": "（にんにく類）　にんにく　りん茎　油いため",
+        "score": 1.0
+      },
+      {
+        "id": "17075",
+        "food_name": "＜香辛料類＞　にんにく　ガーリックパウダー　食塩無添加",
+        "score": 1.0
+      },
+      {
+        "id": "17076",
+        "food_name": "＜香辛料類＞　にんにく　おろし",
+        "score": 1.0
+      },
+      {
+        "id": "17128",
+        "food_name": "＜香辛料類＞　にんにく　ガーリックパウダー　食塩添加",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "おろししょうが",
+    "foodtable_maping": 17069,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "みりん",
+    "foodtable_maping": 16025,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "16025",
+        "food_name": "＜アルコール飲料類＞　（混成酒類）　みりん　本みりん",
+        "score": 1.0
+      },
+      {
+        "id": "16026",
+        "food_name": "＜アルコール飲料類＞　（混成酒類）　みりん　本直し",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "鶏ささみ",
+    "foodtable_maping": 11227,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "セロリ",
+    "foodtable_maping": 6119,
+    "response": {
+      "id": "06119"
+    },
+    "top10_candidates": [
+      {
+        "id": "06119",
+        "food_name": "セロリ　葉柄　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "オリーブ油",
+    "foodtable_maping": 14001,
+    "response": {
+      "id": "14001"
+    },
+    "top10_candidates": [
+      {
+        "id": "14001",
+        "food_name": "（植物油脂類）　オリーブ油",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "酢",
+    "foodtable_maping": 17015,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "かぼちゃ",
+    "foodtable_maping": 6048,
+    "response": {
+      "id": "05006"
+    },
+    "top10_candidates": [
+      {
+        "id": "05006",
+        "food_name": "かぼちゃ　いり　味付け",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "ピーナッツ",
+    "foodtable_maping": 5034,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "05034",
+        "food_name": "らっかせい　大粒種　乾",
+        "score": 1.0
+      },
+      {
+        "id": "05035",
+        "food_name": "らっかせい　大粒種　いり",
+        "score": 1.0
+      },
+      {
+        "id": "05044",
+        "food_name": "らっかせい　小粒種　乾",
+        "score": 1.0
+      },
+      {
+        "id": "05045",
+        "food_name": "らっかせい　小粒種　いり",
+        "score": 1.0
+      },
+      {
+        "id": "06303",
+        "food_name": "らっかせい　未熟豆　生",
+        "score": 1.0
+      },
+      {
+        "id": "06304",
+        "food_name": "らっかせい　未熟豆　ゆで",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "すりごま（白）",
+    "foodtable_maping": 5019,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "鶏もも肉",
+    "foodtable_maping": 11221,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "板こんにゃく",
+    "foodtable_maping": 2003,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "02003",
+        "food_name": "＜いも類＞　こんにゃく　板こんにゃく　精粉こんにゃく",
+        "score": 1.0
+      },
+      {
+        "id": "02004",
+        "food_name": "＜いも類＞　こんにゃく　板こんにゃく　生いもこんにゃく",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "ごま油",
+    "foodtable_maping": 14002,
+    "response": {
+      "id": "14002"
+    },
+    "top10_candidates": [
+      {
+        "id": "14002",
+        "food_name": "（植物油脂類）　ごま油",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "だいこん",
+    "foodtable_maping": 6132,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06130",
+        "food_name": "（だいこん類）　だいこん　葉　生",
+        "score": 1.0
+      },
+      {
+        "id": "06131",
+        "food_name": "（だいこん類）　だいこん　葉　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06132",
+        "food_name": "（だいこん類）　だいこん　根　皮つき　生",
+        "score": 1.0
+      },
+      {
+        "id": "06133",
+        "food_name": "（だいこん類）　だいこん　根　皮つき　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06134",
+        "food_name": "（だいこん類）　だいこん　根　皮なし　生",
+        "score": 1.0
+      },
+      {
+        "id": "06135",
+        "food_name": "（だいこん類）　だいこん　根　皮なし　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06367",
+        "food_name": "（だいこん類）　だいこん　根　皮なし　生　おろし",
+        "score": 1.0
+      },
+      {
+        "id": "06368",
+        "food_name": "（だいこん類）　だいこん　根　皮なし　生　おろし汁",
+        "score": 1.0
+      },
+      {
+        "id": "06369",
+        "food_name": "（だいこん類）　だいこん　根　皮なし　生　おろし水洗い",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "シーチキン",
+    "foodtable_maping": 10260,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "たまごふりかけ",
+    "foodtable_maping": 17127,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "茹でうどん",
+    "foodtable_maping": 1039,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "豚バラ肉",
+    "foodtable_maping": 11129,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "卵黄",
+    "foodtable_maping": 12010,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "12010",
+        "food_name": "鶏卵　卵黄　生",
+        "score": 1.0
+      },
+      {
+        "id": "12011",
+        "food_name": "鶏卵　卵黄　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "12012",
+        "food_name": "鶏卵　卵黄　加糖卵黄",
+        "score": 1.0
+      },
+      {
+        "id": "12013",
+        "food_name": "鶏卵　卵黄　乾燥卵黄",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "トマト",
+    "foodtable_maping": 6182,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "サニーレタス",
+    "foodtable_maping": 6315,
+    "response": {
+      "id": "06315"
+    },
+    "top10_candidates": [
+      {
+        "id": "06315",
+        "food_name": "（レタス類）　サニーレタス　葉　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "めんつゆ",
+    "foodtable_maping": 17030,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "17029",
+        "food_name": "＜調味料類＞　（だし類）　めんつゆ　ストレート",
+        "score": 1.0
+      },
+      {
+        "id": "17030",
+        "food_name": "＜調味料類＞　（だし類）　めんつゆ　三倍濃縮",
+        "score": 1.0
+      },
+      {
+        "id": "17141",
+        "food_name": "＜調味料類＞　（だし類）　めんつゆ　二倍濃縮",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "焼肉のタレ",
+    "foodtable_maping": 17113,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "おろしにんにく",
+    "foodtable_maping": 17076,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "にんにく　",
+    "foodtable_maping": 6223,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06223",
+        "food_name": "（にんにく類）　にんにく　りん茎　生",
+        "score": 1.0
+      },
+      {
+        "id": "06349",
+        "food_name": "（にんにく類）　にんにく　りん茎　油いため",
+        "score": 1.0
+      },
+      {
+        "id": "17075",
+        "food_name": "＜香辛料類＞　にんにく　ガーリックパウダー　食塩無添加",
+        "score": 1.0
+      },
+      {
+        "id": "17076",
+        "food_name": "＜香辛料類＞　にんにく　おろし",
+        "score": 1.0
+      },
+      {
+        "id": "17128",
+        "food_name": "＜香辛料類＞　にんにく　ガーリックパウダー　食塩添加",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "ロースハム",
+    "foodtable_maping": 11176,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "11176",
+        "food_name": "＜畜肉類＞　ぶた　［ハム類］　ロースハム　ロースハム",
+        "score": 1.0
+      },
+      {
+        "id": "11303",
+        "food_name": "＜畜肉類＞　ぶた　［ハム類］　ロースハム　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "11304",
+        "food_name": "＜畜肉類＞　ぶた　［ハム類］　ロースハム　焼き",
+        "score": 1.0
+      },
+      {
+        "id": "11305",
+        "food_name": "＜畜肉類＞　ぶた　［ハム類］　ロースハム　フライ",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "ズッキーニ　",
+    "foodtable_maping": 6116,
+    "response": {
+      "id": "06116"
+    },
+    "top10_candidates": [
+      {
+        "id": "06116",
+        "food_name": "ズッキーニ　果実　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "パイナップル",
+    "foodtable_maping": 7097,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "07097",
+        "food_name": "パインアップル　生",
+        "score": 1.0
+      },
+      {
+        "id": "07098",
+        "food_name": "パインアップル　果実飲料　ストレートジュース",
+        "score": 1.0
+      },
+      {
+        "id": "07099",
+        "food_name": "パインアップル　果実飲料　濃縮還元ジュース",
+        "score": 1.0
+      },
+      {
+        "id": "07100",
+        "food_name": "パインアップル　果実飲料　50%果汁入り飲料",
+        "score": 1.0
+      },
+      {
+        "id": "07101",
+        "food_name": "パインアップル　果実飲料　10%果汁入り飲料",
+        "score": 1.0
+      },
+      {
+        "id": "07102",
+        "food_name": "パインアップル　缶詰",
+        "score": 1.0
+      },
+      {
+        "id": "07177",
+        "food_name": "パインアップル　焼き",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "りんごジュース",
+    "foodtable_maping": 7149,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "塩蔵くらげ",
+    "foodtable_maping": 10370,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ピーマン",
+    "foodtable_maping": 6245,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "もやし",
+    "foodtable_maping": 6291,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "顆粒中華だし",
+    "foodtable_maping": 17093,
+    "response": {
+      "id": "17093"
+    },
+    "top10_candidates": [
+      {
+        "id": "17093",
+        "food_name": "＜調味料類＞　（だし類）　顆粒中華だし",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "あさつき　",
+    "foodtable_maping": 6003,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06003",
+        "food_name": "あさつき　葉　生",
+        "score": 1.0
+      },
+      {
+        "id": "06004",
+        "food_name": "あさつき　葉　ゆで",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "ヨーグルト",
+    "foodtable_maping": 13025,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "13025",
+        "food_name": "＜牛乳及び乳製品＞　（発酵乳・乳酸菌飲料）　ヨーグルト　全脂無糖",
+        "score": 1.0
+      },
+      {
+        "id": "13026",
+        "food_name": "＜牛乳及び乳製品＞　（発酵乳・乳酸菌飲料）　ヨーグルト　脱脂加糖",
+        "score": 1.0
+      },
+      {
+        "id": "13027",
+        "food_name": "＜牛乳及び乳製品＞　（発酵乳・乳酸菌飲料）　ヨーグルト　ドリンクタイプ　加糖",
+        "score": 1.0
+      },
+      {
+        "id": "13053",
+        "food_name": "＜牛乳及び乳製品＞　（発酵乳・乳酸菌飲料）　ヨーグルト　低脂肪無糖",
+        "score": 1.0
+      },
+      {
+        "id": "13054",
+        "food_name": "＜牛乳及び乳製品＞　（発酵乳・乳酸菌飲料）　ヨーグルト　無脂肪無糖",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "ベーコン",
+    "foodtable_maping": 11183,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "11183",
+        "food_name": "＜畜肉類＞　ぶた　［ベーコン類］　ばらベーコン　ばらベーコン",
+        "score": 1.0
+      },
+      {
+        "id": "11314",
+        "food_name": "＜畜肉類＞　ぶた　［ベーコン類］　ばらベーコン　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "11315",
+        "food_name": "＜畜肉類＞　ぶた　［ベーコン類］　ばらベーコン　焼き",
+        "score": 1.0
+      },
+      {
+        "id": "11316",
+        "food_name": "＜畜肉類＞　ぶた　［ベーコン類］　ばらベーコン　油いため",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "オクラ　",
+    "foodtable_maping": 6032,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06032",
+        "food_name": "オクラ　果実　生",
+        "score": 1.0
+      },
+      {
+        "id": "06033",
+        "food_name": "オクラ　果実　ゆで",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "乾燥ひじき",
+    "foodtable_maping": 9050,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "コーン缶",
+    "foodtable_maping": 6180,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "レモン汁",
+    "foodtable_maping": 7156,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "味付けのり",
+    "foodtable_maping": 9005,
+    "response": {
+      "id": "09005"
+    },
+    "top10_candidates": [
+      {
+        "id": "09005",
+        "food_name": "あまのり　味付けのり",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "さつまいも",
+    "foodtable_maping": 2045,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "02006",
+        "food_name": "＜いも類＞　（さつまいも類）　さつまいも　塊根　皮なし　生",
+        "score": 1.0
+      },
+      {
+        "id": "02007",
+        "food_name": "＜いも類＞　（さつまいも類）　さつまいも　塊根　皮なし　蒸し",
+        "score": 1.0
+      },
+      {
+        "id": "02008",
+        "food_name": "＜いも類＞　（さつまいも類）　さつまいも　塊根　皮なし　焼き",
+        "score": 1.0
+      },
+      {
+        "id": "02009",
+        "food_name": "＜いも類＞　（さつまいも類）　さつまいも　蒸し切干",
+        "score": 1.0
+      },
+      {
+        "id": "02045",
+        "food_name": "＜いも類＞　（さつまいも類）　さつまいも　塊根　皮つき　生",
+        "score": 1.0
+      },
+      {
+        "id": "02046",
+        "food_name": "＜いも類＞　（さつまいも類）　さつまいも　塊根　皮つき　蒸し",
+        "score": 1.0
+      },
+      {
+        "id": "02047",
+        "food_name": "＜いも類＞　（さつまいも類）　さつまいも　塊根　皮つき　天ぷら",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "油揚げ　",
+    "foodtable_maping": 4040,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "01057",
+        "food_name": "こむぎ　［即席めん類］　即席中華めん　油揚げ　乾　（添付調味料等を含むもの）",
+        "score": 1.0
+      },
+      {
+        "id": "01060",
+        "food_name": "こむぎ　［即席めん類］　中華スタイル即席カップめん　油揚げ　焼きそば　乾　（添付調味料等を含むもの）",
+        "score": 1.0
+      },
+      {
+        "id": "01062",
+        "food_name": "こむぎ　［即席めん類］　和風スタイル即席カップめん　油揚げ　乾　（添付調味料等を含むもの）",
+        "score": 1.0
+      },
+      {
+        "id": "01144",
+        "food_name": "こむぎ　［即席めん類］　即席中華めん　油揚げ　乾　（添付調味料等を含まないもの）",
+        "score": 1.0
+      },
+      {
+        "id": "01189",
+        "food_name": "こむぎ　［即席めん類］　即席中華めん　油揚げ　ゆで　（添付調味料等を含まないもの）",
+        "score": 1.0
+      },
+      {
+        "id": "01191",
+        "food_name": "こむぎ　［即席めん類］　中華スタイル即席カップめん　油揚げ　しょうゆ味　乾　（添付調味料等を含むもの）",
+        "score": 1.0
+      },
+      {
+        "id": "01192",
+        "food_name": "こむぎ　［即席めん類］　中華スタイル即席カップめん　油揚げ　しょうゆ味　調理後のめん　（スープを残したもの）",
+        "score": 1.0
+      },
+      {
+        "id": "01193",
+        "food_name": "こむぎ　［即席めん類］　中華スタイル即席カップめん　油揚げ　塩味　乾　（添付調味料等を含むもの）",
+        "score": 1.0
+      },
+      {
+        "id": "01194",
+        "food_name": "こむぎ　［即席めん類］　中華スタイル即席カップめん　油揚げ　塩味　調理後のめん　（スープを残したもの）",
+        "score": 1.0
+      },
+      {
+        "id": "01196",
+        "food_name": "こむぎ　［即席めん類］　和風スタイル即席カップめん　油揚げ　調理後のめん　（スープを残したもの）",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "鶏むね肉",
+    "foodtable_maping": 11219,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ウスターソース",
+    "foodtable_maping": 17001,
+    "response": {
+      "id": "17001"
+    },
+    "top10_candidates": [
+      {
+        "id": "17001",
+        "food_name": "＜調味料類＞　（ウスターソース類）　ウスターソース",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "みずな",
+    "foodtable_maping": 6072,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06072",
+        "food_name": "みずな　葉　生",
+        "score": 1.0
+      },
+      {
+        "id": "06073",
+        "food_name": "みずな　葉　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06074",
+        "food_name": "みずな　塩漬",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "ちりめんじゃこ",
+    "foodtable_maping": 10056,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "豆苗",
+    "foodtable_maping": 6019,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ウインナーソーセージ",
+    "foodtable_maping": 11186,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "11186",
+        "food_name": "＜畜肉類＞　ぶた　［ソーセージ類］　ウインナーソーセージ　ウインナーソーセージ",
+        "score": 1.0
+      },
+      {
+        "id": "11306",
+        "food_name": "＜畜肉類＞　ぶた　［ソーセージ類］　ウインナーソーセージ　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "11307",
+        "food_name": "＜畜肉類＞　ぶた　［ソーセージ類］　ウインナーソーセージ　焼き",
+        "score": 1.0
+      },
+      {
+        "id": "11308",
+        "food_name": "＜畜肉類＞　ぶた　［ソーセージ類］　ウインナーソーセージ　フライ",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "白桃缶",
+    "foodtable_maping": 7138,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "無調整豆乳",
+    "foodtable_maping": 4052,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "粉寒天",
+    "foodtable_maping": 9049,
+    "response": {
+      "id": "09049"
+    },
+    "top10_candidates": [
+      {
+        "id": "09049",
+        "food_name": "てんぐさ　粉寒天",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "長ねぎ",
+    "foodtable_maping": 6226,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06226",
+        "food_name": "（ねぎ類）　根深ねぎ　葉　軟白　生",
+        "score": 1.0
+      },
+      {
+        "id": "06350",
+        "food_name": "（ねぎ類）　根深ねぎ　葉　軟白　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06351",
+        "food_name": "（ねぎ類）　根深ねぎ　葉　軟白　油いため",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "かたくり粉",
+    "foodtable_maping": 2034,
+    "response": {
+      "id": "02034"
+    },
+    "top10_candidates": [
+      {
+        "id": "02034",
+        "food_name": "＜でん粉・でん粉製品＞　（でん粉類）　じゃがいもでん粉",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "マカロニ",
+    "foodtable_maping": 1063,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "えだまめ　",
+    "foodtable_maping": 6015,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06015",
+        "food_name": "えだまめ　生",
+        "score": 1.0
+      },
+      {
+        "id": "06016",
+        "food_name": "えだまめ　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06017",
+        "food_name": "えだまめ　冷凍",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "梅びしお",
+    "foodtable_maping": 7024,
+    "response": {
+      "id": "07024"
+    },
+    "top10_candidates": [
+      {
+        "id": "07024",
+        "food_name": "うめ　梅びしお",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "オレンジ",
+    "foodtable_maping": 7041,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "07040",
+        "food_name": "（かんきつ類）　オレンジ　ネーブル　砂じょう　生",
+        "score": 1.0
+      },
+      {
+        "id": "07041",
+        "food_name": "（かんきつ類）　オレンジ　バレンシア　米国産　砂じょう　生",
+        "score": 1.0
+      },
+      {
+        "id": "07042",
+        "food_name": "（かんきつ類）　オレンジ　バレンシア　果実飲料　ストレートジュース",
+        "score": 1.0
+      },
+      {
+        "id": "07043",
+        "food_name": "（かんきつ類）　オレンジ　バレンシア　果実飲料　濃縮還元ジュース",
+        "score": 1.0
+      },
+      {
+        "id": "07044",
+        "food_name": "（かんきつ類）　オレンジ　バレンシア　果実飲料　50%果汁入り飲料",
+        "score": 1.0
+      },
+      {
+        "id": "07045",
+        "food_name": "（かんきつ類）　オレンジ　バレンシア　果実飲料　30%果汁入り飲料",
+        "score": 1.0
+      },
+      {
+        "id": "07046",
+        "food_name": "（かんきつ類）　オレンジ　バレンシア　マーマレード　高糖度",
+        "score": 1.0
+      },
+      {
+        "id": "07047",
+        "food_name": "（かんきつ類）　オレンジ　バレンシア　マーマレード　低糖度",
+        "score": 1.0
+      },
+      {
+        "id": "07161",
+        "food_name": "（かんきつ類）　オレンジ　福原オレンジ　砂じょう　生",
+        "score": 1.0
+      },
+      {
+        "id": "15087",
+        "food_name": "＜デザート菓子類＞　ゼリー　オレンジ",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "まあじ",
+    "foodtable_maping": 10006,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "10003",
+        "food_name": "＜魚類＞　（あじ類）　まあじ　皮つき　生",
+        "score": 1.0
+      },
+      {
+        "id": "10004",
+        "food_name": "＜魚類＞　（あじ類）　まあじ　皮つき　水煮",
+        "score": 1.0
+      },
+      {
+        "id": "10005",
+        "food_name": "＜魚類＞　（あじ類）　まあじ　皮つき　焼き",
+        "score": 1.0
+      },
+      {
+        "id": "10006",
+        "food_name": "＜魚類＞　（あじ類）　まあじ　開き干し　生",
+        "score": 1.0
+      },
+      {
+        "id": "10007",
+        "food_name": "＜魚類＞　（あじ類）　まあじ　開き干し　焼き",
+        "score": 1.0
+      },
+      {
+        "id": "10389",
+        "food_name": "＜魚類＞　（あじ類）　まあじ　皮なし　生",
+        "score": 1.0
+      },
+      {
+        "id": "10390",
+        "food_name": "＜魚類＞　（あじ類）　まあじ　皮つき　フライ",
+        "score": 1.0
+      },
+      {
+        "id": "10391",
+        "food_name": "＜魚類＞　（あじ類）　まあじ　小型　骨付き　生",
+        "score": 1.0
+      },
+      {
+        "id": "10392",
+        "food_name": "＜魚類＞　（あじ類）　まあじ　小型　骨付き　から揚げ",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "ししとう",
+    "foodtable_maping": 6093,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06093",
+        "food_name": "（ししとう類）　ししとう　果実　生",
+        "score": 1.0
+      },
+      {
+        "id": "06094",
+        "food_name": "（ししとう類）　ししとう　果実　油いため",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "カットわかめ　",
+    "foodtable_maping": 9040,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "09044",
+        "food_name": "わかめ　カットわかめ　乾",
+        "score": 1.0
+      },
+      {
+        "id": "09058",
+        "food_name": "わかめ　カットわかめ　水煮　（沸騰水で短時間加熱したもの）",
+        "score": 1.0
+      },
+      {
+        "id": "09059",
+        "food_name": "わかめ　カットわかめ　水煮の汁",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "乾燥金時豆",
+    "foodtable_maping": 4007,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "牛もも肉",
+    "foodtable_maping": 11075,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●おろしにんにく",
+    "foodtable_maping": 17076,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●しょうゆ",
+    "foodtable_maping": 17007,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●料理酒",
+    "foodtable_maping": 17138,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●みりん",
+    "foodtable_maping": 16025,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●豆板醤",
+    "foodtable_maping": 17004,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●砂糖",
+    "foodtable_maping": 3003,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●いりごま（白）　",
+    "foodtable_maping": 5018,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●ごま油",
+    "foodtable_maping": 14002,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●塩",
+    "foodtable_maping": 17012,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "温泉卵",
+    "foodtable_maping": 12006,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "塩蔵もずく",
+    "foodtable_maping": 9038,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "かにかま",
+    "foodtable_maping": 10376,
+    "response": {
+      "id": "10376"
+    },
+    "top10_candidates": [
+      {
+        "id": "10376",
+        "food_name": "＜水産練り製品＞　かに風味かまぼこ",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "モロヘイヤ　",
+    "foodtable_maping": 6293,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06293",
+        "food_name": "モロヘイヤ　茎葉　生",
+        "score": 1.0
+      },
+      {
+        "id": "06294",
+        "food_name": "モロヘイヤ　茎葉　ゆで",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "きゅうり　",
+    "foodtable_maping": 6065,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06065",
+        "food_name": "きゅうり　果実　生",
+        "score": 1.0
+      },
+      {
+        "id": "06066",
+        "food_name": "きゅうり　漬物　塩漬",
+        "score": 1.0
+      },
+      {
+        "id": "06067",
+        "food_name": "きゅうり　漬物　しょうゆ漬",
+        "score": 1.0
+      },
+      {
+        "id": "06068",
+        "food_name": "きゅうり　漬物　ぬかみそ漬",
+        "score": 1.0
+      },
+      {
+        "id": "06069",
+        "food_name": "きゅうり　漬物　ピクルス　スイート型",
+        "score": 1.0
+      },
+      {
+        "id": "06070",
+        "food_name": "きゅうり　漬物　ピクルス　サワー型",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "穀物酢",
+    "foodtable_maping": 17015,
+    "response": {
+      "id": "17015"
+    },
+    "top10_candidates": [
+      {
+        "id": "17015",
+        "food_name": "＜調味料類＞　（食酢類）　穀物酢",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "手毬麩",
+    "foodtable_maping": 1066,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "貝割れだいこん",
+    "foodtable_maping": 6128,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "A砂糖",
+    "foodtable_maping": 3003,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "A顆粒中華だし",
+    "foodtable_maping": 17093,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "A塩",
+    "foodtable_maping": 17012,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Aレモン汁",
+    "foodtable_maping": 7156,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "B料理酒",
+    "foodtable_maping": 17138,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Bおろししょうが",
+    "foodtable_maping": 17069,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "B塩",
+    "foodtable_maping": 17012,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "しめじ",
+    "foodtable_maping": 8016,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "エリンギ　",
+    "foodtable_maping": 8025,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "08025",
+        "food_name": "（ひらたけ類）　エリンギ　生",
+        "score": 1.0
+      },
+      {
+        "id": "08048",
+        "food_name": "（ひらたけ類）　エリンギ　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "08049",
+        "food_name": "（ひらたけ類）　エリンギ　焼き",
+        "score": 1.0
+      },
+      {
+        "id": "08050",
+        "food_name": "（ひらたけ類）　エリンギ　油いため",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "えのきたけ　",
+    "foodtable_maping": 8001,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "08001",
+        "food_name": "えのきたけ　生",
+        "score": 1.0
+      },
+      {
+        "id": "08002",
+        "food_name": "えのきたけ　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "08003",
+        "food_name": "えのきたけ　味付け瓶詰",
+        "score": 1.0
+      },
+      {
+        "id": "08037",
+        "food_name": "えのきたけ　油いため",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "●酢",
+    "foodtable_maping": 17015,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●こしょう",
+    "foodtable_maping": 17064,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●オリーブ油",
+    "foodtable_maping": 14001,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●とうがらし（乾）",
+    "foodtable_maping": 6172,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "和梨",
+    "foodtable_maping": 7088,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●油",
+    "foodtable_maping": 14006,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "油揚げ",
+    "foodtable_maping": 4040,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "01057",
+        "food_name": "こむぎ　［即席めん類］　即席中華めん　油揚げ　乾　（添付調味料等を含むもの）",
+        "score": 1.0
+      },
+      {
+        "id": "01060",
+        "food_name": "こむぎ　［即席めん類］　中華スタイル即席カップめん　油揚げ　焼きそば　乾　（添付調味料等を含むもの）",
+        "score": 1.0
+      },
+      {
+        "id": "01062",
+        "food_name": "こむぎ　［即席めん類］　和風スタイル即席カップめん　油揚げ　乾　（添付調味料等を含むもの）",
+        "score": 1.0
+      },
+      {
+        "id": "01144",
+        "food_name": "こむぎ　［即席めん類］　即席中華めん　油揚げ　乾　（添付調味料等を含まないもの）",
+        "score": 1.0
+      },
+      {
+        "id": "01189",
+        "food_name": "こむぎ　［即席めん類］　即席中華めん　油揚げ　ゆで　（添付調味料等を含まないもの）",
+        "score": 1.0
+      },
+      {
+        "id": "01191",
+        "food_name": "こむぎ　［即席めん類］　中華スタイル即席カップめん　油揚げ　しょうゆ味　乾　（添付調味料等を含むもの）",
+        "score": 1.0
+      },
+      {
+        "id": "01192",
+        "food_name": "こむぎ　［即席めん類］　中華スタイル即席カップめん　油揚げ　しょうゆ味　調理後のめん　（スープを残したもの）",
+        "score": 1.0
+      },
+      {
+        "id": "01193",
+        "food_name": "こむぎ　［即席めん類］　中華スタイル即席カップめん　油揚げ　塩味　乾　（添付調味料等を含むもの）",
+        "score": 1.0
+      },
+      {
+        "id": "01194",
+        "food_name": "こむぎ　［即席めん類］　中華スタイル即席カップめん　油揚げ　塩味　調理後のめん　（スープを残したもの）",
+        "score": 1.0
+      },
+      {
+        "id": "01196",
+        "food_name": "こむぎ　［即席めん類］　和風スタイル即席カップめん　油揚げ　調理後のめん　（スープを残したもの）",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "しらたき",
+    "foodtable_maping": 2005,
+    "response": {
+      "id": "02005"
+    },
+    "top10_candidates": [
+      {
+        "id": "02005",
+        "food_name": "＜いも類＞　こんにゃく　しらたき",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "●出汁",
+    "foodtable_maping": 17020,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "だいこん　",
+    "foodtable_maping": 6132,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06130",
+        "food_name": "（だいこん類）　だいこん　葉　生",
+        "score": 1.0
+      },
+      {
+        "id": "06131",
+        "food_name": "（だいこん類）　だいこん　葉　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06132",
+        "food_name": "（だいこん類）　だいこん　根　皮つき　生",
+        "score": 1.0
+      },
+      {
+        "id": "06133",
+        "food_name": "（だいこん類）　だいこん　根　皮つき　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06134",
+        "food_name": "（だいこん類）　だいこん　根　皮なし　生",
+        "score": 1.0
+      },
+      {
+        "id": "06135",
+        "food_name": "（だいこん類）　だいこん　根　皮なし　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06367",
+        "food_name": "（だいこん類）　だいこん　根　皮なし　生　おろし",
+        "score": 1.0
+      },
+      {
+        "id": "06368",
+        "food_name": "（だいこん類）　だいこん　根　皮なし　生　おろし汁",
+        "score": 1.0
+      },
+      {
+        "id": "06369",
+        "food_name": "（だいこん類）　だいこん　根　皮なし　生　おろし水洗い",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "とろろ昆布",
+    "foodtable_maping": 9021,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "赤パプリカ",
+    "foodtable_maping": 6247,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "黄パプリカ",
+    "foodtable_maping": 6249,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "たまねぎ",
+    "foodtable_maping": 6153,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06153",
+        "food_name": "（たまねぎ類）　たまねぎ　りん茎　生",
+        "score": 1.0
+      },
+      {
+        "id": "06154",
+        "food_name": "（たまねぎ類）　たまねぎ　りん茎　水さらし",
+        "score": 1.0
+      },
+      {
+        "id": "06155",
+        "food_name": "（たまねぎ類）　たまねぎ　りん茎　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06336",
+        "food_name": "（たまねぎ類）　たまねぎ　りん茎　油いため",
+        "score": 1.0
+      },
+      {
+        "id": "06389",
+        "food_name": "（たまねぎ類）　たまねぎ　りん茎　油いため　（あめ色たまねぎ）",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "●トマトソース",
+    "foodtable_maping": 17037,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●顆粒コンソメ",
+    "foodtable_maping": 17027,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●チリパウダー",
+    "foodtable_maping": 17072,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ゴーヤ",
+    "foodtable_maping": 6205,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06205",
+        "food_name": "にがうり　果実　生",
+        "score": 1.0
+      },
+      {
+        "id": "06206",
+        "food_name": "にがうり　果実　油いため",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "アボカド　",
+    "foodtable_maping": 7006,
+    "response": {
+      "id": "07006"
+    },
+    "top10_candidates": [
+      {
+        "id": "07006",
+        "food_name": "アボカド　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "●マヨネーズ",
+    "foodtable_maping": 17042,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●カレー粉",
+    "foodtable_maping": 17061,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●牛乳",
+    "foodtable_maping": 13003,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "無糖ヨーグルト",
+    "foodtable_maping": 13025,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "みかん缶",
+    "foodtable_maping": 7035,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "キウイフルーツ　",
+    "foodtable_maping": 7054,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "07054",
+        "food_name": "キウイフルーツ　緑肉種　生",
+        "score": 1.0
+      },
+      {
+        "id": "07168",
+        "food_name": "キウイフルーツ　黄肉種　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "さわら",
+    "foodtable_maping": 10171,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "10171",
+        "food_name": "＜魚類＞　さわら　生",
+        "score": 1.0
+      },
+      {
+        "id": "10172",
+        "food_name": "＜魚類＞　さわら　焼き",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "●すだち果汁",
+    "foodtable_maping": 7079,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "すだち",
+    "foodtable_maping": 7078,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "07078",
+        "food_name": "（かんきつ類）　すだち　果皮　生",
+        "score": 1.0
+      },
+      {
+        "id": "07079",
+        "food_name": "（かんきつ類）　すだち　果汁　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "乾燥高野豆腐",
+    "foodtable_maping": 4042,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "きぬさや",
+    "foodtable_maping": 6020,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●出汁",
+    "foodtable_maping": 17019,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "はんぺん",
+    "foodtable_maping": 10385,
+    "response": {
+      "id": "10385"
+    },
+    "top10_candidates": [
+      {
+        "id": "10385",
+        "food_name": "＜水産練り製品＞　はんぺん",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "みょうが　",
+    "foodtable_maping": 6280,
+    "response": {
+      "id": "06280"
+    },
+    "top10_candidates": [
+      {
+        "id": "06280",
+        "food_name": "（みょうが類）　みょうが　花穂　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "●顆粒和風だし",
+    "foodtable_maping": 17028,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●練りわさび",
+    "foodtable_maping": 17081,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "コーヒー牛乳",
+    "foodtable_maping": 16047,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "食パン",
+    "foodtable_maping": 1026,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "01026",
+        "food_name": "こむぎ　［パン類］　角形食パン　食パン",
+        "score": 1.0
+      },
+      {
+        "id": "01205",
+        "food_name": "こむぎ　［パン類］　山形食パン　食パン",
+        "score": 1.0
+      },
+      {
+        "id": "01206",
+        "food_name": "こむぎ　［パン類］　食パン　リーンタイプ",
+        "score": 1.0
+      },
+      {
+        "id": "01207",
+        "food_name": "こむぎ　［パン類］　食パン　リッチタイプ",
+        "score": 1.0
+      },
+      {
+        "id": "01211",
+        "food_name": "こめ　［うるち米製品］　米粉パン　食パン",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "ブルーベリージャム",
+    "foodtable_maping": 7125,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "マーガリン",
+    "foodtable_maping": 14020,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "14020",
+        "food_name": "（マーガリン類）　マーガリン　家庭用　有塩",
+        "score": 1.0
+      },
+      {
+        "id": "14029",
+        "food_name": "（マーガリン類）　マーガリン　業務用　有塩",
+        "score": 1.0
+      },
+      {
+        "id": "14033",
+        "food_name": "（マーガリン類）　マーガリン　家庭用　無塩",
+        "score": 1.0
+      },
+      {
+        "id": "14034",
+        "food_name": "（マーガリン類）　マーガリン　業務用　無塩",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "乾燥マカロニ",
+    "foodtable_maping": 1063,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●無塩トマトジュース",
+    "foodtable_maping": 6340,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ブロッコリー　",
+    "foodtable_maping": 6263,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06263",
+        "food_name": "ブロッコリー　花序　生",
+        "score": 1.0
+      },
+      {
+        "id": "06264",
+        "food_name": "ブロッコリー　花序　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06354",
+        "food_name": "ブロッコリー　芽ばえ　生",
+        "score": 1.0
+      },
+      {
+        "id": "06395",
+        "food_name": "ブロッコリー　花序　電子レンジ調理",
+        "score": 1.0
+      },
+      {
+        "id": "06396",
+        "food_name": "ブロッコリー　花序　焼き",
+        "score": 1.0
+      },
+      {
+        "id": "06397",
+        "food_name": "ブロッコリー　花序　油いため",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "茹でたこ",
+    "foodtable_maping": 10362,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "バター",
+    "foodtable_maping": 14017,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "グレープフルーツ",
+    "foodtable_maping": 7062,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "07062",
+        "food_name": "（かんきつ類）　グレープフルーツ　白肉種　砂じょう　生",
+        "score": 1.0
+      },
+      {
+        "id": "07063",
+        "food_name": "（かんきつ類）　グレープフルーツ　果実飲料　ストレートジュース",
+        "score": 1.0
+      },
+      {
+        "id": "07064",
+        "food_name": "（かんきつ類）　グレープフルーツ　果実飲料　濃縮還元ジュース",
+        "score": 1.0
+      },
+      {
+        "id": "07065",
+        "food_name": "（かんきつ類）　グレープフルーツ　果実飲料　50%果汁入り飲料",
+        "score": 1.0
+      },
+      {
+        "id": "07066",
+        "food_name": "（かんきつ類）　グレープフルーツ　果実飲料　20%果汁入り飲料",
+        "score": 1.0
+      },
+      {
+        "id": "07067",
+        "food_name": "（かんきつ類）　グレープフルーツ　缶詰",
+        "score": 1.0
+      },
+      {
+        "id": "07164",
+        "food_name": "（かんきつ類）　グレープフルーツ　紅肉種　砂じょう　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "牛乳",
+    "foodtable_maping": 13003,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "鮭",
+    "foodtable_maping": 10130,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "マヨネーズ　",
+    "foodtable_maping": 17042,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "17042",
+        "food_name": "＜調味料類＞　（ドレッシング類）　半固形状ドレッシング　マヨネーズ　全卵型",
+        "score": 1.0
+      },
+      {
+        "id": "17043",
+        "food_name": "＜調味料類＞　（ドレッシング類）　半固形状ドレッシング　マヨネーズ　卵黄型",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "ピクルス",
+    "foodtable_maping": 6069,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06069",
+        "food_name": "きゅうり　漬物　ピクルス　スイート型",
+        "score": 1.0
+      },
+      {
+        "id": "06070",
+        "food_name": "きゅうり　漬物　ピクルス　サワー型",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "サラダな",
+    "foodtable_maping": 6313,
+    "response": {
+      "id": "06313"
+    },
+    "top10_candidates": [
+      {
+        "id": "06313",
+        "food_name": "（レタス類）　サラダな　葉　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "きゅうり",
+    "foodtable_maping": 6065,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06065",
+        "food_name": "きゅうり　果実　生",
+        "score": 1.0
+      },
+      {
+        "id": "06066",
+        "food_name": "きゅうり　漬物　塩漬",
+        "score": 1.0
+      },
+      {
+        "id": "06067",
+        "food_name": "きゅうり　漬物　しょうゆ漬",
+        "score": 1.0
+      },
+      {
+        "id": "06068",
+        "food_name": "きゅうり　漬物　ぬかみそ漬",
+        "score": 1.0
+      },
+      {
+        "id": "06069",
+        "food_name": "きゅうり　漬物　ピクルス　スイート型",
+        "score": 1.0
+      },
+      {
+        "id": "06070",
+        "food_name": "きゅうり　漬物　ピクルス　サワー型",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "●顆粒中華だし",
+    "foodtable_maping": 17093,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●いりごま（白）",
+    "foodtable_maping": 5018,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "カットわかめ",
+    "foodtable_maping": 9040,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "09044",
+        "food_name": "わかめ　カットわかめ　乾",
+        "score": 1.0
+      },
+      {
+        "id": "09058",
+        "food_name": "わかめ　カットわかめ　水煮　（沸騰水で短時間加熱したもの）",
+        "score": 1.0
+      },
+      {
+        "id": "09059",
+        "food_name": "わかめ　カットわかめ　水煮の汁",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "むきえび",
+    "foodtable_maping": 10415,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "絹ごし豆腐",
+    "foodtable_maping": 4033,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "04033",
+        "food_name": "だいず　［豆腐・油揚げ類］　絹ごし豆腐",
+        "score": 1.0
+      },
+      {
+        "id": "04099",
+        "food_name": "だいず　［豆腐・油揚げ類］　絹ごし豆腐　（凝固剤：塩化マグネシウム）",
+        "score": 1.0
+      },
+      {
+        "id": "04100",
+        "food_name": "だいず　［豆腐・油揚げ類］　絹ごし豆腐　（凝固剤：硫酸カルシウム）",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "●すりごま（白）　",
+    "foodtable_maping": 5019,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": " ●顆粒コンソメ",
+    "foodtable_maping": 17027,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": " ●塩",
+    "foodtable_maping": 17012,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": " ●こしょう",
+    "foodtable_maping": 17064,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "レモン汁　",
+    "foodtable_maping": 7156,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●練りわさび　",
+    "foodtable_maping": 17081,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "スパゲッティ",
+    "foodtable_maping": 1063,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "いか",
+    "foodtable_maping": 10345,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "A顆粒和風だし",
+    "foodtable_maping": 17028,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Aレモン汁　",
+    "foodtable_maping": 7156,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "たまねぎ　",
+    "foodtable_maping": 6153,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06153",
+        "food_name": "（たまねぎ類）　たまねぎ　りん茎　生",
+        "score": 1.0
+      },
+      {
+        "id": "06154",
+        "food_name": "（たまねぎ類）　たまねぎ　りん茎　水さらし",
+        "score": 1.0
+      },
+      {
+        "id": "06155",
+        "food_name": "（たまねぎ類）　たまねぎ　りん茎　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06336",
+        "food_name": "（たまねぎ類）　たまねぎ　りん茎　油いため",
+        "score": 1.0
+      },
+      {
+        "id": "06389",
+        "food_name": "（たまねぎ類）　たまねぎ　りん茎　油いため　（あめ色たまねぎ）",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "しめじ　",
+    "foodtable_maping": 8016,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "まいたけ　",
+    "foodtable_maping": 8028,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "08028",
+        "food_name": "まいたけ　生",
+        "score": 1.0
+      },
+      {
+        "id": "08029",
+        "food_name": "まいたけ　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "08030",
+        "food_name": "まいたけ　乾",
+        "score": 1.0
+      },
+      {
+        "id": "08051",
+        "food_name": "まいたけ　油いため",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "しいたけ",
+    "foodtable_maping": 8039,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "08013",
+        "food_name": "しいたけ　乾しいたけ　乾",
+        "score": 1.0
+      },
+      {
+        "id": "08014",
+        "food_name": "しいたけ　乾しいたけ　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "08039",
+        "food_name": "しいたけ　生しいたけ　菌床栽培　生",
+        "score": 1.0
+      },
+      {
+        "id": "08040",
+        "food_name": "しいたけ　生しいたけ　菌床栽培　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "08041",
+        "food_name": "しいたけ　生しいたけ　菌床栽培　油いため",
+        "score": 1.0
+      },
+      {
+        "id": "08042",
+        "food_name": "しいたけ　生しいたけ　原木栽培　生",
+        "score": 1.0
+      },
+      {
+        "id": "08043",
+        "food_name": "しいたけ　生しいたけ　原木栽培　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "08044",
+        "food_name": "しいたけ　生しいたけ　原木栽培　油いため",
+        "score": 1.0
+      },
+      {
+        "id": "08053",
+        "food_name": "しいたけ　乾しいたけ　甘煮",
+        "score": 1.0
+      },
+      {
+        "id": "08057",
+        "food_name": "しいたけ　生しいたけ　菌床栽培　天ぷら",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "しそ　",
+    "foodtable_maping": 6095,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06095",
+        "food_name": "しそ　葉　生",
+        "score": 1.0
+      },
+      {
+        "id": "06096",
+        "food_name": "しそ　実　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "牛ひき肉",
+    "foodtable_maping": 11089,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Aカレー粉",
+    "foodtable_maping": 17061,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Aトマトケチャップ",
+    "foodtable_maping": 17036,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "A中濃ソース",
+    "foodtable_maping": 17002,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Aしょうゆ",
+    "foodtable_maping": 17007,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "紫たまねぎ　",
+    "foodtable_maping": 6156,
+    "response": {
+      "id": "06156"
+    },
+    "top10_candidates": [
+      {
+        "id": "06156",
+        "food_name": "（たまねぎ類）　赤たまねぎ　りん茎　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "しょうが　",
+    "foodtable_maping": 6103,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06103",
+        "food_name": "（しょうが類）　しょうが　根茎　皮なし　生",
+        "score": 1.0
+      },
+      {
+        "id": "06104",
+        "food_name": "（しょうが類）　しょうが　漬物　酢漬",
+        "score": 1.0
+      },
+      {
+        "id": "06105",
+        "food_name": "（しょうが類）　しょうが　漬物　甘酢漬",
+        "score": 1.0
+      },
+      {
+        "id": "06365",
+        "food_name": "（しょうが類）　しょうが　根茎　皮なし　生　おろし",
+        "score": 1.0
+      },
+      {
+        "id": "06366",
+        "food_name": "（しょうが類）　しょうが　根茎　皮なし　生　おろし汁",
+        "score": 1.0
+      },
+      {
+        "id": "17068",
+        "food_name": "＜香辛料類＞　しょうが　粉",
+        "score": 1.0
+      },
+      {
+        "id": "17069",
+        "food_name": "＜香辛料類＞　しょうが　おろし",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "トマト　",
+    "foodtable_maping": 6182,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "シュレッドチーズ",
+    "foodtable_maping": 13040,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "こまつな　",
+    "foodtable_maping": 6086,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06086",
+        "food_name": "こまつな　葉　生",
+        "score": 1.0
+      },
+      {
+        "id": "06087",
+        "food_name": "こまつな　葉　ゆで",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "にんじん　",
+    "foodtable_maping": 6212,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06212",
+        "food_name": "（にんじん類）　にんじん　根　皮つき　生",
+        "score": 1.0
+      },
+      {
+        "id": "06213",
+        "food_name": "（にんじん類）　にんじん　根　皮つき　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06214",
+        "food_name": "（にんじん類）　にんじん　根　皮なし　生",
+        "score": 1.0
+      },
+      {
+        "id": "06215",
+        "food_name": "（にんじん類）　にんじん　根　皮なし　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06216",
+        "food_name": "（にんじん類）　にんじん　根　冷凍",
+        "score": 1.0
+      },
+      {
+        "id": "06217",
+        "food_name": "（にんじん類）　にんじん　ジュース　缶詰",
+        "score": 1.0
+      },
+      {
+        "id": "06345",
+        "food_name": "（にんじん類）　にんじん　根　皮なし　油いため",
+        "score": 1.0
+      },
+      {
+        "id": "06346",
+        "food_name": "（にんじん類）　にんじん　根　皮なし　素揚げ",
+        "score": 1.0
+      },
+      {
+        "id": "06347",
+        "food_name": "（にんじん類）　にんじん　根　皮　生",
+        "score": 1.0
+      },
+      {
+        "id": "06348",
+        "food_name": "（にんじん類）　にんじん　グラッセ",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "プリン",
+    "foodtable_maping": 15086,
+    "response": {
+      "id": "15086"
+    },
+    "top10_candidates": [
+      {
+        "id": "15086",
+        "food_name": "＜デザート菓子類＞　カスタードプリン",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "キャベツ　",
+    "foodtable_maping": 6061,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06061",
+        "food_name": "（キャベツ類）　キャベツ　結球葉　生",
+        "score": 1.0
+      },
+      {
+        "id": "06062",
+        "food_name": "（キャベツ類）　キャベツ　結球葉　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06333",
+        "food_name": "（キャベツ類）　キャベツ　結球葉　油いため",
+        "score": 1.0
+      },
+      {
+        "id": "06403",
+        "food_name": "（キャベツ類）　キャベツ　結球葉　カット　常法洗浄",
+        "score": 1.0
+      },
+      {
+        "id": "06404",
+        "food_name": "（キャベツ類）　キャベツ　結球葉　カット　次亜塩素酸洗浄",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "A料理酒",
+    "foodtable_maping": 17138,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Aおろししょうが",
+    "foodtable_maping": 17069,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Bかたくり粉",
+    "foodtable_maping": 2034,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "シュウマイ",
+    "foodtable_maping": 18012,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●めんつゆ",
+    "foodtable_maping": 17030,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "納豆",
+    "foodtable_maping": 4046,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "板こんにゃく　",
+    "foodtable_maping": 2003,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "02003",
+        "food_name": "＜いも類＞　こんにゃく　板こんにゃく　精粉こんにゃく",
+        "score": 1.0
+      },
+      {
+        "id": "02004",
+        "food_name": "＜いも類＞　こんにゃく　板こんにゃく　生いもこんにゃく",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "いりごま（白）　",
+    "foodtable_maping": 5018,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "かつお節",
+    "foodtable_maping": 10092,
+    "response": {
+      "id": "10091"
+    },
+    "top10_candidates": [
+      {
+        "id": "10091",
+        "food_name": "＜魚類＞　（かつお類）　加工品　かつお節",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "えのきたけ",
+    "foodtable_maping": 8001,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "08001",
+        "food_name": "えのきたけ　生",
+        "score": 1.0
+      },
+      {
+        "id": "08002",
+        "food_name": "えのきたけ　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "08003",
+        "food_name": "えのきたけ　味付け瓶詰",
+        "score": 1.0
+      },
+      {
+        "id": "08037",
+        "food_name": "えのきたけ　油いため",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "豚ロース肉",
+    "foodtable_maping": 11123,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "はくさいキムチ",
+    "foodtable_maping": 6236,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ぽん酢しょうゆ　",
+    "foodtable_maping": 17110,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "17110",
+        "food_name": "＜調味料類＞　（調味ソース類）　ぽん酢しょうゆ",
+        "score": 1.0
+      },
+      {
+        "id": "17137",
+        "food_name": "＜調味料類＞　（調味ソース類）　ぽん酢しょうゆ　市販品",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "乾燥はるさめ",
+    "foodtable_maping": 2039,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "中華ドレッシング",
+    "foodtable_maping": 17104,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "塩蔵もずく　",
+    "foodtable_maping": 9038,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "チンゲンサイ　",
+    "foodtable_maping": 6160,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06160",
+        "food_name": "チンゲンサイ　葉　生",
+        "score": 1.0
+      },
+      {
+        "id": "06161",
+        "food_name": "チンゲンサイ　葉　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06338",
+        "food_name": "チンゲンサイ　葉　油いため",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "しいたけ　",
+    "foodtable_maping": 8039,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "08013",
+        "food_name": "しいたけ　乾しいたけ　乾",
+        "score": 1.0
+      },
+      {
+        "id": "08014",
+        "food_name": "しいたけ　乾しいたけ　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "08039",
+        "food_name": "しいたけ　生しいたけ　菌床栽培　生",
+        "score": 1.0
+      },
+      {
+        "id": "08040",
+        "food_name": "しいたけ　生しいたけ　菌床栽培　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "08041",
+        "food_name": "しいたけ　生しいたけ　菌床栽培　油いため",
+        "score": 1.0
+      },
+      {
+        "id": "08042",
+        "food_name": "しいたけ　生しいたけ　原木栽培　生",
+        "score": 1.0
+      },
+      {
+        "id": "08043",
+        "food_name": "しいたけ　生しいたけ　原木栽培　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "08044",
+        "food_name": "しいたけ　生しいたけ　原木栽培　油いため",
+        "score": 1.0
+      },
+      {
+        "id": "08053",
+        "food_name": "しいたけ　乾しいたけ　甘煮",
+        "score": 1.0
+      },
+      {
+        "id": "08057",
+        "food_name": "しいたけ　生しいたけ　菌床栽培　天ぷら",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "Aオイスターソース",
+    "foodtable_maping": 17031,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "C穀物酢",
+    "foodtable_maping": 17015,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Cラー油",
+    "foodtable_maping": 17006,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Cこしょう",
+    "foodtable_maping": 17064,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "杏仁豆腐",
+    "foodtable_maping": 15136,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "オレンジジュース",
+    "foodtable_maping": 7042,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "黄パプリカ",
+    "foodtable_maping": 6247,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "赤パプリカ",
+    "foodtable_maping": 6249,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "B砂糖",
+    "foodtable_maping": 3003,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "B酢",
+    "foodtable_maping": 17015,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Bしょうゆ",
+    "foodtable_maping": 17007,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Bトマトケチャップ",
+    "foodtable_maping": 17036,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "B顆粒中華だし",
+    "foodtable_maping": 17093,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Cかたくり粉",
+    "foodtable_maping": 2034,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ヤングコーン",
+    "foodtable_maping": 6181,
+    "response": {
+      "id": "06181"
+    },
+    "top10_candidates": [
+      {
+        "id": "06181",
+        "food_name": "（とうもろこし類）　ヤングコーン　幼雌穂　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "人参",
+    "foodtable_maping": 6212,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "レタス",
+    "foodtable_maping": 6312,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06312",
+        "food_name": "（レタス類）　レタス　土耕栽培　結球葉　生",
+        "score": 1.0
+      },
+      {
+        "id": "06361",
+        "food_name": "（レタス類）　レタス　水耕栽培　結球葉　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "フレンチドレッシング",
+    "foodtable_maping": 17040,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "17040",
+        "food_name": "＜調味料類＞　（ドレッシング類）　分離液状ドレッシング　フレンチドレッシング　分離液状",
+        "score": 1.0
+      },
+      {
+        "id": "17149",
+        "food_name": "＜調味料類＞　（ドレッシング類）　乳化液状ドレッシング　フレンチドレッシング　乳化液状",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "ピーマン　",
+    "foodtable_maping": 6245,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ミニトマト　",
+    "foodtable_maping": 6183,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ごぼう　",
+    "foodtable_maping": 6084,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06084",
+        "food_name": "（ごぼう類）　ごぼう　根　生",
+        "score": 1.0
+      },
+      {
+        "id": "06085",
+        "food_name": "（ごぼう類）　ごぼう　根　ゆで",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "なめ茸",
+    "foodtable_maping": 8003,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ほうれんそう　",
+    "foodtable_maping": 6267,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06267",
+        "food_name": "ほうれんそう　葉　通年平均　生",
+        "score": 1.0
+      },
+      {
+        "id": "06268",
+        "food_name": "ほうれんそう　葉　通年平均　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06269",
+        "food_name": "ほうれんそう　葉　冷凍",
+        "score": 1.0
+      },
+      {
+        "id": "06355",
+        "food_name": "ほうれんそう　葉　夏採り　生",
+        "score": 1.0
+      },
+      {
+        "id": "06356",
+        "food_name": "ほうれんそう　葉　冬採り　生",
+        "score": 1.0
+      },
+      {
+        "id": "06357",
+        "food_name": "ほうれんそう　葉　夏採り　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06358",
+        "food_name": "ほうれんそう　葉　冬採り　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06359",
+        "food_name": "ほうれんそう　葉　通年平均　油いため",
+        "score": 1.0
+      },
+      {
+        "id": "06372",
+        "food_name": "ほうれんそう　葉　冷凍　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06373",
+        "food_name": "ほうれんそう　葉　冷凍　油いため",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "豚もも肉",
+    "foodtable_maping": 11130,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "なす　",
+    "foodtable_maping": 6191,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06191",
+        "food_name": "（なす類）　なす　果実　生",
+        "score": 1.0
+      },
+      {
+        "id": "06192",
+        "food_name": "（なす類）　なす　果実　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06342",
+        "food_name": "（なす類）　なす　果実　油いため",
+        "score": 1.0
+      },
+      {
+        "id": "06343",
+        "food_name": "（なす類）　なす　果実　天ぷら",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "カレールウ",
+    "foodtable_maping": 17051,
+    "response": {
+      "id": "17051"
+    },
+    "top10_candidates": [
+      {
+        "id": "17051",
+        "food_name": "＜調味料類＞　（ルウ類）　カレールウ",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "らっきょう　",
+    "foodtable_maping": 6306,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06305",
+        "food_name": "（らっきょう類）　らっきょう　りん茎　生",
+        "score": 1.0
+      },
+      {
+        "id": "06306",
+        "food_name": "（らっきょう類）　らっきょう　甘酢漬",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "福神漬",
+    "foodtable_maping": 6143,
+    "response": {
+      "id": "06143"
+    },
+    "top10_candidates": [
+      {
+        "id": "06143",
+        "food_name": "（だいこん類）　漬物　福神漬",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "紫キャベツ　",
+    "foodtable_maping": 6064,
+    "response": {
+      "id": "06064"
+    },
+    "top10_candidates": [
+      {
+        "id": "06064",
+        "food_name": "（キャベツ類）　レッドキャベツ　結球葉　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "生揚げ",
+    "foodtable_maping": 4039,
+    "response": {
+      "id": "04039"
+    },
+    "top10_candidates": [
+      {
+        "id": "04039",
+        "food_name": "だいず　［豆腐・油揚げ類］　生揚げ",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "フレンチドレッシング　",
+    "foodtable_maping": 17149,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "17040",
+        "food_name": "＜調味料類＞　（ドレッシング類）　分離液状ドレッシング　フレンチドレッシング　分離液状",
+        "score": 1.0
+      },
+      {
+        "id": "17149",
+        "food_name": "＜調味料類＞　（ドレッシング類）　乳化液状ドレッシング　フレンチドレッシング　乳化液状",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "生クリーム",
+    "foodtable_maping": 13014,
+    "response": {
+      "id": "13014"
+    },
+    "top10_candidates": [
+      {
+        "id": "13014",
+        "food_name": "＜牛乳及び乳製品＞　（クリーム類）　クリーム　乳脂肪",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "練乳",
+    "foodtable_maping": 13013,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "粉ゼラチン",
+    "foodtable_maping": 11198,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "黄桃缶",
+    "foodtable_maping": 7175,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●味噌",
+    "foodtable_maping": 17045,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●ナンプラー",
+    "foodtable_maping": 17107,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●レモン汁",
+    "foodtable_maping": 7156,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●おろししょうが",
+    "foodtable_maping": 17069,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●おろしにんにく　",
+    "foodtable_maping": 17076,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "パクチー　",
+    "foodtable_maping": 6385,
+    "response": {
+      "id": "06385"
+    },
+    "top10_candidates": [
+      {
+        "id": "06385",
+        "food_name": "コリアンダー　葉　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "水煮だいず",
+    "foodtable_maping": 4028,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "乾燥しいたけ",
+    "foodtable_maping": 8013,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●出汁・しいたけ戻し汁",
+    "foodtable_maping": 17022,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "めんつゆ　",
+    "foodtable_maping": 17030,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "17029",
+        "food_name": "＜調味料類＞　（だし類）　めんつゆ　ストレート",
+        "score": 1.0
+      },
+      {
+        "id": "17030",
+        "food_name": "＜調味料類＞　（だし類）　めんつゆ　三倍濃縮",
+        "score": 1.0
+      },
+      {
+        "id": "17141",
+        "food_name": "＜調味料類＞　（だし類）　めんつゆ　二倍濃縮",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "クロワッサン",
+    "foodtable_maping": 1209,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "01035",
+        "food_name": "こむぎ　［パン類］　クロワッサン　リッチタイプ",
+        "score": 1.0
+      },
+      {
+        "id": "01209",
+        "food_name": "こむぎ　［パン類］　クロワッサン　レギュラータイプ",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "モッツァレラチーズ",
+    "foodtable_maping": 13056,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "リーフレタス　",
+    "foodtable_maping": 6314,
+    "response": {
+      "id": "06314"
+    },
+    "top10_candidates": [
+      {
+        "id": "06314",
+        "food_name": "（レタス類）　リーフレタス　葉　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "こしょう　",
+    "foodtable_maping": 17064,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "17063",
+        "food_name": "＜香辛料類＞　こしょう　黒　粉",
+        "score": 1.0
+      },
+      {
+        "id": "17064",
+        "food_name": "＜香辛料類＞　こしょう　白　粉",
+        "score": 1.0
+      },
+      {
+        "id": "17065",
+        "food_name": "＜香辛料類＞　こしょう　混合　粉",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "レンズ豆（水煮）",
+    "foodtable_maping": 4094,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Aじゃがいも　",
+    "foodtable_maping": 2063,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Aにんじん",
+    "foodtable_maping": 6212,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Aたまねぎ",
+    "foodtable_maping": 6153,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Aベーコン",
+    "foodtable_maping": 11183,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "B顆粒コンソメ",
+    "foodtable_maping": 17027,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "いんげん",
+    "foodtable_maping": 6010,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "サウザンアイランドドレッシング",
+    "foodtable_maping": 17041,
+    "response": {
+      "id": "17041"
+    },
+    "top10_candidates": [
+      {
+        "id": "17041",
+        "food_name": "＜調味料類＞　（ドレッシング類）　乳化液状ドレッシング　サウザンアイランドドレッシング",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "いちごジャム",
+    "foodtable_maping": 7013,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ししとう　",
+    "foodtable_maping": 6093,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06093",
+        "food_name": "（ししとう類）　ししとう　果実　生",
+        "score": 1.0
+      },
+      {
+        "id": "06094",
+        "food_name": "（ししとう類）　ししとう　果実　油いため",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "まぐろ（刺身用）",
+    "foodtable_maping": 10252,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "いか（刺身用）",
+    "foodtable_maping": 10345,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "紫たまねぎ",
+    "foodtable_maping": 6156,
+    "response": {
+      "id": "06156"
+    },
+    "top10_candidates": [
+      {
+        "id": "06156",
+        "food_name": "（たまねぎ類）　赤たまねぎ　りん茎　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "●こしょう　",
+    "foodtable_maping": 17064,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●レモン汁　",
+    "foodtable_maping": 7156,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "パセリ　",
+    "foodtable_maping": 6239,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06239",
+        "food_name": "パセリ　葉　生",
+        "score": 1.0
+      },
+      {
+        "id": "17078",
+        "food_name": "＜香辛料類＞　パセリ　乾",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "ズッキーニ",
+    "foodtable_maping": 6116,
+    "response": {
+      "id": "06116"
+    },
+    "top10_candidates": [
+      {
+        "id": "06116",
+        "food_name": "ズッキーニ　果実　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "豚小間肉",
+    "foodtable_maping": 11115,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●マヨネーズ　",
+    "foodtable_maping": 17042,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "めかじき",
+    "foodtable_maping": 10085,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "10085",
+        "food_name": "＜魚類＞　（かじき類）　めかじき　生",
+        "score": 1.0
+      },
+      {
+        "id": "10398",
+        "food_name": "＜魚類＞　（かじき類）　めかじき　焼き",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "●はちみつ",
+    "foodtable_maping": 3022,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "グリンピース　",
+    "foodtable_maping": 6024,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "04014",
+        "food_name": "えんどう　グリンピース（揚げ豆）",
+        "score": 1.0
+      },
+      {
+        "id": "06023",
+        "food_name": "（えんどう類）　グリンピース　生",
+        "score": 1.0
+      },
+      {
+        "id": "06024",
+        "food_name": "（えんどう類）　グリンピース　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06025",
+        "food_name": "（えんどう類）　グリンピース　冷凍",
+        "score": 1.0
+      },
+      {
+        "id": "06026",
+        "food_name": "（えんどう類）　グリンピース　水煮缶詰",
+        "score": 1.0
+      },
+      {
+        "id": "06374",
+        "food_name": "（えんどう類）　グリンピース　冷凍　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06375",
+        "food_name": "（えんどう類）　グリンピース　冷凍　油いため",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "●かつお節",
+    "foodtable_maping": 10092,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "あさつき",
+    "foodtable_maping": 6003,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06003",
+        "food_name": "あさつき　葉　生",
+        "score": 1.0
+      },
+      {
+        "id": "06004",
+        "food_name": "あさつき　葉　ゆで",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "乳酸菌飲料",
+    "foodtable_maping": 13028,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "13028",
+        "food_name": "＜牛乳及び乳製品＞　（発酵乳・乳酸菌飲料）　乳酸菌飲料　乳製品",
+        "score": 1.0
+      },
+      {
+        "id": "13029",
+        "food_name": "＜牛乳及び乳製品＞　（発酵乳・乳酸菌飲料）　乳酸菌飲料　殺菌乳製品",
+        "score": 1.0
+      },
+      {
+        "id": "13030",
+        "food_name": "＜牛乳及び乳製品＞　（発酵乳・乳酸菌飲料）　乳酸菌飲料　非乳製品",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "カリフラワー　",
+    "foodtable_maping": 6054,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06054",
+        "food_name": "カリフラワー　花序　生",
+        "score": 1.0
+      },
+      {
+        "id": "06055",
+        "food_name": "カリフラワー　花序　ゆで",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "●乾燥パセリ",
+    "foodtable_maping": 17078,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●粉チーズ",
+    "foodtable_maping": 13038,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "オクラ",
+    "foodtable_maping": 6032,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06032",
+        "food_name": "オクラ　果実　生",
+        "score": 1.0
+      },
+      {
+        "id": "06033",
+        "food_name": "オクラ　果実　ゆで",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "なめこ（水煮）",
+    "foodtable_maping": 8058,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●すりごま（白）",
+    "foodtable_maping": 5019,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "もやし　",
+    "foodtable_maping": 6291,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "蒸し中華めん",
+    "foodtable_maping": 1048,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "01049",
+        "food_name": "こむぎ　［中華めん類］　蒸し中華めん　蒸し中華めん",
+        "score": 1.0
+      },
+      {
+        "id": "01188",
+        "food_name": "こむぎ　［中華めん類］　蒸し中華めん  ソテー",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "●テンメンジャン",
+    "foodtable_maping": 17106,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●トウバンジャン",
+    "foodtable_maping": 17004,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●かたくり粉",
+    "foodtable_maping": 2034,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "さくらえび（乾）",
+    "foodtable_maping": 10325,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "メロン",
+    "foodtable_maping": 7134,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "07134",
+        "food_name": "メロン　温室メロン　生",
+        "score": 1.0
+      },
+      {
+        "id": "07135",
+        "food_name": "メロン　露地メロン　緑肉種　生",
+        "score": 1.0
+      },
+      {
+        "id": "07174",
+        "food_name": "メロン　露地メロン　赤肉種　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "麴",
+    "foodtable_maping": 1116,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "乾燥スパゲッティ",
+    "foodtable_maping": 1063,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "刻みのり",
+    "foodtable_maping": 9004,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "魚肉ソーセージ",
+    "foodtable_maping": 10388,
+    "response": {
+      "id": "10388"
+    },
+    "top10_candidates": [
+      {
+        "id": "10388",
+        "food_name": "＜水産練り製品＞　魚肉ソーセージ",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "ながいも",
+    "foodtable_maping": 2023,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "02022",
+        "food_name": "＜いも類＞　（やまのいも類）　ながいも　いちょういも　塊根　生",
+        "score": 1.0
+      },
+      {
+        "id": "02023",
+        "food_name": "＜いも類＞　（やまのいも類）　ながいも　ながいも　塊根　生",
+        "score": 1.0
+      },
+      {
+        "id": "02024",
+        "food_name": "＜いも類＞　（やまのいも類）　ながいも　ながいも　塊根　水煮",
+        "score": 1.0
+      },
+      {
+        "id": "02025",
+        "food_name": "＜いも類＞　（やまのいも類）　ながいも　やまといも　塊根　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "しば漬け",
+    "foodtable_maping": 6199,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "いりごま（白）",
+    "foodtable_maping": 5018,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Aトウバンジャン",
+    "foodtable_maping": 17004,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Aおろしにんにく",
+    "foodtable_maping": 17076,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "にら",
+    "foodtable_maping": 6207,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06207",
+        "food_name": "（にら類）　にら　葉　生",
+        "score": 1.0
+      },
+      {
+        "id": "06208",
+        "food_name": "（にら類）　にら　葉　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06344",
+        "food_name": "（にら類）　にら　葉　油いため",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "卵　",
+    "foodtable_maping": 12004,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Aこしょう",
+    "foodtable_maping": 17064,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Aみりん",
+    "foodtable_maping": 16025,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "B西京味噌",
+    "foodtable_maping": 17044,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "しょうが甘酢漬",
+    "foodtable_maping": 6105,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "生竹輪",
+    "foodtable_maping": 10381,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "はちみつ",
+    "foodtable_maping": 3022,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "03022",
+        "food_name": "（その他）　はちみつ",
+        "score": 1.0
+      },
+      {
+        "id": "03033",
+        "food_name": "（その他）　はちみつ　国産品",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "りんごジャム",
+    "foodtable_maping": 7154,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●塩昆布",
+    "foodtable_maping": 9022,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "白菜の浅漬け",
+    "foodtable_maping": 6235,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Aしょうが（かたまりのまま）",
+    "foodtable_maping": 6103,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "サニーレタス　",
+    "foodtable_maping": 6315,
+    "response": {
+      "id": "06315"
+    },
+    "top10_candidates": [
+      {
+        "id": "06315",
+        "food_name": "（レタス類）　サニーレタス　葉　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "スイートチリソース",
+    "foodtable_maping": 17038,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "じゃがいも　",
+    "foodtable_maping": 2063,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "02017",
+        "food_name": "＜いも類＞　じゃがいも　塊茎　皮なし　生",
+        "score": 1.0
+      },
+      {
+        "id": "02018",
+        "food_name": "＜いも類＞　じゃがいも　塊茎　皮なし　蒸し",
+        "score": 1.0
+      },
+      {
+        "id": "02019",
+        "food_name": "＜いも類＞　じゃがいも　塊茎　皮なし　水煮",
+        "score": 1.0
+      },
+      {
+        "id": "02020",
+        "food_name": "＜いも類＞　じゃがいも　塊茎　皮なし　フライドポテト　（市販冷凍食品を揚げたもの）",
+        "score": 1.0
+      },
+      {
+        "id": "02021",
+        "food_name": "＜いも類＞　じゃがいも　乾燥マッシュポテト",
+        "score": 1.0
+      },
+      {
+        "id": "02063",
+        "food_name": "＜いも類＞　じゃがいも　塊茎　皮つき　生",
+        "score": 1.0
+      },
+      {
+        "id": "02064",
+        "food_name": "＜いも類＞　じゃがいも　塊茎　皮つき　電子レンジ調理",
+        "score": 1.0
+      },
+      {
+        "id": "02065",
+        "food_name": "＜いも類＞　じゃがいも　塊茎　皮つき　フライドポテト　（生を揚げたもの）",
+        "score": 1.0
+      },
+      {
+        "id": "02066",
+        "food_name": "＜いも類＞　じゃがいも　塊茎　皮なし　電子レンジ調理",
+        "score": 1.0
+      },
+      {
+        "id": "02067",
+        "food_name": "＜いも類＞　じゃがいも　塊茎　皮なし　フライドポテト　（生を揚げたもの）",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "水煮ひよこまめ",
+    "foodtable_maping": 4066,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "洋梨缶",
+    "foodtable_maping": 7092,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "すいか",
+    "foodtable_maping": 7077,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "05021",
+        "food_name": "すいか　いり　味付け",
+        "score": 1.0
+      },
+      {
+        "id": "07077",
+        "food_name": "すいか　赤肉種　生",
+        "score": 1.0
+      },
+      {
+        "id": "07171",
+        "food_name": "すいか　黄肉種　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "厚揚げ",
+    "foodtable_maping": 4039,
+    "response": {
+      "id": "04039"
+    },
+    "top10_candidates": [
+      {
+        "id": "04039",
+        "food_name": "だいず　［豆腐・油揚げ類］　生揚げ",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "れんこん　",
+    "foodtable_maping": 6317,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06317",
+        "food_name": "れんこん　根茎　生",
+        "score": 1.0
+      },
+      {
+        "id": "06318",
+        "food_name": "れんこん　根茎　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06371",
+        "food_name": "れんこん　甘酢れんこん",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "さきいか",
+    "foodtable_maping": 10354,
+    "response": {
+      "id": "10354"
+    },
+    "top10_candidates": [
+      {
+        "id": "10354",
+        "food_name": "＜いか・たこ類＞　（いか類）　加工品　さきいか",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "●うすくちしょうゆ",
+    "foodtable_maping": 17008,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●きな粉　",
+    "foodtable_maping": 4030,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "フランスパン",
+    "foodtable_maping": 1031,
+    "response": {
+      "id": "01031"
+    },
+    "top10_candidates": [
+      {
+        "id": "01031",
+        "food_name": "こむぎ　［パン類］　フランスパン",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "たくあん漬　",
+    "foodtable_maping": 6139,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06138",
+        "food_name": "（だいこん類）　漬物　たくあん漬　塩押しだいこん漬",
+        "score": 1.0
+      },
+      {
+        "id": "06139",
+        "food_name": "（だいこん類）　漬物　たくあん漬　干しだいこん漬",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "紅茶",
+    "foodtable_maping": 16044,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "16043",
+        "food_name": "＜茶類＞　（発酵茶類）　紅茶　茶",
+        "score": 1.0
+      },
+      {
+        "id": "16044",
+        "food_name": "＜茶類＞　（発酵茶類）　紅茶　浸出液",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "水煮たけのこ",
+    "foodtable_maping": 6150,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Aごま油",
+    "foodtable_maping": 14002,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Aかたくり粉",
+    "foodtable_maping": 2034,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "B中華だし汁",
+    "foodtable_maping": 17025,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Bオイスターソース",
+    "foodtable_maping": 17031,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "きくらげ",
+    "foodtable_maping": 8054,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "08006",
+        "food_name": "（きくらげ類）　きくらげ　乾",
+        "score": 1.0
+      },
+      {
+        "id": "08007",
+        "food_name": "（きくらげ類）　きくらげ　ゆで",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "Bカレー粉",
+    "foodtable_maping": 17061,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Bマヨネーズ",
+    "foodtable_maping": 17042,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "B牛乳",
+    "foodtable_maping": 13003,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Bおろしにんにく",
+    "foodtable_maping": 17076,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "リーフレタス",
+    "foodtable_maping": 6314,
+    "response": {
+      "id": "06314"
+    },
+    "top10_candidates": [
+      {
+        "id": "06314",
+        "food_name": "（レタス類）　リーフレタス　葉　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "がんもどき",
+    "foodtable_maping": 4041,
+    "response": {
+      "id": "04041"
+    },
+    "top10_candidates": [
+      {
+        "id": "04041",
+        "food_name": "だいず　［豆腐・油揚げ類］　がんもどき",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "いんげん　",
+    "foodtable_maping": 6010,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●挽きわり納豆",
+    "foodtable_maping": 4047,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ババロア",
+    "foodtable_maping": 15091,
+    "response": {
+      "id": "15091"
+    },
+    "top10_candidates": [
+      {
+        "id": "15091",
+        "food_name": "＜デザート菓子類＞　ババロア",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "スライスチーズ",
+    "foodtable_maping": 13040,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "さといも",
+    "foodtable_maping": 2010,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "02010",
+        "food_name": "＜いも類＞　（さといも類）　さといも　球茎　生",
+        "score": 1.0
+      },
+      {
+        "id": "02011",
+        "food_name": "＜いも類＞　（さといも類）　さといも　球茎　水煮",
+        "score": 1.0
+      },
+      {
+        "id": "02012",
+        "food_name": "＜いも類＞　（さといも類）　さといも　球茎　冷凍",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "乾燥そうめん",
+    "foodtable_maping": 1042,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "かに風味かまぼこ",
+    "foodtable_maping": 10376,
+    "response": {
+      "id": "10376"
+    },
+    "top10_candidates": [
+      {
+        "id": "10376",
+        "food_name": "＜水産練り製品＞　かに風味かまぼこ",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "スイートコーン缶",
+    "foodtable_maping": 6180,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "白菜キムチ",
+    "foodtable_maping": 6236,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●トマトホール缶（無塩）",
+    "foodtable_maping": 6184,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●白ワイン",
+    "foodtable_maping": 16010,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "粒入りマスタード",
+    "foodtable_maping": 17060,
+    "response": {
+      "id": "17060"
+    },
+    "top10_candidates": [
+      {
+        "id": "17060",
+        "food_name": "＜香辛料類＞　からし　粒入りマスタード",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "和風ドレッシング　",
+    "foodtable_maping": 17116,
+    "response": {
+      "id": "17116"
+    },
+    "top10_candidates": [
+      {
+        "id": "17116",
+        "food_name": "＜調味料類＞　（ドレッシング類）　分離液状ドレッシング　和風ドレッシング　分離液状",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "さつま揚げ",
+    "foodtable_maping": 10386,
+    "response": {
+      "id": "10386"
+    },
+    "top10_candidates": [
+      {
+        "id": "10386",
+        "food_name": "＜水産練り製品＞　さつま揚げ",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "ピザ用チーズ",
+    "foodtable_maping": 13040,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "あおのり",
+    "foodtable_maping": 9002,
+    "response": {
+      "id": "09002"
+    },
+    "top10_candidates": [
+      {
+        "id": "09002",
+        "food_name": "あおのり　素干し",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "こまつな",
+    "foodtable_maping": 6086,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06086",
+        "food_name": "こまつな　葉　生",
+        "score": 1.0
+      },
+      {
+        "id": "06087",
+        "food_name": "こまつな　葉　ゆで",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "たくあん",
+    "foodtable_maping": 6139,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "まぐろたたき",
+    "foodtable_maping": 10252,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "練りわさび　",
+    "foodtable_maping": 17081,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Aうすくちしょうゆ",
+    "foodtable_maping": 17008,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "B顆粒和風だし",
+    "foodtable_maping": 17028,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "なめこ",
+    "foodtable_maping": 8058,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "08020",
+        "food_name": "なめこ　株採り　生",
+        "score": 1.0
+      },
+      {
+        "id": "08021",
+        "food_name": "なめこ　株採り　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "08022",
+        "food_name": "なめこ　水煮缶詰",
+        "score": 1.0
+      },
+      {
+        "id": "08058",
+        "food_name": "なめこ　カットなめこ　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "●にんにく",
+    "foodtable_maping": 6223,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "もずく（味付き）",
+    "foodtable_maping": 9038,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "マーマレードジャム",
+    "foodtable_maping": 7046,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "干しぶどう",
+    "foodtable_maping": 7117,
+    "response": {
+      "id": "07117"
+    },
+    "top10_candidates": [
+      {
+        "id": "07117",
+        "food_name": "ぶどう　干しぶどう",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "炒りくるみ",
+    "foodtable_maping": 5014,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ゴールドキウイ",
+    "foodtable_maping": 7168,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "コーヒー",
+    "foodtable_maping": 16064,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "13007",
+        "food_name": "＜牛乳及び乳製品＞　（液状乳類）　乳飲料　コーヒー",
+        "score": 1.0
+      },
+      {
+        "id": "15088",
+        "food_name": "＜デザート菓子類＞　ゼリー　コーヒー",
+        "score": 1.0
+      },
+      {
+        "id": "16045",
+        "food_name": "＜コーヒー・ココア類＞　コーヒー　浸出液",
+        "score": 1.0
+      },
+      {
+        "id": "16046",
+        "food_name": "＜コーヒー・ココア類＞　コーヒー　インスタントコーヒー",
+        "score": 1.0
+      },
+      {
+        "id": "16047",
+        "food_name": "＜コーヒー・ココア類＞　コーヒー　コーヒー飲料　乳成分入り　加糖",
+        "score": 1.0
+      },
+      {
+        "id": "16064",
+        "food_name": "＜コーヒー・ココア類＞　コーヒー　缶コーヒー　無糖",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "豚バラ肉",
+    "foodtable_maping": 7168,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "切干しだいこん",
+    "foodtable_maping": 6136,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06136",
+        "food_name": "（だいこん類）　切干しだいこん　乾",
+        "score": 1.0
+      },
+      {
+        "id": "06334",
+        "food_name": "（だいこん類）　切干しだいこん　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06335",
+        "food_name": "（だいこん類）　切干しだいこん　油いため",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "豚バラ肉（ブロック）",
+    "foodtable_maping": 11129,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "長ねぎ（青い部分）",
+    "foodtable_maping": 6226,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "水煮だいず",
+    "foodtable_maping": 4024,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "カットわかめ（乾）",
+    "foodtable_maping": 9040,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "アスパラガス　",
+    "foodtable_maping": 6007,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06007",
+        "food_name": "アスパラガス　若茎　生",
+        "score": 1.0
+      },
+      {
+        "id": "06008",
+        "food_name": "アスパラガス　若茎　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06009",
+        "food_name": "アスパラガス　水煮缶詰",
+        "score": 1.0
+      },
+      {
+        "id": "06327",
+        "food_name": "アスパラガス　若茎　油いため",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "●バター",
+    "foodtable_maping": 14017,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "A卵",
+    "foodtable_maping": 12004,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "A薄力粉",
+    "foodtable_maping": 1015,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Bみりん",
+    "foodtable_maping": 16025,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "糸みつば",
+    "foodtable_maping": 6278,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06278",
+        "food_name": "（みつば類）　糸みつば　葉　生",
+        "score": 1.0
+      },
+      {
+        "id": "06279",
+        "food_name": "（みつば類）　糸みつば　葉　ゆで",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "レモン",
+    "foodtable_maping": 7155,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "07155",
+        "food_name": "（かんきつ類）　レモン　全果　生",
+        "score": 1.0
+      },
+      {
+        "id": "07156",
+        "food_name": "（かんきつ類）　レモン　果汁　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "うすくちしょうゆ",
+    "foodtable_maping": 17008,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "17008",
+        "food_name": "＜調味料類＞　（しょうゆ類）　うすくちしょうゆ",
+        "score": 1.0
+      },
+      {
+        "id": "17139",
+        "food_name": "＜調味料類＞　（しょうゆ類）　うすくちしょうゆ　低塩",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "白あん",
+    "foodtable_maping": 4010,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "茹でひよこまめ",
+    "foodtable_maping": 4066,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": " 顆粒コンソメ",
+    "foodtable_maping": 17027,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ハイカカオチョコレート",
+    "foodtable_maping": 15187,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "昆布の佃煮",
+    "foodtable_maping": 9023,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "うどん（ゆで）",
+    "foodtable_maping": 1039,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ごぼう",
+    "foodtable_maping": 6084,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06084",
+        "food_name": "（ごぼう類）　ごぼう　根　生",
+        "score": 1.0
+      },
+      {
+        "id": "06085",
+        "food_name": "（ごぼう類）　ごぼう　根　ゆで",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "豆板醤",
+    "foodtable_maping": 17004,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "めんつゆ　三倍濃縮",
+    "foodtable_maping": 17030,
+    "response": {
+      "id": "17030"
+    },
+    "top10_candidates": [
+      {
+        "id": "17030",
+        "food_name": "＜調味料類＞　（だし類）　めんつゆ　三倍濃縮",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "いちご",
+    "foodtable_maping": 7012,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "07012",
+        "food_name": "いちご　生",
+        "score": 1.0
+      },
+      {
+        "id": "07013",
+        "food_name": "いちご　ジャム　高糖度",
+        "score": 1.0
+      },
+      {
+        "id": "07014",
+        "food_name": "いちご　ジャム　低糖度",
+        "score": 1.0
+      },
+      {
+        "id": "07160",
+        "food_name": "いちご　乾",
+        "score": 1.0
+      },
+      {
+        "id": "15170",
+        "food_name": "＜ケーキ・ペストリー類＞　ショートケーキ　いちご",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "さば",
+    "foodtable_maping": 10154,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "10154",
+        "food_name": "＜魚類＞　（さば類）　まさば　生",
+        "score": 1.0
+      },
+      {
+        "id": "10155",
+        "food_name": "＜魚類＞　（さば類）　まさば　水煮",
+        "score": 1.0
+      },
+      {
+        "id": "10156",
+        "food_name": "＜魚類＞　（さば類）　まさば　焼き",
+        "score": 1.0
+      },
+      {
+        "id": "10403",
+        "food_name": "＜魚類＞　（さば類）　まさば　フライ",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "ひじき（乾）",
+    "foodtable_maping": 9050,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "鶏ささ身",
+    "foodtable_maping": 11227,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "胡麻ドレッシング",
+    "foodtable_maping": 17117,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ししゃも　",
+    "foodtable_maping": 10180,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "10180",
+        "food_name": "＜魚類＞　（ししゃも類）　ししゃも　生干し　生",
+        "score": 1.0
+      },
+      {
+        "id": "10181",
+        "food_name": "＜魚類＞　（ししゃも類）　ししゃも　生干し　焼き",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "顆粒和風だし",
+    "foodtable_maping": 17028,
+    "response": {
+      "id": "17028"
+    },
+    "top10_candidates": [
+      {
+        "id": "17028",
+        "food_name": "＜調味料類＞　（だし類）　顆粒和風だし",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "ぶどうジュース",
+    "foodtable_maping": 7118,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ほうれん草",
+    "foodtable_maping": 6267,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Ａ顆粒中華だし",
+    "foodtable_maping": 17093,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Ａ塩",
+    "foodtable_maping": 17012,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Ａこしょう",
+    "foodtable_maping": 17064,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "◎ごま油",
+    "foodtable_maping": 14002,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Ｂしょうゆ",
+    "foodtable_maping": 17007,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Ｂ砂糖",
+    "foodtable_maping": 3003,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Ｂおろしにんにく",
+    "foodtable_maping": 17076,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "きざみのり",
+    "foodtable_maping": 9004,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "絹豆腐",
+    "foodtable_maping": 4033,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "和風ドレッシング",
+    "foodtable_maping": 17116,
+    "response": {
+      "id": "17116"
+    },
+    "top10_candidates": [
+      {
+        "id": "17116",
+        "food_name": "＜調味料類＞　（ドレッシング類）　分離液状ドレッシング　和風ドレッシング　分離液状",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "塩昆布",
+    "foodtable_maping": 9022,
+    "response": {
+      "id": "09022"
+    },
+    "top10_candidates": [
+      {
+        "id": "09022",
+        "food_name": "（こんぶ類）　塩昆布",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "ブロッコリー",
+    "foodtable_maping": 6263,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06263",
+        "food_name": "ブロッコリー　花序　生",
+        "score": 1.0
+      },
+      {
+        "id": "06264",
+        "food_name": "ブロッコリー　花序　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06354",
+        "food_name": "ブロッコリー　芽ばえ　生",
+        "score": 1.0
+      },
+      {
+        "id": "06395",
+        "food_name": "ブロッコリー　花序　電子レンジ調理",
+        "score": 1.0
+      },
+      {
+        "id": "06396",
+        "food_name": "ブロッコリー　花序　焼き",
+        "score": 1.0
+      },
+      {
+        "id": "06397",
+        "food_name": "ブロッコリー　花序　油いため",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "えのき",
+    "foodtable_maping": 8001,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ココア",
+    "foodtable_maping": 16049,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "16048",
+        "food_name": "＜コーヒー・ココア類＞　ココア　ピュアココア",
+        "score": 1.0
+      },
+      {
+        "id": "16049",
+        "food_name": "＜コーヒー・ココア類＞　ココア　ミルクココア",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "ロールパン",
+    "foodtable_maping": 1034,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "01034",
+        "food_name": "こむぎ　［パン類］　ロールパン",
+        "score": 1.0
+      },
+      {
+        "id": "01212",
+        "food_name": "こめ　［うるち米製品］　米粉パン　ロールパン",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "チキンボール",
+    "foodtable_maping": 18051,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "はるさめ　乾",
+    "foodtable_maping": 2039,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●洋風出汁",
+    "foodtable_maping": 17026,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "くるみ　いり",
+    "foodtable_maping": 5014,
+    "response": {
+      "id": "05014"
+    },
+    "top10_candidates": [
+      {
+        "id": "05014",
+        "food_name": "くるみ　いり",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "ごまドレッシング",
+    "foodtable_maping": 17117,
+    "response": {
+      "id": "17117"
+    },
+    "top10_candidates": [
+      {
+        "id": "17117",
+        "food_name": "＜調味料類＞　（ドレッシング類）　乳化液状ドレッシング　ごまドレッシング",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "グリ―ンキウイ",
+    "foodtable_maping": 7054,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "カリフラワー",
+    "foodtable_maping": 6054,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06054",
+        "food_name": "カリフラワー　花序　生",
+        "score": 1.0
+      },
+      {
+        "id": "06055",
+        "food_name": "カリフラワー　花序　ゆで",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "チンゲン菜",
+    "foodtable_maping": 6160,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ぽん酢しょうゆ",
+    "foodtable_maping": 17110,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "17110",
+        "food_name": "＜調味料類＞　（調味ソース類）　ぽん酢しょうゆ",
+        "score": 1.0
+      },
+      {
+        "id": "17137",
+        "food_name": "＜調味料類＞　（調味ソース類）　ぽん酢しょうゆ　市販品",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "練りわさび",
+    "foodtable_maping": 17081,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "白菜",
+    "foodtable_maping": 6233,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "A人参",
+    "foodtable_maping": 6212,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Aごぼう",
+    "foodtable_maping": 6084,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Aさといも",
+    "foodtable_maping": 2010,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Aしいたけ",
+    "foodtable_maping": 8039,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "C顆粒和風だし",
+    "foodtable_maping": 17028,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "C砂糖",
+    "foodtable_maping": 3003,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "C料理酒",
+    "foodtable_maping": 17138,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Cしょうゆ",
+    "foodtable_maping": 17007,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ほうれん草　",
+    "foodtable_maping": 6267,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "つきこんにゃく　",
+    "foodtable_maping": 2003,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ひじき　乾",
+    "foodtable_maping": 9050,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●ねりごま（白）",
+    "foodtable_maping": 5042,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "青しその実",
+    "foodtable_maping": 6096,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "竹輪",
+    "foodtable_maping": 10381,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "乾燥白花豆",
+    "foodtable_maping": 4068,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "A玉ねぎ",
+    "foodtable_maping": 6153,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Aにんにく",
+    "foodtable_maping": 6223,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Aセロリ",
+    "foodtable_maping": 6119,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ホールトマト缶",
+    "foodtable_maping": 6184,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Bこしょう",
+    "foodtable_maping": 17064,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Bコンソメ",
+    "foodtable_maping": 17027,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "大根",
+    "foodtable_maping": 6132,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "かいわれ大根",
+    "foodtable_maping": 6128,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●コンソメ",
+    "foodtable_maping": 17027,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "べったら漬け",
+    "foodtable_maping": 6141,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●片栗粉",
+    "foodtable_maping": 2034,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ザーサイ",
+    "foodtable_maping": 6088,
+    "response": {
+      "id": "06088"
+    },
+    "top10_candidates": [
+      {
+        "id": "06088",
+        "food_name": "ザーサイ　漬物",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "餃子",
+    "foodtable_maping": 18002,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "アプリコットジャム",
+    "foodtable_maping": 7010,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "チンゲン菜　",
+    "foodtable_maping": 6160,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "だししょうゆ",
+    "foodtable_maping": 17087,
+    "response": {
+      "id": "17087"
+    },
+    "top10_candidates": [
+      {
+        "id": "17087",
+        "food_name": "＜調味料類＞　（しょうゆ類）　だししょうゆ",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "豚ばら肉（ブロック）",
+    "foodtable_maping": 11129,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "A片栗粉",
+    "foodtable_maping": 2034,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "小松菜　",
+    "foodtable_maping": 6086,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "はるさめ",
+    "foodtable_maping": 2039,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "02039",
+        "food_name": "＜でん粉・でん粉製品＞　（でん粉製品）　はるさめ　緑豆はるさめ　乾",
+        "score": 1.0
+      },
+      {
+        "id": "02040",
+        "food_name": "＜でん粉・でん粉製品＞　（でん粉製品）　はるさめ　普通はるさめ　乾",
+        "score": 1.0
+      },
+      {
+        "id": "02061",
+        "food_name": "＜でん粉・でん粉製品＞　（でん粉製品）　はるさめ　緑豆はるさめ　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "02062",
+        "food_name": "＜でん粉・でん粉製品＞　（でん粉製品）　はるさめ　普通はるさめ　ゆで",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "カニカマ",
+    "foodtable_maping": 10376,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "パクチー",
+    "foodtable_maping": 6385,
+    "response": {
+      "id": "06385"
+    },
+    "top10_candidates": [
+      {
+        "id": "06385",
+        "food_name": "コリアンダー　葉　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "Bうすくちしょうゆ",
+    "foodtable_maping": 17008,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ゆで小豆",
+    "foodtable_maping": 4002,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "めかじき　",
+    "foodtable_maping": 10085,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "10085",
+        "food_name": "＜魚類＞　（かじき類）　めかじき　生",
+        "score": 1.0
+      },
+      {
+        "id": "10398",
+        "food_name": "＜魚類＞　（かじき類）　めかじき　焼き",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "◎油",
+    "foodtable_maping": 14006,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "白菜　",
+    "foodtable_maping": 6233,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "鶏ささみ",
+    "foodtable_maping": 11229,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ぬかみそ漬け",
+    "foodtable_maping": 6137,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "焼き豚",
+    "foodtable_maping": 11195,
+    "response": {
+      "id": "11195"
+    },
+    "top10_candidates": [
+      {
+        "id": "11195",
+        "food_name": "＜畜肉類＞　ぶた　［その他］　焼き豚",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "グリンピース",
+    "foodtable_maping": 6023,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "04014",
+        "food_name": "えんどう　グリンピース（揚げ豆）",
+        "score": 1.0
+      },
+      {
+        "id": "06023",
+        "food_name": "（えんどう類）　グリンピース　生",
+        "score": 1.0
+      },
+      {
+        "id": "06024",
+        "food_name": "（えんどう類）　グリンピース　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06025",
+        "food_name": "（えんどう類）　グリンピース　冷凍",
+        "score": 1.0
+      },
+      {
+        "id": "06026",
+        "food_name": "（えんどう類）　グリンピース　水煮缶詰",
+        "score": 1.0
+      },
+      {
+        "id": "06374",
+        "food_name": "（えんどう類）　グリンピース　冷凍　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06375",
+        "food_name": "（えんどう類）　グリンピース　冷凍　油いため",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "●オイスターソース",
+    "foodtable_maping": 17031,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ラード",
+    "foodtable_maping": 14016,
+    "response": {
+      "id": "14016"
+    },
+    "top10_candidates": [
+      {
+        "id": "14016",
+        "food_name": "（動物油脂類）　ラード",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "トウバンジャン",
+    "foodtable_maping": 17004,
+    "response": {
+      "id": "17004"
+    },
+    "top10_candidates": [
+      {
+        "id": "17004",
+        "food_name": "＜調味料類＞　（辛味調味料類）　トウバンジャン",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "B片栗粉",
+    "foodtable_maping": 2034,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "とうがらし",
+    "foodtable_maping": 6172,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06169",
+        "food_name": "とうがらし　葉･果実　生",
+        "score": 1.0
+      },
+      {
+        "id": "06170",
+        "food_name": "とうがらし　葉･果実　油いため",
+        "score": 1.0
+      },
+      {
+        "id": "06171",
+        "food_name": "とうがらし　果実　生",
+        "score": 1.0
+      },
+      {
+        "id": "06172",
+        "food_name": "とうがらし　果実　乾",
+        "score": 1.0
+      },
+      {
+        "id": "17073",
+        "food_name": "＜香辛料類＞　とうがらし　粉",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "●トマトケチャップ",
+    "foodtable_maping": 17036,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●ウスターソース",
+    "foodtable_maping": 17001,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "セロリ　",
+    "foodtable_maping": 6119,
+    "response": {
+      "id": "06119"
+    },
+    "top10_candidates": [
+      {
+        "id": "06119",
+        "food_name": "セロリ　葉柄　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "粉とうがらし",
+    "foodtable_maping": 17073,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●ぽん酢しょうゆ",
+    "foodtable_maping": 17110,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ヨーグルトドリンク",
+    "foodtable_maping": 13027,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "しらす干し",
+    "foodtable_maping": 10055,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "10055",
+        "food_name": "＜魚類＞　（いわし類）　しらす干し　微乾燥品",
+        "score": 1.0
+      },
+      {
+        "id": "10056",
+        "food_name": "＜魚類＞　（いわし類）　しらす干し　半乾燥品",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "野沢菜漬け",
+    "foodtable_maping": 6231,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "そば",
+    "foodtable_maping": 1129,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "01122",
+        "food_name": "そば　そば粉　全層粉",
+        "score": 1.0
+      },
+      {
+        "id": "01123",
+        "food_name": "そば　そば粉　内層粉",
+        "score": 1.0
+      },
+      {
+        "id": "01124",
+        "food_name": "そば　そば粉　中層粉",
+        "score": 1.0
+      },
+      {
+        "id": "01125",
+        "food_name": "そば　そば粉　表層粉",
+        "score": 1.0
+      },
+      {
+        "id": "01126",
+        "food_name": "そば　そば米",
+        "score": 1.0
+      },
+      {
+        "id": "01127",
+        "food_name": "そば　そば　生",
+        "score": 1.0
+      },
+      {
+        "id": "01128",
+        "food_name": "そば　そば　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "01129",
+        "food_name": "そば　干しそば　乾",
+        "score": 1.0
+      },
+      {
+        "id": "01130",
+        "food_name": "そば　干しそば　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "01197",
+        "food_name": "そば　そば　半生そば",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "うずら卵（卵黄）",
+    "foodtable_maping": 12002,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "かまぼこ",
+    "foodtable_maping": 10379,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "梅干し　",
+    "foodtable_maping": 7023,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "07022",
+        "food_name": "うめ　梅干し　塩漬",
+        "score": 1.0
+      },
+      {
+        "id": "07023",
+        "food_name": "うめ　梅干し　調味漬",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "ほうれんそう",
+    "foodtable_maping": 6267,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06267",
+        "food_name": "ほうれんそう　葉　通年平均　生",
+        "score": 1.0
+      },
+      {
+        "id": "06268",
+        "food_name": "ほうれんそう　葉　通年平均　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06269",
+        "food_name": "ほうれんそう　葉　冷凍",
+        "score": 1.0
+      },
+      {
+        "id": "06355",
+        "food_name": "ほうれんそう　葉　夏採り　生",
+        "score": 1.0
+      },
+      {
+        "id": "06356",
+        "food_name": "ほうれんそう　葉　冬採り　生",
+        "score": 1.0
+      },
+      {
+        "id": "06357",
+        "food_name": "ほうれんそう　葉　夏採り　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06358",
+        "food_name": "ほうれんそう　葉　冬採り　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06359",
+        "food_name": "ほうれんそう　葉　通年平均　油いため",
+        "score": 1.0
+      },
+      {
+        "id": "06372",
+        "food_name": "ほうれんそう　葉　冷凍　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06373",
+        "food_name": "ほうれんそう　葉　冷凍　油いため",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "ブロッコリースプラウト",
+    "foodtable_maping": 6354,
+    "response": {
+      "id": "06354"
+    },
+    "top10_candidates": [
+      {
+        "id": "06354",
+        "food_name": "ブロッコリー　芽ばえ　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "カフェオレ",
+    "foodtable_maping": 13007,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "みつば",
+    "foodtable_maping": 6278,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "レタス　",
+    "foodtable_maping": 6312,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06312",
+        "food_name": "（レタス類）　レタス　土耕栽培　結球葉　生",
+        "score": 1.0
+      },
+      {
+        "id": "06361",
+        "food_name": "（レタス類）　レタス　水耕栽培　結球葉　生",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "B豆板醤",
+    "foodtable_maping": 17004,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●穀物酢",
+    "foodtable_maping": 17015,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "甘夏みかん",
+    "foodtable_maping": 7093,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "無塩バター",
+    "foodtable_maping": 14018,
+    "response": {
+      "id": "14018"
+    },
+    "top10_candidates": [
+      {
+        "id": "14018",
+        "food_name": "（バター類）　無発酵バター　食塩不使用バター",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "あさり（冷凍）",
+    "foodtable_maping": 10466,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "冷凍えび",
+    "foodtable_maping": 10467,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "冷凍イカ",
+    "foodtable_maping": 10346,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "パプリカ　粉",
+    "foodtable_maping": 17079,
+    "response": {
+      "id": "17079"
+    },
+    "top10_candidates": [
+      {
+        "id": "17079",
+        "food_name": "＜香辛料類＞　パプリカ　粉",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "乾燥とうがらし",
+    "foodtable_maping": 6172,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Aオリーブ油",
+    "foodtable_maping": 14001,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "A酢",
+    "foodtable_maping": 17015,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●ローストアーモンド（無塩）",
+    "foodtable_maping": 5040,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "らっかせい（炒り）",
+    "foodtable_maping": 5035,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "片栗粉",
+    "foodtable_maping": 2034,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "乾しいたけ",
+    "foodtable_maping": 8013,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "08013",
+        "food_name": "しいたけ　乾しいたけ　乾",
+        "score": 1.0
+      },
+      {
+        "id": "08014",
+        "food_name": "しいたけ　乾しいたけ　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "08053",
+        "food_name": "しいたけ　乾しいたけ　甘煮",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "パイナップル缶",
+    "foodtable_maping": 7102,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "B玉ねぎ",
+    "foodtable_maping": 6153,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Bピーマン",
+    "foodtable_maping": 6245,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "B人参",
+    "foodtable_maping": 6212,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "Bたけのこ（水煮）",
+    "foodtable_maping": 6150,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "C中華だし汁",
+    "foodtable_maping": 17025,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "C片栗粉",
+    "foodtable_maping": 2034,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "水菜　",
+    "foodtable_maping": 6072,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ピザソース",
+    "foodtable_maping": 17037,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "りんご",
+    "foodtable_maping": 7176,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "07148",
+        "food_name": "りんご　皮なし　生",
+        "score": 1.0
+      },
+      {
+        "id": "07149",
+        "food_name": "りんご　果実飲料　ストレートジュース",
+        "score": 1.0
+      },
+      {
+        "id": "07150",
+        "food_name": "りんご　果実飲料　濃縮還元ジュース",
+        "score": 1.0
+      },
+      {
+        "id": "07151",
+        "food_name": "りんご　果実飲料　50%果汁入り飲料",
+        "score": 1.0
+      },
+      {
+        "id": "07152",
+        "food_name": "りんご　果実飲料　30%果汁入り飲料",
+        "score": 1.0
+      },
+      {
+        "id": "07153",
+        "food_name": "りんご　缶詰",
+        "score": 1.0
+      },
+      {
+        "id": "07154",
+        "food_name": "りんご　ジャム",
+        "score": 1.0
+      },
+      {
+        "id": "07176",
+        "food_name": "りんご　皮つき　生",
+        "score": 1.0
+      },
+      {
+        "id": "07180",
+        "food_name": "りんご　皮つき　焼き",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "中華だし汁",
+    "foodtable_maping": 17025,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●ココナッツミルク",
+    "foodtable_maping": 7158,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "豚ばら肉",
+    "foodtable_maping": 11129,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ピンクグレープフルーツ",
+    "foodtable_maping": 7164,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●みそ",
+    "foodtable_maping": 17045,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ミックスベジタブル",
+    "foodtable_maping": 6382,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06382",
+        "food_name": "（その他）　ミックスベジタブル　冷凍",
+        "score": 1.0
+      },
+      {
+        "id": "06383",
+        "food_name": "（その他）　ミックスベジタブル　冷凍　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "06384",
+        "food_name": "（その他）　ミックスベジタブル　冷凍　油いため",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "●粉とうがらし",
+    "foodtable_maping": 17073,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ぜんまい（水煮）",
+    "foodtable_maping": 6123,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "だいず（水煮）",
+    "foodtable_maping": 4024,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "こんぶ（乾）",
+    "foodtable_maping": 9020,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "花麩",
+    "foodtable_maping": 1066,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "あおさ",
+    "foodtable_maping": 9001,
+    "response": {
+      "id": "09001"
+    },
+    "top10_candidates": [
+      {
+        "id": "09001",
+        "food_name": "あおさ　素干し",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "蒸し中華めん　",
+    "foodtable_maping": 1049,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "01049",
+        "food_name": "こむぎ　［中華めん類］　蒸し中華めん　蒸し中華めん",
+        "score": 1.0
+      },
+      {
+        "id": "01188",
+        "food_name": "こむぎ　［中華めん類］　蒸し中華めん  ソテー",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "ぎょうざ",
+    "foodtable_maping": 18002,
+    "response": {
+      "id": "18002"
+    },
+    "top10_candidates": [
+      {
+        "id": "18002",
+        "food_name": "中国料理　点心類　ぎょうざ",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "揚げ玉",
+    "foodtable_maping": 1172,
+    "response": {
+      "id": "01172"
+    },
+    "top10_candidates": [
+      {
+        "id": "01172",
+        "food_name": "こむぎ　［小麦粉］　プレミックス粉　天ぷら用　バッター　揚げ",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "●しらす干し　",
+    "foodtable_maping": 10055,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "赤えんどう豆（缶）",
+    "foodtable_maping": 4075,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●粉寒天",
+    "foodtable_maping": 9049,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "黒蜜",
+    "foodtable_maping": 3029,
+    "response": {
+      "id": "03029"
+    },
+    "top10_candidates": [
+      {
+        "id": "03029",
+        "food_name": "（その他）　黒蜜",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "●ピーナッツバター（無塩）",
+    "foodtable_maping": 5037,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "おから",
+    "foodtable_maping": 4051,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "04051",
+        "food_name": "だいず　［その他］　おから　生",
+        "score": 1.0
+      },
+      {
+        "id": "04089",
+        "food_name": "だいず　［その他］　おから　乾燥",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "●粒入りマスタード",
+    "foodtable_maping": 17060,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ひじき",
+    "foodtable_maping": 9050,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "09050",
+        "food_name": "ひじき　ほしひじき　ステンレス釜　乾",
+        "score": 1.0
+      },
+      {
+        "id": "09051",
+        "food_name": "ひじき　ほしひじき　ステンレス釜　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "09052",
+        "food_name": "ひじき　ほしひじき　ステンレス釜　油いため",
+        "score": 1.0
+      },
+      {
+        "id": "09053",
+        "food_name": "ひじき　ほしひじき　鉄釜　乾",
+        "score": 1.0
+      },
+      {
+        "id": "09054",
+        "food_name": "ひじき　ほしひじき　鉄釜　ゆで",
+        "score": 1.0
+      },
+      {
+        "id": "09055",
+        "food_name": "ひじき　ほしひじき　鉄釜　油いため",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "トマトホール缶",
+    "foodtable_maping": 6184,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●ごまドレッシング",
+    "foodtable_maping": 17117,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●唐辛子粉",
+    "foodtable_maping": 17073,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "●しょうゆ",
+    "foodtable_maping": 17064,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "いわし（3枚おろし）",
+    "foodtable_maping": 10047,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "ダイスカットチーズ",
+    "foodtable_maping": 13040,
+    "response": null,
+    "top10_candidates": []
+  },
+  {
+    "ingredient": "トマトジュース",
+    "foodtable_maping": 6185,
+    "response": null,
+    "top10_candidates": [
+      {
+        "id": "06185",
+        "food_name": "（トマト類）　加工品　トマトジュース　食塩添加",
+        "score": 1.0
+      },
+      {
+        "id": "06340",
+        "food_name": "（トマト類）　加工品　トマトジュース　食塩無添加",
+        "score": 1.0
+      }
+    ]
+  },
+  {
+    "ingredient": "抹茶",
+    "foodtable_maping": 16035,
+    "response": {
+      "id": "16035"
+    },
+    "top10_candidates": [
+      {
+        "id": "16035",
+        "food_name": "＜茶類＞　（緑茶類）　抹茶　茶",
+        "score": 1.0
+      }
+    ]
+  }
+]

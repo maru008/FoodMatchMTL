@@ -1,0 +1,68 @@
+module: src.ours_v2.train
+
+# Runner hint:
+# USE_SINGULARITY=0 bash src/FoodMatchMTL/run_experiments_from_yaml.sh \
+#   --config src/FoodMatchMTL/experiments/model3_weight6_task4_gpu2.yaml \
+#   --gpus 0,1
+
+base_args:
+  # Task pattern sweep inside one process: only_id -> id_cat -> id_tax -> multitask
+  mode: only_id
+  run_task1_mode_sweep: true
+
+  # Shared training config (epoch fixed to 10)
+  epochs: 10
+  lr: 1.0e-5
+  batch_size: 8
+  tax_batch_size: 16
+  max_len: 64
+  pooling: mean
+  normalize: true
+  score_fn: cosine
+  temperature: 0.05
+  dropout: 0.1
+  triplet_margin: 0.2
+  soft_pos_hop: 2
+  neg_hop: 6
+
+  # Data / logging
+  output_root: ./src/FoodMatchMTL/results/model3_weight6_task4_gpu2
+  eval_path: data/ingredient_label.csv
+  env_file: ./.wandb_access.env
+  use_wandb: true
+  wandb_log_interval: 50
+  num_workers: 2
+  eval_batch_size: 64
+
+  # Taxonomy pseudo-link
+  enable_pseudo_link: true
+  pseudo_link_threshold: 0.75
+  pseudo_link_weight: 0.5
+  taxonomy_restrict_mode: ancestors_of_linked
+  taxonomy_max_nodes: 30000
+  pseudo_link_batch_size: 128
+
+  # Encoder behavior
+  use_e5_prefix: auto
+  encoder_torch_dtype: auto
+  fp16: true
+  multi_gpu: false
+
+  # LoRA (kept on to make qwen3_8b practical)
+  use_lora: true
+  lora_r: 16
+  lora_alpha: 32
+  lora_dropout: 0.05
+  lora_target_modules: ""
+  lora_bias: none
+  lora_gradient_checkpointing: true
+
+sweeps:
+  # 3 model experiments
+  encoder: [multilingual_e5_large, sentence_bert, qwen3_8b]
+  seed: [42]
+
+# 6 alpha-beta paired patterns (sum kept below 0.5)
+paired_sweeps:
+  alpha: [0.05, 0.08, 0.10, 0.12, 0.15, 0.18]
+  beta:  [0.10, 0.12, 0.14, 0.16, 0.18, 0.20]

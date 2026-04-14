@@ -1,0 +1,12 @@
+
+# Local compatibility symlinks for legacy paths.
+/src/baseline_rulebase
+/src/baseline_bm25
+/src/baseline_embedding
+/src/baseline_llm
+/src/baseline_rag
+/src/ours_v2
+
+# Python cache artifacts.
+**/__pycache__/
+*.py[cod]

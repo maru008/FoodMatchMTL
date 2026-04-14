@@ -1,0 +1,105 @@
+{
+  "datetime": "2026-03-24T02:50:56.250321",
+  "sweep_group": "task1_mode_sweep_20260322_062433_seed42",
+  "seed": 42,
+  "modes": [
+    "only_id",
+    "id_cat",
+    "id_tax",
+    "multitask"
+  ],
+  "results": [
+    {
+      "mode": "only_id",
+      "task_pattern": "task1",
+      "encoder": "sentence_bert",
+      "encoder_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "encoder_torch_dtype": "float32",
+      "use_e5_prefix": false,
+      "lora_enabled": false,
+      "tasks": [
+        "id"
+      ],
+      "run_dir": "src/ours_v2/results/proj_head_ablation/20260324_014205_only_id_sentence_bert_lr1e-05_bs8_a0.05_b0.1_seed42",
+      "eval_metrics": {
+        "EM": 0.4114583333333333,
+        "CategoryMatch": 0.7135416666666666,
+        "Acc@1_ID": 0.4114583333333333,
+        "Acc@10_ID": 0.7013888888888888,
+        "Acc@1_Category": 0.7135416666666666,
+        "Acc@10_Category": 0.9375,
+        "num_unmapped_pred": 0
+      }
+    },
+    {
+      "mode": "id_cat",
+      "task_pattern": "task1+2",
+      "encoder": "sentence_bert",
+      "encoder_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "encoder_torch_dtype": "float32",
+      "use_e5_prefix": false,
+      "lora_enabled": false,
+      "tasks": [
+        "cat",
+        "id"
+      ],
+      "run_dir": "src/ours_v2/results/proj_head_ablation/20260324_015511_id_cat_sentence_bert_lr1e-05_bs8_a0.05_b0.1_seed42",
+      "eval_metrics": {
+        "EM": 0.4479166666666667,
+        "CategoryMatch": 0.7413194444444444,
+        "Acc@1_ID": 0.4479166666666667,
+        "Acc@10_ID": 0.7135416666666666,
+        "Acc@1_Category": 0.7413194444444444,
+        "Acc@10_Category": 0.9131944444444444,
+        "num_unmapped_pred": 0
+      }
+    },
+    {
+      "mode": "id_tax",
+      "task_pattern": "task1+3",
+      "encoder": "sentence_bert",
+      "encoder_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "encoder_torch_dtype": "float32",
+      "use_e5_prefix": false,
+      "lora_enabled": false,
+      "tasks": [
+        "id",
+        "tax"
+      ],
+      "run_dir": "src/ours_v2/results/proj_head_ablation/20260324_020838_id_tax_sentence_bert_lr1e-05_bs8_a0.05_b0.1_seed42",
+      "eval_metrics": {
+        "EM": 0.4444444444444444,
+        "CategoryMatch": 0.734375,
+        "Acc@1_ID": 0.4444444444444444,
+        "Acc@10_ID": 0.7170138888888888,
+        "Acc@1_Category": 0.734375,
+        "Acc@10_Category": 0.9392361111111112,
+        "num_unmapped_pred": 0
+      }
+    },
+    {
+      "mode": "multitask",
+      "task_pattern": "task1+2+3",
+      "encoder": "sentence_bert",
+      "encoder_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "encoder_torch_dtype": "float32",
+      "use_e5_prefix": false,
+      "lora_enabled": false,
+      "tasks": [
+        "cat",
+        "id",
+        "tax"
+      ],
+      "run_dir": "src/ours_v2/results/proj_head_ablation/20260324_022947_multitask_sentence_bert_lr1e-05_bs8_a0.05_b0.1_seed42",
+      "eval_metrics": {
+        "EM": 0.4548611111111111,
+        "CategoryMatch": 0.7725694444444444,
+        "Acc@1_ID": 0.4548611111111111,
+        "Acc@10_ID": 0.7586805555555556,
+        "Acc@1_Category": 0.7725694444444444,
+        "Acc@10_Category": 0.9461805555555556,
+        "num_unmapped_pred": 0
+      }
+    }
+  ]
+}

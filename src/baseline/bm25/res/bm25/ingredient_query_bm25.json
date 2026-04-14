@@ -1,0 +1,5413 @@
+{
+  "output_tag": "bm25",
+  "tokenizer": "char_bigram",
+  "items": [
+    {
+      "ingredient": "ドッグパン",
+      "normalized": "ドッグパン",
+      "tokens": [
+        "ドッ",
+        "ッグ",
+        "グパ",
+        "パン"
+      ]
+    },
+    {
+      "ingredient": "ウインナー",
+      "normalized": "ウインナ",
+      "tokens": [
+        "ウイ",
+        "イン",
+        "ンナ"
+      ]
+    },
+    {
+      "ingredient": "有塩バター",
+      "normalized": "有塩バタ",
+      "tokens": [
+        "有塩",
+        "塩バ",
+        "バタ"
+      ]
+    },
+    {
+      "ingredient": "粒マスタード",
+      "normalized": "粒マスタ ド",
+      "tokens": [
+        "粒マ",
+        "マス",
+        "スタ"
+      ]
+    },
+    {
+      "ingredient": "トマトケチャップ",
+      "normalized": "トマトケチャップ",
+      "tokens": [
+        "トマ",
+        "マト",
+        "トケ",
+        "ケチ",
+        "チャ",
+        "ャッ",
+        "ップ"
+      ]
+    },
+    {
+      "ingredient": "卵",
+      "normalized": "卵",
+      "tokens": []
+    },
+    {
+      "ingredient": "マヨネーズ",
+      "normalized": "マヨネ ズ",
+      "tokens": [
+        "マヨ",
+        "ヨネ"
+      ]
+    },
+    {
+      "ingredient": "塩",
+      "normalized": "塩",
+      "tokens": []
+    },
+    {
+      "ingredient": "粉チーズ",
+      "normalized": "粉チ ズ",
+      "tokens": [
+        "粉チ"
+      ]
+    },
+    {
+      "ingredient": "油",
+      "normalized": "油",
+      "tokens": []
+    },
+    {
+      "ingredient": "パセリ",
+      "normalized": "パセリ",
+      "tokens": [
+        "パセ",
+        "セリ"
+      ]
+    },
+    {
+      "ingredient": "ミニトマト",
+      "normalized": "ミニトマト",
+      "tokens": [
+        "ミニ",
+        "ニト",
+        "トマ",
+        "マト"
+      ]
+    },
+    {
+      "ingredient": "玉ねぎ",
+      "normalized": "玉ねぎ",
+      "tokens": [
+        "玉ね",
+        "ねぎ"
+      ]
+    },
+    {
+      "ingredient": "顆粒コンソメ",
+      "normalized": "顆粒コンソメ",
+      "tokens": [
+        "顆粒",
+        "粒コ",
+        "コン",
+        "ンソ",
+        "ソメ"
+      ]
+    },
+    {
+      "ingredient": "こしょう",
+      "normalized": "こしょう",
+      "tokens": [
+        "こし",
+        "しょ",
+        "ょう"
+      ]
+    },
+    {
+      "ingredient": "乾燥パセリ",
+      "normalized": "乾燥パセリ",
+      "tokens": [
+        "乾燥",
+        "燥パ",
+        "パセ",
+        "セリ"
+      ]
+    },
+    {
+      "ingredient": "バナナ",
+      "normalized": "バナナ",
+      "tokens": [
+        "バナ",
+        "ナナ"
+      ]
+    },
+    {
+      "ingredient": "米",
+      "normalized": "米",
+      "tokens": []
+    },
+    {
+      "ingredient": "いわし",
+      "normalized": "いわし",
+      "tokens": [
+        "いわ",
+        "わし"
+      ]
+    },
+    {
+      "ingredient": "梅干し",
+      "normalized": "梅干し",
+      "tokens": [
+        "梅干",
+        "干し"
+      ]
+    },
+    {
+      "ingredient": "しそ",
+      "normalized": "しそ",
+      "tokens": [
+        "しそ"
+      ]
+    },
+    {
+      "ingredient": "薄力粉",
+      "normalized": "薄力粉",
+      "tokens": [
+        "薄力",
+        "力粉"
+      ]
+    },
+    {
+      "ingredient": "乾燥パン粉",
+      "normalized": "乾燥パン粉",
+      "tokens": [
+        "乾燥",
+        "燥パ",
+        "パン",
+        "ン粉"
+      ]
+    },
+    {
+      "ingredient": "キャベツ",
+      "normalized": "キャベツ",
+      "tokens": [
+        "キャ",
+        "ャベ",
+        "ベツ"
+      ]
+    },
+    {
+      "ingredient": "にんじん",
+      "normalized": "にんじん",
+      "tokens": [
+        "にん",
+        "んじ",
+        "じん"
+      ]
+    },
+    {
+      "ingredient": "なす",
+      "normalized": "なす",
+      "tokens": [
+        "なす"
+      ]
+    },
+    {
+      "ingredient": "豚ひき肉",
+      "normalized": "豚ひき肉",
+      "tokens": [
+        "豚ひ",
+        "ひき",
+        "き肉"
+      ]
+    },
+    {
+      "ingredient": "しょうが",
+      "normalized": "しょうが",
+      "tokens": [
+        "しょ",
+        "ょう",
+        "うが"
+      ]
+    },
+    {
+      "ingredient": "しょうゆ",
+      "normalized": "しょうゆ",
+      "tokens": [
+        "しょ",
+        "ょう",
+        "うゆ"
+      ]
+    },
+    {
+      "ingredient": "砂糖",
+      "normalized": "砂糖",
+      "tokens": [
+        "砂糖"
+      ]
+    },
+    {
+      "ingredient": "料理酒",
+      "normalized": "料理酒",
+      "tokens": [
+        "料理",
+        "理酒"
+      ]
+    },
+    {
+      "ingredient": "出汁",
+      "normalized": "出汁",
+      "tokens": [
+        "出汁"
+      ]
+    },
+    {
+      "ingredient": "小松菜",
+      "normalized": "小松菜",
+      "tokens": [
+        "小松",
+        "松菜"
+      ]
+    },
+    {
+      "ingredient": "ねぎ",
+      "normalized": "ねぎ",
+      "tokens": [
+        "ねぎ"
+      ]
+    },
+    {
+      "ingredient": "味噌",
+      "normalized": "味噌",
+      "tokens": [
+        "味噌"
+      ]
+    },
+    {
+      "ingredient": "コーヒーゼリー",
+      "normalized": "コ ヒ ゼリ",
+      "tokens": [
+        "ゼリ"
+      ]
+    },
+    {
+      "ingredient": "木綿豆腐",
+      "normalized": "木綿豆腐",
+      "tokens": [
+        "木綿",
+        "綿豆",
+        "豆腐"
+      ]
+    },
+    {
+      "ingredient": "じゃがいも",
+      "normalized": "じゃがいも",
+      "tokens": [
+        "じゃ",
+        "ゃが",
+        "がい",
+        "いも"
+      ]
+    },
+    {
+      "ingredient": "にんにく",
+      "normalized": "にんにく",
+      "tokens": [
+        "にん",
+        "んに",
+        "にく"
+      ]
+    },
+    {
+      "ingredient": "おろししょうが",
+      "normalized": "おろししょうが",
+      "tokens": [
+        "おろ",
+        "ろし",
+        "しし",
+        "しょ",
+        "ょう",
+        "うが"
+      ]
+    },
+    {
+      "ingredient": "みりん",
+      "normalized": "みりん",
+      "tokens": [
+        "みり",
+        "りん"
+      ]
+    },
+    {
+      "ingredient": "鶏ささみ",
+      "normalized": "鶏ささみ",
+      "tokens": [
+        "鶏さ",
+        "ささ",
+        "さみ"
+      ]
+    },
+    {
+      "ingredient": "セロリ",
+      "normalized": "セロリ",
+      "tokens": [
+        "セロ",
+        "ロリ"
+      ]
+    },
+    {
+      "ingredient": "オリーブ油",
+      "normalized": "オリ ブ油",
+      "tokens": [
+        "オリ",
+        "ブ油"
+      ]
+    },
+    {
+      "ingredient": "酢",
+      "normalized": "酢",
+      "tokens": []
+    },
+    {
+      "ingredient": "かぼちゃ",
+      "normalized": "かぼちゃ",
+      "tokens": [
+        "かぼ",
+        "ぼち",
+        "ちゃ"
+      ]
+    },
+    {
+      "ingredient": "ピーナッツ",
+      "normalized": "ピ ナッツ",
+      "tokens": [
+        "ナッ",
+        "ッツ"
+      ]
+    },
+    {
+      "ingredient": "すりごま（白）",
+      "normalized": "すりごま 白",
+      "tokens": [
+        "すり",
+        "りご",
+        "ごま"
+      ]
+    },
+    {
+      "ingredient": "鶏もも肉",
+      "normalized": "鶏もも肉",
+      "tokens": [
+        "鶏も",
+        "もも",
+        "も肉"
+      ]
+    },
+    {
+      "ingredient": "板こんにゃく",
+      "normalized": "板こんにゃく",
+      "tokens": [
+        "板こ",
+        "こん",
+        "んに",
+        "にゃ",
+        "ゃく"
+      ]
+    },
+    {
+      "ingredient": "ごま油",
+      "normalized": "ごま油",
+      "tokens": [
+        "ごま",
+        "ま油"
+      ]
+    },
+    {
+      "ingredient": "だいこん",
+      "normalized": "だいこん",
+      "tokens": [
+        "だい",
+        "いこ",
+        "こん"
+      ]
+    },
+    {
+      "ingredient": "シーチキン",
+      "normalized": "シ チキン",
+      "tokens": [
+        "チキ",
+        "キン"
+      ]
+    },
+    {
+      "ingredient": "たまごふりかけ",
+      "normalized": "たまごふりかけ",
+      "tokens": [
+        "たま",
+        "まご",
+        "ごふ",
+        "ふり",
+        "りか",
+        "かけ"
+      ]
+    },
+    {
+      "ingredient": "茹でうどん",
+      "normalized": "茹でうどん",
+      "tokens": [
+        "茹で",
+        "でう",
+        "うど",
+        "どん"
+      ]
+    },
+    {
+      "ingredient": "豚バラ肉",
+      "normalized": "豚バラ肉",
+      "tokens": [
+        "豚バ",
+        "バラ",
+        "ラ肉"
+      ]
+    },
+    {
+      "ingredient": "卵黄",
+      "normalized": "卵黄",
+      "tokens": [
+        "卵黄"
+      ]
+    },
+    {
+      "ingredient": "トマト",
+      "normalized": "トマト",
+      "tokens": [
+        "トマ",
+        "マト"
+      ]
+    },
+    {
+      "ingredient": "サニーレタス",
+      "normalized": "サニ レタス",
+      "tokens": [
+        "サニ",
+        "レタ",
+        "タス"
+      ]
+    },
+    {
+      "ingredient": "めんつゆ",
+      "normalized": "めんつゆ",
+      "tokens": [
+        "めん",
+        "んつ",
+        "つゆ"
+      ]
+    },
+    {
+      "ingredient": "焼肉のタレ",
+      "normalized": "焼肉のタレ",
+      "tokens": [
+        "焼肉",
+        "肉の",
+        "のタ",
+        "タレ"
+      ]
+    },
+    {
+      "ingredient": "おろしにんにく",
+      "normalized": "おろしにんにく",
+      "tokens": [
+        "おろ",
+        "ろし",
+        "しに",
+        "にん",
+        "んに",
+        "にく"
+      ]
+    },
+    {
+      "ingredient": "にんにく　",
+      "normalized": "にんにく",
+      "tokens": [
+        "にん",
+        "んに",
+        "にく"
+      ]
+    },
+    {
+      "ingredient": "ロースハム",
+      "normalized": "ロ スハム",
+      "tokens": [
+        "スハ",
+        "ハム"
+      ]
+    },
+    {
+      "ingredient": "ズッキーニ　",
+      "normalized": "ズッキ ニ",
+      "tokens": [
+        "ズッ",
+        "ッキ"
+      ]
+    },
+    {
+      "ingredient": "パイナップル",
+      "normalized": "パイナップル",
+      "tokens": [
+        "パイ",
+        "イナ",
+        "ナッ",
+        "ップ",
+        "プル"
+      ]
+    },
+    {
+      "ingredient": "りんごジュース",
+      "normalized": "りんごジュ ス",
+      "tokens": [
+        "りん",
+        "んご",
+        "ごジ",
+        "ジュ"
+      ]
+    },
+    {
+      "ingredient": "塩蔵くらげ",
+      "normalized": "塩蔵くらげ",
+      "tokens": [
+        "塩蔵",
+        "蔵く",
+        "くら",
+        "らげ"
+      ]
+    },
+    {
+      "ingredient": "ピーマン",
+      "normalized": "ピ マン",
+      "tokens": [
+        "マン"
+      ]
+    },
+    {
+      "ingredient": "もやし",
+      "normalized": "もやし",
+      "tokens": [
+        "もや",
+        "やし"
+      ]
+    },
+    {
+      "ingredient": "顆粒中華だし",
+      "normalized": "顆粒中華だし",
+      "tokens": [
+        "顆粒",
+        "粒中",
+        "中華",
+        "華だ",
+        "だし"
+      ]
+    },
+    {
+      "ingredient": "あさつき　",
+      "normalized": "あさつき",
+      "tokens": [
+        "あさ",
+        "さつ",
+        "つき"
+      ]
+    },
+    {
+      "ingredient": "ヨーグルト",
+      "normalized": "ヨ グルト",
+      "tokens": [
+        "グル",
+        "ルト"
+      ]
+    },
+    {
+      "ingredient": "ベーコン",
+      "normalized": "ベ コン",
+      "tokens": [
+        "コン"
+      ]
+    },
+    {
+      "ingredient": "オクラ　",
+      "normalized": "オクラ",
+      "tokens": [
+        "オク",
+        "クラ"
+      ]
+    },
+    {
+      "ingredient": "乾燥ひじき",
+      "normalized": "乾燥ひじき",
+      "tokens": [
+        "乾燥",
+        "燥ひ",
+        "ひじ",
+        "じき"
+      ]
+    },
+    {
+      "ingredient": "コーン缶",
+      "normalized": "コ ン缶",
+      "tokens": [
+        "ン缶"
+      ]
+    },
+    {
+      "ingredient": "レモン汁",
+      "normalized": "レモン汁",
+      "tokens": [
+        "レモ",
+        "モン",
+        "ン汁"
+      ]
+    },
+    {
+      "ingredient": "味付けのり",
+      "normalized": "味付けのり",
+      "tokens": [
+        "味付",
+        "付け",
+        "けの",
+        "のり"
+      ]
+    },
+    {
+      "ingredient": "さつまいも",
+      "normalized": "さつまいも",
+      "tokens": [
+        "さつ",
+        "つま",
+        "まい",
+        "いも"
+      ]
+    },
+    {
+      "ingredient": "油揚げ　",
+      "normalized": "油揚げ",
+      "tokens": [
+        "油揚",
+        "揚げ"
+      ]
+    },
+    {
+      "ingredient": "鶏むね肉",
+      "normalized": "鶏むね肉",
+      "tokens": [
+        "鶏む",
+        "むね",
+        "ね肉"
+      ]
+    },
+    {
+      "ingredient": "ウスターソース",
+      "normalized": "ウスタ ソ ス",
+      "tokens": [
+        "ウス",
+        "スタ"
+      ]
+    },
+    {
+      "ingredient": "みずな",
+      "normalized": "みずな",
+      "tokens": [
+        "みず",
+        "ずな"
+      ]
+    },
+    {
+      "ingredient": "ちりめんじゃこ",
+      "normalized": "ちりめんじゃこ",
+      "tokens": [
+        "ちり",
+        "りめ",
+        "めん",
+        "んじ",
+        "じゃ",
+        "ゃこ"
+      ]
+    },
+    {
+      "ingredient": "豆苗",
+      "normalized": "豆苗",
+      "tokens": [
+        "豆苗"
+      ]
+    },
+    {
+      "ingredient": "ウインナーソーセージ",
+      "normalized": "ウインナ ソ セ ジ",
+      "tokens": [
+        "ウイ",
+        "イン",
+        "ンナ"
+      ]
+    },
+    {
+      "ingredient": "白桃缶",
+      "normalized": "白桃缶",
+      "tokens": [
+        "白桃",
+        "桃缶"
+      ]
+    },
+    {
+      "ingredient": "無調整豆乳",
+      "normalized": "無調整豆乳",
+      "tokens": [
+        "無調",
+        "調整",
+        "整豆",
+        "豆乳"
+      ]
+    },
+    {
+      "ingredient": "粉寒天",
+      "normalized": "粉寒天",
+      "tokens": [
+        "粉寒",
+        "寒天"
+      ]
+    },
+    {
+      "ingredient": "長ねぎ",
+      "normalized": "長ねぎ",
+      "tokens": [
+        "長ね",
+        "ねぎ"
+      ]
+    },
+    {
+      "ingredient": "かたくり粉",
+      "normalized": "かたくり粉",
+      "tokens": [
+        "かた",
+        "たく",
+        "くり",
+        "り粉"
+      ]
+    },
+    {
+      "ingredient": "マカロニ",
+      "normalized": "マカロニ",
+      "tokens": [
+        "マカ",
+        "カロ",
+        "ロニ"
+      ]
+    },
+    {
+      "ingredient": "えだまめ　",
+      "normalized": "えだまめ",
+      "tokens": [
+        "えだ",
+        "だま",
+        "まめ"
+      ]
+    },
+    {
+      "ingredient": "梅びしお",
+      "normalized": "梅びしお",
+      "tokens": [
+        "梅び",
+        "びし",
+        "しお"
+      ]
+    },
+    {
+      "ingredient": "オレンジ",
+      "normalized": "オレンジ",
+      "tokens": [
+        "オレ",
+        "レン",
+        "ンジ"
+      ]
+    },
+    {
+      "ingredient": "まあじ",
+      "normalized": "まあじ",
+      "tokens": [
+        "まあ",
+        "あじ"
+      ]
+    },
+    {
+      "ingredient": "ししとう",
+      "normalized": "ししとう",
+      "tokens": [
+        "しし",
+        "しと",
+        "とう"
+      ]
+    },
+    {
+      "ingredient": "カットわかめ　",
+      "normalized": "カットわかめ",
+      "tokens": [
+        "カッ",
+        "ット",
+        "トわ",
+        "わか",
+        "かめ"
+      ]
+    },
+    {
+      "ingredient": "乾燥金時豆",
+      "normalized": "乾燥金時豆",
+      "tokens": [
+        "乾燥",
+        "燥金",
+        "金時",
+        "時豆"
+      ]
+    },
+    {
+      "ingredient": "牛もも肉",
+      "normalized": "牛もも肉",
+      "tokens": [
+        "牛も",
+        "もも",
+        "も肉"
+      ]
+    },
+    {
+      "ingredient": "●おろしにんにく",
+      "normalized": "●おろしにんにく",
+      "tokens": [
+        "●お",
+        "おろ",
+        "ろし",
+        "しに",
+        "にん",
+        "んに",
+        "にく"
+      ]
+    },
+    {
+      "ingredient": "●しょうゆ",
+      "normalized": "●しょうゆ",
+      "tokens": [
+        "●し",
+        "しょ",
+        "ょう",
+        "うゆ"
+      ]
+    },
+    {
+      "ingredient": "●料理酒",
+      "normalized": "●料理酒",
+      "tokens": [
+        "●料",
+        "料理",
+        "理酒"
+      ]
+    },
+    {
+      "ingredient": "●みりん",
+      "normalized": "●みりん",
+      "tokens": [
+        "●み",
+        "みり",
+        "りん"
+      ]
+    },
+    {
+      "ingredient": "●豆板醤",
+      "normalized": "●豆板醤",
+      "tokens": [
+        "●豆",
+        "豆板",
+        "板醤"
+      ]
+    },
+    {
+      "ingredient": "●砂糖",
+      "normalized": "●砂糖",
+      "tokens": [
+        "●砂",
+        "砂糖"
+      ]
+    },
+    {
+      "ingredient": "●いりごま（白）　",
+      "normalized": "●いりごま 白",
+      "tokens": [
+        "●い",
+        "いり",
+        "りご",
+        "ごま"
+      ]
+    },
+    {
+      "ingredient": "●ごま油",
+      "normalized": "●ごま油",
+      "tokens": [
+        "●ご",
+        "ごま",
+        "ま油"
+      ]
+    },
+    {
+      "ingredient": "●塩",
+      "normalized": "●塩",
+      "tokens": [
+        "●塩"
+      ]
+    },
+    {
+      "ingredient": "温泉卵",
+      "normalized": "温泉卵",
+      "tokens": [
+        "温泉",
+        "泉卵"
+      ]
+    },
+    {
+      "ingredient": "塩蔵もずく",
+      "normalized": "塩蔵もずく",
+      "tokens": [
+        "塩蔵",
+        "蔵も",
+        "もず",
+        "ずく"
+      ]
+    },
+    {
+      "ingredient": "かにかま",
+      "normalized": "かにかま",
+      "tokens": [
+        "かに",
+        "にか",
+        "かま"
+      ]
+    },
+    {
+      "ingredient": "モロヘイヤ　",
+      "normalized": "モロヘイヤ",
+      "tokens": [
+        "モロ",
+        "ロヘ",
+        "ヘイ",
+        "イヤ"
+      ]
+    },
+    {
+      "ingredient": "きゅうり　",
+      "normalized": "きゅうり",
+      "tokens": [
+        "きゅ",
+        "ゅう",
+        "うり"
+      ]
+    },
+    {
+      "ingredient": "穀物酢",
+      "normalized": "穀物酢",
+      "tokens": [
+        "穀物",
+        "物酢"
+      ]
+    },
+    {
+      "ingredient": "手毬麩",
+      "normalized": "手毬麩",
+      "tokens": [
+        "手毬",
+        "毬麩"
+      ]
+    },
+    {
+      "ingredient": "貝割れだいこん",
+      "normalized": "貝割れだいこん",
+      "tokens": [
+        "貝割",
+        "割れ",
+        "れだ",
+        "だい",
+        "いこ",
+        "こん"
+      ]
+    },
+    {
+      "ingredient": "A砂糖",
+      "normalized": "a砂糖",
+      "tokens": [
+        "a砂",
+        "砂糖"
+      ]
+    },
+    {
+      "ingredient": "A顆粒中華だし",
+      "normalized": "a顆粒中華だし",
+      "tokens": [
+        "a顆",
+        "顆粒",
+        "粒中",
+        "中華",
+        "華だ",
+        "だし"
+      ]
+    },
+    {
+      "ingredient": "A塩",
+      "normalized": "a塩",
+      "tokens": [
+        "a塩"
+      ]
+    },
+    {
+      "ingredient": "Aレモン汁",
+      "normalized": "aレモン汁",
+      "tokens": [
+        "aレ",
+        "レモ",
+        "モン",
+        "ン汁"
+      ]
+    },
+    {
+      "ingredient": "B料理酒",
+      "normalized": "b料理酒",
+      "tokens": [
+        "b料",
+        "料理",
+        "理酒"
+      ]
+    },
+    {
+      "ingredient": "Bおろししょうが",
+      "normalized": "bおろししょうが",
+      "tokens": [
+        "bお",
+        "おろ",
+        "ろし",
+        "しし",
+        "しょ",
+        "ょう",
+        "うが"
+      ]
+    },
+    {
+      "ingredient": "B塩",
+      "normalized": "b塩",
+      "tokens": [
+        "b塩"
+      ]
+    },
+    {
+      "ingredient": "しめじ",
+      "normalized": "しめじ",
+      "tokens": [
+        "しめ",
+        "めじ"
+      ]
+    },
+    {
+      "ingredient": "エリンギ　",
+      "normalized": "エリンギ",
+      "tokens": [
+        "エリ",
+        "リン",
+        "ンギ"
+      ]
+    },
+    {
+      "ingredient": "えのきたけ　",
+      "normalized": "えのきたけ",
+      "tokens": [
+        "えの",
+        "のき",
+        "きた",
+        "たけ"
+      ]
+    },
+    {
+      "ingredient": "●酢",
+      "normalized": "●酢",
+      "tokens": [
+        "●酢"
+      ]
+    },
+    {
+      "ingredient": "●こしょう",
+      "normalized": "●こしょう",
+      "tokens": [
+        "●こ",
+        "こし",
+        "しょ",
+        "ょう"
+      ]
+    },
+    {
+      "ingredient": "●オリーブ油",
+      "normalized": "●オリ ブ油",
+      "tokens": [
+        "●オ",
+        "オリ",
+        "ブ油"
+      ]
+    },
+    {
+      "ingredient": "●とうがらし（乾）",
+      "normalized": "●とうがらし 乾",
+      "tokens": [
+        "●と",
+        "とう",
+        "うが",
+        "がら",
+        "らし"
+      ]
+    },
+    {
+      "ingredient": "和梨",
+      "normalized": "和梨",
+      "tokens": [
+        "和梨"
+      ]
+    },
+    {
+      "ingredient": "●油",
+      "normalized": "●油",
+      "tokens": [
+        "●油"
+      ]
+    },
+    {
+      "ingredient": "油揚げ",
+      "normalized": "油揚げ",
+      "tokens": [
+        "油揚",
+        "揚げ"
+      ]
+    },
+    {
+      "ingredient": "しらたき",
+      "normalized": "しらたき",
+      "tokens": [
+        "しら",
+        "らた",
+        "たき"
+      ]
+    },
+    {
+      "ingredient": "●出汁",
+      "normalized": "●出汁",
+      "tokens": [
+        "●出",
+        "出汁"
+      ]
+    },
+    {
+      "ingredient": "だいこん　",
+      "normalized": "だいこん",
+      "tokens": [
+        "だい",
+        "いこ",
+        "こん"
+      ]
+    },
+    {
+      "ingredient": "とろろ昆布",
+      "normalized": "とろろ昆布",
+      "tokens": [
+        "とろ",
+        "ろろ",
+        "ろ昆",
+        "昆布"
+      ]
+    },
+    {
+      "ingredient": "赤パプリカ",
+      "normalized": "赤パプリカ",
+      "tokens": [
+        "赤パ",
+        "パプ",
+        "プリ",
+        "リカ"
+      ]
+    },
+    {
+      "ingredient": "黄パプリカ",
+      "normalized": "黄パプリカ",
+      "tokens": [
+        "黄パ",
+        "パプ",
+        "プリ",
+        "リカ"
+      ]
+    },
+    {
+      "ingredient": "たまねぎ",
+      "normalized": "たまねぎ",
+      "tokens": [
+        "たま",
+        "まね",
+        "ねぎ"
+      ]
+    },
+    {
+      "ingredient": "●トマトソース",
+      "normalized": "●トマトソ ス",
+      "tokens": [
+        "●ト",
+        "トマ",
+        "マト",
+        "トソ"
+      ]
+    },
+    {
+      "ingredient": "●顆粒コンソメ",
+      "normalized": "●顆粒コンソメ",
+      "tokens": [
+        "●顆",
+        "顆粒",
+        "粒コ",
+        "コン",
+        "ンソ",
+        "ソメ"
+      ]
+    },
+    {
+      "ingredient": "●チリパウダー",
+      "normalized": "●チリパウダ",
+      "tokens": [
+        "●チ",
+        "チリ",
+        "リパ",
+        "パウ",
+        "ウダ"
+      ]
+    },
+    {
+      "ingredient": "ゴーヤ",
+      "normalized": "ゴ ヤ",
+      "tokens": []
+    },
+    {
+      "ingredient": "アボカド　",
+      "normalized": "アボカド",
+      "tokens": [
+        "アボ",
+        "ボカ",
+        "カド"
+      ]
+    },
+    {
+      "ingredient": "●マヨネーズ",
+      "normalized": "●マヨネ ズ",
+      "tokens": [
+        "●マ",
+        "マヨ",
+        "ヨネ"
+      ]
+    },
+    {
+      "ingredient": "●カレー粉",
+      "normalized": "●カレ 粉",
+      "tokens": [
+        "●カ",
+        "カレ"
+      ]
+    },
+    {
+      "ingredient": "●牛乳",
+      "normalized": "●牛乳",
+      "tokens": [
+        "●牛",
+        "牛乳"
+      ]
+    },
+    {
+      "ingredient": "無糖ヨーグルト",
+      "normalized": "無糖ヨ グルト",
+      "tokens": [
+        "無糖",
+        "糖ヨ",
+        "グル",
+        "ルト"
+      ]
+    },
+    {
+      "ingredient": "みかん缶",
+      "normalized": "みかん缶",
+      "tokens": [
+        "みか",
+        "かん",
+        "ん缶"
+      ]
+    },
+    {
+      "ingredient": "キウイフルーツ　",
+      "normalized": "キウイフル ツ",
+      "tokens": [
+        "キウ",
+        "ウイ",
+        "イフ",
+        "フル"
+      ]
+    },
+    {
+      "ingredient": "さわら",
+      "normalized": "さわら",
+      "tokens": [
+        "さわ",
+        "わら"
+      ]
+    },
+    {
+      "ingredient": "●すだち果汁",
+      "normalized": "●すだち果汁",
+      "tokens": [
+        "●す",
+        "すだ",
+        "だち",
+        "ち果",
+        "果汁"
+      ]
+    },
+    {
+      "ingredient": "すだち",
+      "normalized": "すだち",
+      "tokens": [
+        "すだ",
+        "だち"
+      ]
+    },
+    {
+      "ingredient": "乾燥高野豆腐",
+      "normalized": "乾燥高野豆腐",
+      "tokens": [
+        "乾燥",
+        "燥高",
+        "高野",
+        "野豆",
+        "豆腐"
+      ]
+    },
+    {
+      "ingredient": "きぬさや",
+      "normalized": "きぬさや",
+      "tokens": [
+        "きぬ",
+        "ぬさ",
+        "さや"
+      ]
+    },
+    {
+      "ingredient": "はんぺん",
+      "normalized": "はんぺん",
+      "tokens": [
+        "はん",
+        "んぺ",
+        "ぺん"
+      ]
+    },
+    {
+      "ingredient": "みょうが　",
+      "normalized": "みょうが",
+      "tokens": [
+        "みょ",
+        "ょう",
+        "うが"
+      ]
+    },
+    {
+      "ingredient": "●顆粒和風だし",
+      "normalized": "●顆粒和風だし",
+      "tokens": [
+        "●顆",
+        "顆粒",
+        "粒和",
+        "和風",
+        "風だ",
+        "だし"
+      ]
+    },
+    {
+      "ingredient": "●練りわさび",
+      "normalized": "●練りわさび",
+      "tokens": [
+        "●練",
+        "練り",
+        "りわ",
+        "わさ",
+        "さび"
+      ]
+    },
+    {
+      "ingredient": "コーヒー牛乳",
+      "normalized": "コ ヒ 牛乳",
+      "tokens": [
+        "牛乳"
+      ]
+    },
+    {
+      "ingredient": "食パン",
+      "normalized": "食パン",
+      "tokens": [
+        "食パ",
+        "パン"
+      ]
+    },
+    {
+      "ingredient": "ブルーベリージャム",
+      "normalized": "ブル ベリ ジャム",
+      "tokens": [
+        "ブル",
+        "ベリ",
+        "ジャ",
+        "ャム"
+      ]
+    },
+    {
+      "ingredient": "マーガリン",
+      "normalized": "マ ガリン",
+      "tokens": [
+        "ガリ",
+        "リン"
+      ]
+    },
+    {
+      "ingredient": "乾燥マカロニ",
+      "normalized": "乾燥マカロニ",
+      "tokens": [
+        "乾燥",
+        "燥マ",
+        "マカ",
+        "カロ",
+        "ロニ"
+      ]
+    },
+    {
+      "ingredient": "●無塩トマトジュース",
+      "normalized": "●無塩トマトジュ ス",
+      "tokens": [
+        "●無",
+        "無塩",
+        "塩ト",
+        "トマ",
+        "マト",
+        "トジ",
+        "ジュ"
+      ]
+    },
+    {
+      "ingredient": "ブロッコリー　",
+      "normalized": "ブロッコリ",
+      "tokens": [
+        "ブロ",
+        "ロッ",
+        "ッコ",
+        "コリ"
+      ]
+    },
+    {
+      "ingredient": "茹でたこ",
+      "normalized": "茹でたこ",
+      "tokens": [
+        "茹で",
+        "でた",
+        "たこ"
+      ]
+    },
+    {
+      "ingredient": "バター",
+      "normalized": "バタ",
+      "tokens": [
+        "バタ"
+      ]
+    },
+    {
+      "ingredient": "グレープフルーツ",
+      "normalized": "グレ プフル ツ",
+      "tokens": [
+        "グレ",
+        "プフ",
+        "フル"
+      ]
+    },
+    {
+      "ingredient": "牛乳",
+      "normalized": "牛乳",
+      "tokens": [
+        "牛乳"
+      ]
+    },
+    {
+      "ingredient": "鮭",
+      "normalized": "鮭",
+      "tokens": []
+    },
+    {
+      "ingredient": "マヨネーズ　",
+      "normalized": "マヨネ ズ",
+      "tokens": [
+        "マヨ",
+        "ヨネ"
+      ]
+    },
+    {
+      "ingredient": "ピクルス",
+      "normalized": "ピクルス",
+      "tokens": [
+        "ピク",
+        "クル",
+        "ルス"
+      ]
+    },
+    {
+      "ingredient": "サラダな",
+      "normalized": "サラダな",
+      "tokens": [
+        "サラ",
+        "ラダ",
+        "ダな"
+      ]
+    },
+    {
+      "ingredient": "きゅうり",
+      "normalized": "きゅうり",
+      "tokens": [
+        "きゅ",
+        "ゅう",
+        "うり"
+      ]
+    },
+    {
+      "ingredient": "●顆粒中華だし",
+      "normalized": "●顆粒中華だし",
+      "tokens": [
+        "●顆",
+        "顆粒",
+        "粒中",
+        "中華",
+        "華だ",
+        "だし"
+      ]
+    },
+    {
+      "ingredient": "●いりごま（白）",
+      "normalized": "●いりごま 白",
+      "tokens": [
+        "●い",
+        "いり",
+        "りご",
+        "ごま"
+      ]
+    },
+    {
+      "ingredient": "カットわかめ",
+      "normalized": "カットわかめ",
+      "tokens": [
+        "カッ",
+        "ット",
+        "トわ",
+        "わか",
+        "かめ"
+      ]
+    },
+    {
+      "ingredient": "むきえび",
+      "normalized": "むきえび",
+      "tokens": [
+        "むき",
+        "きえ",
+        "えび"
+      ]
+    },
+    {
+      "ingredient": "絹ごし豆腐",
+      "normalized": "絹ごし豆腐",
+      "tokens": [
+        "絹ご",
+        "ごし",
+        "し豆",
+        "豆腐"
+      ]
+    },
+    {
+      "ingredient": "●すりごま（白）　",
+      "normalized": "●すりごま 白",
+      "tokens": [
+        "●す",
+        "すり",
+        "りご",
+        "ごま"
+      ]
+    },
+    {
+      "ingredient": " ●顆粒コンソメ",
+      "normalized": "●顆粒コンソメ",
+      "tokens": [
+        "●顆",
+        "顆粒",
+        "粒コ",
+        "コン",
+        "ンソ",
+        "ソメ"
+      ]
+    },
+    {
+      "ingredient": " ●塩",
+      "normalized": "●塩",
+      "tokens": [
+        "●塩"
+      ]
+    },
+    {
+      "ingredient": " ●こしょう",
+      "normalized": "●こしょう",
+      "tokens": [
+        "●こ",
+        "こし",
+        "しょ",
+        "ょう"
+      ]
+    },
+    {
+      "ingredient": "レモン汁　",
+      "normalized": "レモン汁",
+      "tokens": [
+        "レモ",
+        "モン",
+        "ン汁"
+      ]
+    },
+    {
+      "ingredient": "●練りわさび　",
+      "normalized": "●練りわさび",
+      "tokens": [
+        "●練",
+        "練り",
+        "りわ",
+        "わさ",
+        "さび"
+      ]
+    },
+    {
+      "ingredient": "スパゲッティ",
+      "normalized": "スパゲッティ",
+      "tokens": [
+        "スパ",
+        "パゲ",
+        "ゲッ",
+        "ッテ",
+        "ティ"
+      ]
+    },
+    {
+      "ingredient": "いか",
+      "normalized": "いか",
+      "tokens": [
+        "いか"
+      ]
+    },
+    {
+      "ingredient": "A顆粒和風だし",
+      "normalized": "a顆粒和風だし",
+      "tokens": [
+        "a顆",
+        "顆粒",
+        "粒和",
+        "和風",
+        "風だ",
+        "だし"
+      ]
+    },
+    {
+      "ingredient": "Aレモン汁　",
+      "normalized": "aレモン汁",
+      "tokens": [
+        "aレ",
+        "レモ",
+        "モン",
+        "ン汁"
+      ]
+    },
+    {
+      "ingredient": "たまねぎ　",
+      "normalized": "たまねぎ",
+      "tokens": [
+        "たま",
+        "まね",
+        "ねぎ"
+      ]
+    },
+    {
+      "ingredient": "しめじ　",
+      "normalized": "しめじ",
+      "tokens": [
+        "しめ",
+        "めじ"
+      ]
+    },
+    {
+      "ingredient": "まいたけ　",
+      "normalized": "まいたけ",
+      "tokens": [
+        "まい",
+        "いた",
+        "たけ"
+      ]
+    },
+    {
+      "ingredient": "しいたけ",
+      "normalized": "しいたけ",
+      "tokens": [
+        "しい",
+        "いた",
+        "たけ"
+      ]
+    },
+    {
+      "ingredient": "しそ　",
+      "normalized": "しそ",
+      "tokens": [
+        "しそ"
+      ]
+    },
+    {
+      "ingredient": "牛ひき肉",
+      "normalized": "牛ひき肉",
+      "tokens": [
+        "牛ひ",
+        "ひき",
+        "き肉"
+      ]
+    },
+    {
+      "ingredient": "Aカレー粉",
+      "normalized": "aカレ 粉",
+      "tokens": [
+        "aカ",
+        "カレ"
+      ]
+    },
+    {
+      "ingredient": "Aトマトケチャップ",
+      "normalized": "aトマトケチャップ",
+      "tokens": [
+        "aト",
+        "トマ",
+        "マト",
+        "トケ",
+        "ケチ",
+        "チャ",
+        "ャッ",
+        "ップ"
+      ]
+    },
+    {
+      "ingredient": "A中濃ソース",
+      "normalized": "a中濃ソ ス",
+      "tokens": [
+        "a中",
+        "中濃",
+        "濃ソ"
+      ]
+    },
+    {
+      "ingredient": "Aしょうゆ",
+      "normalized": "aしょうゆ",
+      "tokens": [
+        "aし",
+        "しょ",
+        "ょう",
+        "うゆ"
+      ]
+    },
+    {
+      "ingredient": "紫たまねぎ　",
+      "normalized": "紫たまねぎ",
+      "tokens": [
+        "紫た",
+        "たま",
+        "まね",
+        "ねぎ"
+      ]
+    },
+    {
+      "ingredient": "しょうが　",
+      "normalized": "しょうが",
+      "tokens": [
+        "しょ",
+        "ょう",
+        "うが"
+      ]
+    },
+    {
+      "ingredient": "トマト　",
+      "normalized": "トマト",
+      "tokens": [
+        "トマ",
+        "マト"
+      ]
+    },
+    {
+      "ingredient": "シュレッドチーズ",
+      "normalized": "シュレッドチ ズ",
+      "tokens": [
+        "シュ",
+        "ュレ",
+        "レッ",
+        "ッド",
+        "ドチ"
+      ]
+    },
+    {
+      "ingredient": "こまつな　",
+      "normalized": "こまつな",
+      "tokens": [
+        "こま",
+        "まつ",
+        "つな"
+      ]
+    },
+    {
+      "ingredient": "にんじん　",
+      "normalized": "にんじん",
+      "tokens": [
+        "にん",
+        "んじ",
+        "じん"
+      ]
+    },
+    {
+      "ingredient": "プリン",
+      "normalized": "プリン",
+      "tokens": [
+        "プリ",
+        "リン"
+      ]
+    },
+    {
+      "ingredient": "キャベツ　",
+      "normalized": "キャベツ",
+      "tokens": [
+        "キャ",
+        "ャベ",
+        "ベツ"
+      ]
+    },
+    {
+      "ingredient": "A料理酒",
+      "normalized": "a料理酒",
+      "tokens": [
+        "a料",
+        "料理",
+        "理酒"
+      ]
+    },
+    {
+      "ingredient": "Aおろししょうが",
+      "normalized": "aおろししょうが",
+      "tokens": [
+        "aお",
+        "おろ",
+        "ろし",
+        "しし",
+        "しょ",
+        "ょう",
+        "うが"
+      ]
+    },
+    {
+      "ingredient": "Bかたくり粉",
+      "normalized": "bかたくり粉",
+      "tokens": [
+        "bか",
+        "かた",
+        "たく",
+        "くり",
+        "り粉"
+      ]
+    },
+    {
+      "ingredient": "シュウマイ",
+      "normalized": "シュウマイ",
+      "tokens": [
+        "シュ",
+        "ュウ",
+        "ウマ",
+        "マイ"
+      ]
+    },
+    {
+      "ingredient": "●めんつゆ",
+      "normalized": "●めんつゆ",
+      "tokens": [
+        "●め",
+        "めん",
+        "んつ",
+        "つゆ"
+      ]
+    },
+    {
+      "ingredient": "納豆",
+      "normalized": "納豆",
+      "tokens": [
+        "納豆"
+      ]
+    },
+    {
+      "ingredient": "板こんにゃく　",
+      "normalized": "板こんにゃく",
+      "tokens": [
+        "板こ",
+        "こん",
+        "んに",
+        "にゃ",
+        "ゃく"
+      ]
+    },
+    {
+      "ingredient": "いりごま（白）　",
+      "normalized": "いりごま 白",
+      "tokens": [
+        "いり",
+        "りご",
+        "ごま"
+      ]
+    },
+    {
+      "ingredient": "かつお節",
+      "normalized": "かつお節",
+      "tokens": [
+        "かつ",
+        "つお",
+        "お節"
+      ]
+    },
+    {
+      "ingredient": "えのきたけ",
+      "normalized": "えのきたけ",
+      "tokens": [
+        "えの",
+        "のき",
+        "きた",
+        "たけ"
+      ]
+    },
+    {
+      "ingredient": "豚ロース肉",
+      "normalized": "豚ロ ス肉",
+      "tokens": [
+        "豚ロ",
+        "ス肉"
+      ]
+    },
+    {
+      "ingredient": "はくさいキムチ",
+      "normalized": "はくさいキムチ",
+      "tokens": [
+        "はく",
+        "くさ",
+        "さい",
+        "いキ",
+        "キム",
+        "ムチ"
+      ]
+    },
+    {
+      "ingredient": "ぽん酢しょうゆ　",
+      "normalized": "ぽん酢しょうゆ",
+      "tokens": [
+        "ぽん",
+        "ん酢",
+        "酢し",
+        "しょ",
+        "ょう",
+        "うゆ"
+      ]
+    },
+    {
+      "ingredient": "乾燥はるさめ",
+      "normalized": "乾燥はるさめ",
+      "tokens": [
+        "乾燥",
+        "燥は",
+        "はる",
+        "るさ",
+        "さめ"
+      ]
+    },
+    {
+      "ingredient": "中華ドレッシング",
+      "normalized": "中華ドレッシング",
+      "tokens": [
+        "中華",
+        "華ド",
+        "ドレ",
+        "レッ",
+        "ッシ",
+        "シン",
+        "ング"
+      ]
+    },
+    {
+      "ingredient": "塩蔵もずく　",
+      "normalized": "塩蔵もずく",
+      "tokens": [
+        "塩蔵",
+        "蔵も",
+        "もず",
+        "ずく"
+      ]
+    },
+    {
+      "ingredient": "チンゲンサイ　",
+      "normalized": "チンゲンサイ",
+      "tokens": [
+        "チン",
+        "ンゲ",
+        "ゲン",
+        "ンサ",
+        "サイ"
+      ]
+    },
+    {
+      "ingredient": "しいたけ　",
+      "normalized": "しいたけ",
+      "tokens": [
+        "しい",
+        "いた",
+        "たけ"
+      ]
+    },
+    {
+      "ingredient": "Aオイスターソース",
+      "normalized": "aオイスタ ソ ス",
+      "tokens": [
+        "aオ",
+        "オイ",
+        "イス",
+        "スタ"
+      ]
+    },
+    {
+      "ingredient": "C穀物酢",
+      "normalized": "c穀物酢",
+      "tokens": [
+        "c穀",
+        "穀物",
+        "物酢"
+      ]
+    },
+    {
+      "ingredient": "Cラー油",
+      "normalized": "cラ 油",
+      "tokens": [
+        "cラ"
+      ]
+    },
+    {
+      "ingredient": "Cこしょう",
+      "normalized": "cこしょう",
+      "tokens": [
+        "cこ",
+        "こし",
+        "しょ",
+        "ょう"
+      ]
+    },
+    {
+      "ingredient": "杏仁豆腐",
+      "normalized": "杏仁豆腐",
+      "tokens": [
+        "杏仁",
+        "仁豆",
+        "豆腐"
+      ]
+    },
+    {
+      "ingredient": "オレンジジュース",
+      "normalized": "オレンジジュ ス",
+      "tokens": [
+        "オレ",
+        "レン",
+        "ンジ",
+        "ジジ",
+        "ジュ"
+      ]
+    },
+    {
+      "ingredient": "B砂糖",
+      "normalized": "b砂糖",
+      "tokens": [
+        "b砂",
+        "砂糖"
+      ]
+    },
+    {
+      "ingredient": "B酢",
+      "normalized": "b酢",
+      "tokens": [
+        "b酢"
+      ]
+    },
+    {
+      "ingredient": "Bしょうゆ",
+      "normalized": "bしょうゆ",
+      "tokens": [
+        "bし",
+        "しょ",
+        "ょう",
+        "うゆ"
+      ]
+    },
+    {
+      "ingredient": "Bトマトケチャップ",
+      "normalized": "bトマトケチャップ",
+      "tokens": [
+        "bト",
+        "トマ",
+        "マト",
+        "トケ",
+        "ケチ",
+        "チャ",
+        "ャッ",
+        "ップ"
+      ]
+    },
+    {
+      "ingredient": "B顆粒中華だし",
+      "normalized": "b顆粒中華だし",
+      "tokens": [
+        "b顆",
+        "顆粒",
+        "粒中",
+        "中華",
+        "華だ",
+        "だし"
+      ]
+    },
+    {
+      "ingredient": "Cかたくり粉",
+      "normalized": "cかたくり粉",
+      "tokens": [
+        "cか",
+        "かた",
+        "たく",
+        "くり",
+        "り粉"
+      ]
+    },
+    {
+      "ingredient": "ヤングコーン",
+      "normalized": "ヤングコ ン",
+      "tokens": [
+        "ヤン",
+        "ング",
+        "グコ"
+      ]
+    },
+    {
+      "ingredient": "人参",
+      "normalized": "人参",
+      "tokens": [
+        "人参"
+      ]
+    },
+    {
+      "ingredient": "レタス",
+      "normalized": "レタス",
+      "tokens": [
+        "レタ",
+        "タス"
+      ]
+    },
+    {
+      "ingredient": "フレンチドレッシング",
+      "normalized": "フレンチドレッシング",
+      "tokens": [
+        "フレ",
+        "レン",
+        "ンチ",
+        "チド",
+        "ドレ",
+        "レッ",
+        "ッシ",
+        "シン",
+        "ング"
+      ]
+    },
+    {
+      "ingredient": "ピーマン　",
+      "normalized": "ピ マン",
+      "tokens": [
+        "マン"
+      ]
+    },
+    {
+      "ingredient": "ミニトマト　",
+      "normalized": "ミニトマト",
+      "tokens": [
+        "ミニ",
+        "ニト",
+        "トマ",
+        "マト"
+      ]
+    },
+    {
+      "ingredient": "ごぼう　",
+      "normalized": "ごぼう",
+      "tokens": [
+        "ごぼ",
+        "ぼう"
+      ]
+    },
+    {
+      "ingredient": "なめ茸",
+      "normalized": "なめ茸",
+      "tokens": [
+        "なめ",
+        "め茸"
+      ]
+    },
+    {
+      "ingredient": "ほうれんそう　",
+      "normalized": "ほうれんそう",
+      "tokens": [
+        "ほう",
+        "うれ",
+        "れん",
+        "んそ",
+        "そう"
+      ]
+    },
+    {
+      "ingredient": "豚もも肉",
+      "normalized": "豚もも肉",
+      "tokens": [
+        "豚も",
+        "もも",
+        "も肉"
+      ]
+    },
+    {
+      "ingredient": "なす　",
+      "normalized": "なす",
+      "tokens": [
+        "なす"
+      ]
+    },
+    {
+      "ingredient": "カレールウ",
+      "normalized": "カレ ルウ",
+      "tokens": [
+        "カレ",
+        "ルウ"
+      ]
+    },
+    {
+      "ingredient": "らっきょう　",
+      "normalized": "らっきょう",
+      "tokens": [
+        "らっ",
+        "っき",
+        "きょ",
+        "ょう"
+      ]
+    },
+    {
+      "ingredient": "福神漬",
+      "normalized": "福神漬",
+      "tokens": [
+        "福神",
+        "神漬"
+      ]
+    },
+    {
+      "ingredient": "紫キャベツ　",
+      "normalized": "紫キャベツ",
+      "tokens": [
+        "紫キ",
+        "キャ",
+        "ャベ",
+        "ベツ"
+      ]
+    },
+    {
+      "ingredient": "生揚げ",
+      "normalized": "生揚げ",
+      "tokens": [
+        "生揚",
+        "揚げ"
+      ]
+    },
+    {
+      "ingredient": "フレンチドレッシング　",
+      "normalized": "フレンチドレッシング",
+      "tokens": [
+        "フレ",
+        "レン",
+        "ンチ",
+        "チド",
+        "ドレ",
+        "レッ",
+        "ッシ",
+        "シン",
+        "ング"
+      ]
+    },
+    {
+      "ingredient": "生クリーム",
+      "normalized": "生クリ ム",
+      "tokens": [
+        "生ク",
+        "クリ"
+      ]
+    },
+    {
+      "ingredient": "練乳",
+      "normalized": "練乳",
+      "tokens": [
+        "練乳"
+      ]
+    },
+    {
+      "ingredient": "粉ゼラチン",
+      "normalized": "粉ゼラチン",
+      "tokens": [
+        "粉ゼ",
+        "ゼラ",
+        "ラチ",
+        "チン"
+      ]
+    },
+    {
+      "ingredient": "黄桃缶",
+      "normalized": "黄桃缶",
+      "tokens": [
+        "黄桃",
+        "桃缶"
+      ]
+    },
+    {
+      "ingredient": "●味噌",
+      "normalized": "●味噌",
+      "tokens": [
+        "●味",
+        "味噌"
+      ]
+    },
+    {
+      "ingredient": "●ナンプラー",
+      "normalized": "●ナンプラ",
+      "tokens": [
+        "●ナ",
+        "ナン",
+        "ンプ",
+        "プラ"
+      ]
+    },
+    {
+      "ingredient": "●レモン汁",
+      "normalized": "●レモン汁",
+      "tokens": [
+        "●レ",
+        "レモ",
+        "モン",
+        "ン汁"
+      ]
+    },
+    {
+      "ingredient": "●おろししょうが",
+      "normalized": "●おろししょうが",
+      "tokens": [
+        "●お",
+        "おろ",
+        "ろし",
+        "しし",
+        "しょ",
+        "ょう",
+        "うが"
+      ]
+    },
+    {
+      "ingredient": "●おろしにんにく　",
+      "normalized": "●おろしにんにく",
+      "tokens": [
+        "●お",
+        "おろ",
+        "ろし",
+        "しに",
+        "にん",
+        "んに",
+        "にく"
+      ]
+    },
+    {
+      "ingredient": "パクチー　",
+      "normalized": "パクチ",
+      "tokens": [
+        "パク",
+        "クチ"
+      ]
+    },
+    {
+      "ingredient": "水煮だいず",
+      "normalized": "水煮だいず",
+      "tokens": [
+        "水煮",
+        "煮だ",
+        "だい",
+        "いず"
+      ]
+    },
+    {
+      "ingredient": "乾燥しいたけ",
+      "normalized": "乾燥しいたけ",
+      "tokens": [
+        "乾燥",
+        "燥し",
+        "しい",
+        "いた",
+        "たけ"
+      ]
+    },
+    {
+      "ingredient": "●出汁・しいたけ戻し汁",
+      "normalized": "●出汁 しいたけ戻し汁",
+      "tokens": [
+        "●出",
+        "出汁",
+        "しい",
+        "いた",
+        "たけ",
+        "け戻",
+        "戻し",
+        "し汁"
+      ]
+    },
+    {
+      "ingredient": "めんつゆ　",
+      "normalized": "めんつゆ",
+      "tokens": [
+        "めん",
+        "んつ",
+        "つゆ"
+      ]
+    },
+    {
+      "ingredient": "クロワッサン",
+      "normalized": "クロワッサン",
+      "tokens": [
+        "クロ",
+        "ロワ",
+        "ワッ",
+        "ッサ",
+        "サン"
+      ]
+    },
+    {
+      "ingredient": "モッツァレラチーズ",
+      "normalized": "モッツァレラチ ズ",
+      "tokens": [
+        "モッ",
+        "ッツ",
+        "ツァ",
+        "ァレ",
+        "レラ",
+        "ラチ"
+      ]
+    },
+    {
+      "ingredient": "リーフレタス　",
+      "normalized": "リ フレタス",
+      "tokens": [
+        "フレ",
+        "レタ",
+        "タス"
+      ]
+    },
+    {
+      "ingredient": "こしょう　",
+      "normalized": "こしょう",
+      "tokens": [
+        "こし",
+        "しょ",
+        "ょう"
+      ]
+    },
+    {
+      "ingredient": "レンズ豆（水煮）",
+      "normalized": "レンズ豆 水煮",
+      "tokens": [
+        "レン",
+        "ンズ",
+        "ズ豆",
+        "水煮"
+      ]
+    },
+    {
+      "ingredient": "Aじゃがいも　",
+      "normalized": "aじゃがいも",
+      "tokens": [
+        "aじ",
+        "じゃ",
+        "ゃが",
+        "がい",
+        "いも"
+      ]
+    },
+    {
+      "ingredient": "Aにんじん",
+      "normalized": "aにんじん",
+      "tokens": [
+        "aに",
+        "にん",
+        "んじ",
+        "じん"
+      ]
+    },
+    {
+      "ingredient": "Aたまねぎ",
+      "normalized": "aたまねぎ",
+      "tokens": [
+        "aた",
+        "たま",
+        "まね",
+        "ねぎ"
+      ]
+    },
+    {
+      "ingredient": "Aベーコン",
+      "normalized": "aベ コン",
+      "tokens": [
+        "aベ",
+        "コン"
+      ]
+    },
+    {
+      "ingredient": "B顆粒コンソメ",
+      "normalized": "b顆粒コンソメ",
+      "tokens": [
+        "b顆",
+        "顆粒",
+        "粒コ",
+        "コン",
+        "ンソ",
+        "ソメ"
+      ]
+    },
+    {
+      "ingredient": "いんげん",
+      "normalized": "いんげん",
+      "tokens": [
+        "いん",
+        "んげ",
+        "げん"
+      ]
+    },
+    {
+      "ingredient": "サウザンアイランドドレッシング",
+      "normalized": "サウザンアイランドドレッシング",
+      "tokens": [
+        "サウ",
+        "ウザ",
+        "ザン",
+        "ンア",
+        "アイ",
+        "イラ",
+        "ラン",
+        "ンド",
+        "ドド",
+        "ドレ",
+        "レッ",
+        "ッシ",
+        "シン",
+        "ング"
+      ]
+    },
+    {
+      "ingredient": "いちごジャム",
+      "normalized": "いちごジャム",
+      "tokens": [
+        "いち",
+        "ちご",
+        "ごジ",
+        "ジャ",
+        "ャム"
+      ]
+    },
+    {
+      "ingredient": "ししとう　",
+      "normalized": "ししとう",
+      "tokens": [
+        "しし",
+        "しと",
+        "とう"
+      ]
+    },
+    {
+      "ingredient": "まぐろ（刺身用）",
+      "normalized": "まぐろ 刺身用",
+      "tokens": [
+        "まぐ",
+        "ぐろ",
+        "刺身",
+        "身用"
+      ]
+    },
+    {
+      "ingredient": "いか（刺身用）",
+      "normalized": "いか 刺身用",
+      "tokens": [
+        "いか",
+        "刺身",
+        "身用"
+      ]
+    },
+    {
+      "ingredient": "紫たまねぎ",
+      "normalized": "紫たまねぎ",
+      "tokens": [
+        "紫た",
+        "たま",
+        "まね",
+        "ねぎ"
+      ]
+    },
+    {
+      "ingredient": "●こしょう　",
+      "normalized": "●こしょう",
+      "tokens": [
+        "●こ",
+        "こし",
+        "しょ",
+        "ょう"
+      ]
+    },
+    {
+      "ingredient": "●レモン汁　",
+      "normalized": "●レモン汁",
+      "tokens": [
+        "●レ",
+        "レモ",
+        "モン",
+        "ン汁"
+      ]
+    },
+    {
+      "ingredient": "パセリ　",
+      "normalized": "パセリ",
+      "tokens": [
+        "パセ",
+        "セリ"
+      ]
+    },
+    {
+      "ingredient": "ズッキーニ",
+      "normalized": "ズッキ ニ",
+      "tokens": [
+        "ズッ",
+        "ッキ"
+      ]
+    },
+    {
+      "ingredient": "豚小間肉",
+      "normalized": "豚小間肉",
+      "tokens": [
+        "豚小",
+        "小間",
+        "間肉"
+      ]
+    },
+    {
+      "ingredient": "●マヨネーズ　",
+      "normalized": "●マヨネ ズ",
+      "tokens": [
+        "●マ",
+        "マヨ",
+        "ヨネ"
+      ]
+    },
+    {
+      "ingredient": "めかじき",
+      "normalized": "めかじき",
+      "tokens": [
+        "めか",
+        "かじ",
+        "じき"
+      ]
+    },
+    {
+      "ingredient": "●はちみつ",
+      "normalized": "●はちみつ",
+      "tokens": [
+        "●は",
+        "はち",
+        "ちみ",
+        "みつ"
+      ]
+    },
+    {
+      "ingredient": "グリンピース　",
+      "normalized": "グリンピ ス",
+      "tokens": [
+        "グリ",
+        "リン",
+        "ンピ"
+      ]
+    },
+    {
+      "ingredient": "●かつお節",
+      "normalized": "●かつお節",
+      "tokens": [
+        "●か",
+        "かつ",
+        "つお",
+        "お節"
+      ]
+    },
+    {
+      "ingredient": "あさつき",
+      "normalized": "あさつき",
+      "tokens": [
+        "あさ",
+        "さつ",
+        "つき"
+      ]
+    },
+    {
+      "ingredient": "乳酸菌飲料",
+      "normalized": "乳酸菌飲料",
+      "tokens": [
+        "乳酸",
+        "酸菌",
+        "菌飲",
+        "飲料"
+      ]
+    },
+    {
+      "ingredient": "カリフラワー　",
+      "normalized": "カリフラワ",
+      "tokens": [
+        "カリ",
+        "リフ",
+        "フラ",
+        "ラワ"
+      ]
+    },
+    {
+      "ingredient": "●乾燥パセリ",
+      "normalized": "●乾燥パセリ",
+      "tokens": [
+        "●乾",
+        "乾燥",
+        "燥パ",
+        "パセ",
+        "セリ"
+      ]
+    },
+    {
+      "ingredient": "●粉チーズ",
+      "normalized": "●粉チ ズ",
+      "tokens": [
+        "●粉",
+        "粉チ"
+      ]
+    },
+    {
+      "ingredient": "オクラ",
+      "normalized": "オクラ",
+      "tokens": [
+        "オク",
+        "クラ"
+      ]
+    },
+    {
+      "ingredient": "なめこ（水煮）",
+      "normalized": "なめこ 水煮",
+      "tokens": [
+        "なめ",
+        "めこ",
+        "水煮"
+      ]
+    },
+    {
+      "ingredient": "●すりごま（白）",
+      "normalized": "●すりごま 白",
+      "tokens": [
+        "●す",
+        "すり",
+        "りご",
+        "ごま"
+      ]
+    },
+    {
+      "ingredient": "もやし　",
+      "normalized": "もやし",
+      "tokens": [
+        "もや",
+        "やし"
+      ]
+    },
+    {
+      "ingredient": "蒸し中華めん",
+      "normalized": "蒸し中華めん",
+      "tokens": [
+        "蒸し",
+        "し中",
+        "中華",
+        "華め",
+        "めん"
+      ]
+    },
+    {
+      "ingredient": "●テンメンジャン",
+      "normalized": "●テンメンジャン",
+      "tokens": [
+        "●テ",
+        "テン",
+        "ンメ",
+        "メン",
+        "ンジ",
+        "ジャ",
+        "ャン"
+      ]
+    },
+    {
+      "ingredient": "●トウバンジャン",
+      "normalized": "●トウバンジャン",
+      "tokens": [
+        "●ト",
+        "トウ",
+        "ウバ",
+        "バン",
+        "ンジ",
+        "ジャ",
+        "ャン"
+      ]
+    },
+    {
+      "ingredient": "●かたくり粉",
+      "normalized": "●かたくり粉",
+      "tokens": [
+        "●か",
+        "かた",
+        "たく",
+        "くり",
+        "り粉"
+      ]
+    },
+    {
+      "ingredient": "さくらえび（乾）",
+      "normalized": "さくらえび 乾",
+      "tokens": [
+        "さく",
+        "くら",
+        "らえ",
+        "えび"
+      ]
+    },
+    {
+      "ingredient": "メロン",
+      "normalized": "メロン",
+      "tokens": [
+        "メロ",
+        "ロン"
+      ]
+    },
+    {
+      "ingredient": "麴",
+      "normalized": "麴",
+      "tokens": []
+    },
+    {
+      "ingredient": "乾燥スパゲッティ",
+      "normalized": "乾燥スパゲッティ",
+      "tokens": [
+        "乾燥",
+        "燥ス",
+        "スパ",
+        "パゲ",
+        "ゲッ",
+        "ッテ",
+        "ティ"
+      ]
+    },
+    {
+      "ingredient": "刻みのり",
+      "normalized": "刻みのり",
+      "tokens": [
+        "刻み",
+        "みの",
+        "のり"
+      ]
+    },
+    {
+      "ingredient": "魚肉ソーセージ",
+      "normalized": "魚肉ソ セ ジ",
+      "tokens": [
+        "魚肉",
+        "肉ソ"
+      ]
+    },
+    {
+      "ingredient": "ながいも",
+      "normalized": "ながいも",
+      "tokens": [
+        "なが",
+        "がい",
+        "いも"
+      ]
+    },
+    {
+      "ingredient": "しば漬け",
+      "normalized": "しば漬け",
+      "tokens": [
+        "しば",
+        "ば漬",
+        "漬け"
+      ]
+    },
+    {
+      "ingredient": "いりごま（白）",
+      "normalized": "いりごま 白",
+      "tokens": [
+        "いり",
+        "りご",
+        "ごま"
+      ]
+    },
+    {
+      "ingredient": "Aトウバンジャン",
+      "normalized": "aトウバンジャン",
+      "tokens": [
+        "aト",
+        "トウ",
+        "ウバ",
+        "バン",
+        "ンジ",
+        "ジャ",
+        "ャン"
+      ]
+    },
+    {
+      "ingredient": "Aおろしにんにく",
+      "normalized": "aおろしにんにく",
+      "tokens": [
+        "aお",
+        "おろ",
+        "ろし",
+        "しに",
+        "にん",
+        "んに",
+        "にく"
+      ]
+    },
+    {
+      "ingredient": "にら",
+      "normalized": "にら",
+      "tokens": [
+        "にら"
+      ]
+    },
+    {
+      "ingredient": "卵　",
+      "normalized": "卵",
+      "tokens": []
+    },
+    {
+      "ingredient": "Aこしょう",
+      "normalized": "aこしょう",
+      "tokens": [
+        "aこ",
+        "こし",
+        "しょ",
+        "ょう"
+      ]
+    },
+    {
+      "ingredient": "Aみりん",
+      "normalized": "aみりん",
+      "tokens": [
+        "aみ",
+        "みり",
+        "りん"
+      ]
+    },
+    {
+      "ingredient": "B西京味噌",
+      "normalized": "b西京味噌",
+      "tokens": [
+        "b西",
+        "西京",
+        "京味",
+        "味噌"
+      ]
+    },
+    {
+      "ingredient": "しょうが甘酢漬",
+      "normalized": "しょうが甘酢漬",
+      "tokens": [
+        "しょ",
+        "ょう",
+        "うが",
+        "が甘",
+        "甘酢",
+        "酢漬"
+      ]
+    },
+    {
+      "ingredient": "生竹輪",
+      "normalized": "生竹輪",
+      "tokens": [
+        "生竹",
+        "竹輪"
+      ]
+    },
+    {
+      "ingredient": "はちみつ",
+      "normalized": "はちみつ",
+      "tokens": [
+        "はち",
+        "ちみ",
+        "みつ"
+      ]
+    },
+    {
+      "ingredient": "りんごジャム",
+      "normalized": "りんごジャム",
+      "tokens": [
+        "りん",
+        "んご",
+        "ごジ",
+        "ジャ",
+        "ャム"
+      ]
+    },
+    {
+      "ingredient": "●塩昆布",
+      "normalized": "●塩昆布",
+      "tokens": [
+        "●塩",
+        "塩昆",
+        "昆布"
+      ]
+    },
+    {
+      "ingredient": "白菜の浅漬け",
+      "normalized": "白菜の浅漬け",
+      "tokens": [
+        "白菜",
+        "菜の",
+        "の浅",
+        "浅漬",
+        "漬け"
+      ]
+    },
+    {
+      "ingredient": "Aしょうが（かたまりのまま）",
+      "normalized": "aしょうが かたまりのまま",
+      "tokens": [
+        "aし",
+        "しょ",
+        "ょう",
+        "うが",
+        "かた",
+        "たま",
+        "まり",
+        "りの",
+        "のま",
+        "まま"
+      ]
+    },
+    {
+      "ingredient": "サニーレタス　",
+      "normalized": "サニ レタス",
+      "tokens": [
+        "サニ",
+        "レタ",
+        "タス"
+      ]
+    },
+    {
+      "ingredient": "スイートチリソース",
+      "normalized": "スイ トチリソ ス",
+      "tokens": [
+        "スイ",
+        "トチ",
+        "チリ",
+        "リソ"
+      ]
+    },
+    {
+      "ingredient": "じゃがいも　",
+      "normalized": "じゃがいも",
+      "tokens": [
+        "じゃ",
+        "ゃが",
+        "がい",
+        "いも"
+      ]
+    },
+    {
+      "ingredient": "水煮ひよこまめ",
+      "normalized": "水煮ひよこまめ",
+      "tokens": [
+        "水煮",
+        "煮ひ",
+        "ひよ",
+        "よこ",
+        "こま",
+        "まめ"
+      ]
+    },
+    {
+      "ingredient": "洋梨缶",
+      "normalized": "洋梨缶",
+      "tokens": [
+        "洋梨",
+        "梨缶"
+      ]
+    },
+    {
+      "ingredient": "すいか",
+      "normalized": "すいか",
+      "tokens": [
+        "すい",
+        "いか"
+      ]
+    },
+    {
+      "ingredient": "厚揚げ",
+      "normalized": "厚揚げ",
+      "tokens": [
+        "厚揚",
+        "揚げ"
+      ]
+    },
+    {
+      "ingredient": "れんこん　",
+      "normalized": "れんこん",
+      "tokens": [
+        "れん",
+        "んこ",
+        "こん"
+      ]
+    },
+    {
+      "ingredient": "さきいか",
+      "normalized": "さきいか",
+      "tokens": [
+        "さき",
+        "きい",
+        "いか"
+      ]
+    },
+    {
+      "ingredient": "●うすくちしょうゆ",
+      "normalized": "●うすくちしょうゆ",
+      "tokens": [
+        "●う",
+        "うす",
+        "すく",
+        "くち",
+        "ちし",
+        "しょ",
+        "ょう",
+        "うゆ"
+      ]
+    },
+    {
+      "ingredient": "●きな粉　",
+      "normalized": "●きな粉",
+      "tokens": [
+        "●き",
+        "きな",
+        "な粉"
+      ]
+    },
+    {
+      "ingredient": "フランスパン",
+      "normalized": "フランスパン",
+      "tokens": [
+        "フラ",
+        "ラン",
+        "ンス",
+        "スパ",
+        "パン"
+      ]
+    },
+    {
+      "ingredient": "たくあん漬　",
+      "normalized": "たくあん漬",
+      "tokens": [
+        "たく",
+        "くあ",
+        "あん",
+        "ん漬"
+      ]
+    },
+    {
+      "ingredient": "紅茶",
+      "normalized": "紅茶",
+      "tokens": [
+        "紅茶"
+      ]
+    },
+    {
+      "ingredient": "水煮たけのこ",
+      "normalized": "水煮たけのこ",
+      "tokens": [
+        "水煮",
+        "煮た",
+        "たけ",
+        "けの",
+        "のこ"
+      ]
+    },
+    {
+      "ingredient": "Aごま油",
+      "normalized": "aごま油",
+      "tokens": [
+        "aご",
+        "ごま",
+        "ま油"
+      ]
+    },
+    {
+      "ingredient": "Aかたくり粉",
+      "normalized": "aかたくり粉",
+      "tokens": [
+        "aか",
+        "かた",
+        "たく",
+        "くり",
+        "り粉"
+      ]
+    },
+    {
+      "ingredient": "B中華だし汁",
+      "normalized": "b中華だし汁",
+      "tokens": [
+        "b中",
+        "中華",
+        "華だ",
+        "だし",
+        "し汁"
+      ]
+    },
+    {
+      "ingredient": "Bオイスターソース",
+      "normalized": "bオイスタ ソ ス",
+      "tokens": [
+        "bオ",
+        "オイ",
+        "イス",
+        "スタ"
+      ]
+    },
+    {
+      "ingredient": "きくらげ",
+      "normalized": "きくらげ",
+      "tokens": [
+        "きく",
+        "くら",
+        "らげ"
+      ]
+    },
+    {
+      "ingredient": "Bカレー粉",
+      "normalized": "bカレ 粉",
+      "tokens": [
+        "bカ",
+        "カレ"
+      ]
+    },
+    {
+      "ingredient": "Bマヨネーズ",
+      "normalized": "bマヨネ ズ",
+      "tokens": [
+        "bマ",
+        "マヨ",
+        "ヨネ"
+      ]
+    },
+    {
+      "ingredient": "B牛乳",
+      "normalized": "b牛乳",
+      "tokens": [
+        "b牛",
+        "牛乳"
+      ]
+    },
+    {
+      "ingredient": "Bおろしにんにく",
+      "normalized": "bおろしにんにく",
+      "tokens": [
+        "bお",
+        "おろ",
+        "ろし",
+        "しに",
+        "にん",
+        "んに",
+        "にく"
+      ]
+    },
+    {
+      "ingredient": "リーフレタス",
+      "normalized": "リ フレタス",
+      "tokens": [
+        "フレ",
+        "レタ",
+        "タス"
+      ]
+    },
+    {
+      "ingredient": "がんもどき",
+      "normalized": "がんもどき",
+      "tokens": [
+        "がん",
+        "んも",
+        "もど",
+        "どき"
+      ]
+    },
+    {
+      "ingredient": "いんげん　",
+      "normalized": "いんげん",
+      "tokens": [
+        "いん",
+        "んげ",
+        "げん"
+      ]
+    },
+    {
+      "ingredient": "●挽きわり納豆",
+      "normalized": "●挽きわり納豆",
+      "tokens": [
+        "●挽",
+        "挽き",
+        "きわ",
+        "わり",
+        "り納",
+        "納豆"
+      ]
+    },
+    {
+      "ingredient": "ババロア",
+      "normalized": "ババロア",
+      "tokens": [
+        "ババ",
+        "バロ",
+        "ロア"
+      ]
+    },
+    {
+      "ingredient": "スライスチーズ",
+      "normalized": "スライスチ ズ",
+      "tokens": [
+        "スラ",
+        "ライ",
+        "イス",
+        "スチ"
+      ]
+    },
+    {
+      "ingredient": "さといも",
+      "normalized": "さといも",
+      "tokens": [
+        "さと",
+        "とい",
+        "いも"
+      ]
+    },
+    {
+      "ingredient": "乾燥そうめん",
+      "normalized": "乾燥そうめん",
+      "tokens": [
+        "乾燥",
+        "燥そ",
+        "そう",
+        "うめ",
+        "めん"
+      ]
+    },
+    {
+      "ingredient": "かに風味かまぼこ",
+      "normalized": "かに風味かまぼこ",
+      "tokens": [
+        "かに",
+        "に風",
+        "風味",
+        "味か",
+        "かま",
+        "まぼ",
+        "ぼこ"
+      ]
+    },
+    {
+      "ingredient": "スイートコーン缶",
+      "normalized": "スイ トコ ン缶",
+      "tokens": [
+        "スイ",
+        "トコ",
+        "ン缶"
+      ]
+    },
+    {
+      "ingredient": "白菜キムチ",
+      "normalized": "白菜キムチ",
+      "tokens": [
+        "白菜",
+        "菜キ",
+        "キム",
+        "ムチ"
+      ]
+    },
+    {
+      "ingredient": "●トマトホール缶（無塩）",
+      "normalized": "●トマトホ ル缶 無塩",
+      "tokens": [
+        "●ト",
+        "トマ",
+        "マト",
+        "トホ",
+        "ル缶",
+        "無塩"
+      ]
+    },
+    {
+      "ingredient": "●白ワイン",
+      "normalized": "●白ワイン",
+      "tokens": [
+        "●白",
+        "白ワ",
+        "ワイ",
+        "イン"
+      ]
+    },
+    {
+      "ingredient": "粒入りマスタード",
+      "normalized": "粒入りマスタ ド",
+      "tokens": [
+        "粒入",
+        "入り",
+        "りマ",
+        "マス",
+        "スタ"
+      ]
+    },
+    {
+      "ingredient": "和風ドレッシング　",
+      "normalized": "和風ドレッシング",
+      "tokens": [
+        "和風",
+        "風ド",
+        "ドレ",
+        "レッ",
+        "ッシ",
+        "シン",
+        "ング"
+      ]
+    },
+    {
+      "ingredient": "さつま揚げ",
+      "normalized": "さつま揚げ",
+      "tokens": [
+        "さつ",
+        "つま",
+        "ま揚",
+        "揚げ"
+      ]
+    },
+    {
+      "ingredient": "ピザ用チーズ",
+      "normalized": "ピザ用チ ズ",
+      "tokens": [
+        "ピザ",
+        "ザ用",
+        "用チ"
+      ]
+    },
+    {
+      "ingredient": "あおのり",
+      "normalized": "あおのり",
+      "tokens": [
+        "あお",
+        "おの",
+        "のり"
+      ]
+    },
+    {
+      "ingredient": "こまつな",
+      "normalized": "こまつな",
+      "tokens": [
+        "こま",
+        "まつ",
+        "つな"
+      ]
+    },
+    {
+      "ingredient": "たくあん",
+      "normalized": "たくあん",
+      "tokens": [
+        "たく",
+        "くあ",
+        "あん"
+      ]
+    },
+    {
+      "ingredient": "まぐろたたき",
+      "normalized": "まぐろたたき",
+      "tokens": [
+        "まぐ",
+        "ぐろ",
+        "ろた",
+        "たた",
+        "たき"
+      ]
+    },
+    {
+      "ingredient": "練りわさび　",
+      "normalized": "練りわさび",
+      "tokens": [
+        "練り",
+        "りわ",
+        "わさ",
+        "さび"
+      ]
+    },
+    {
+      "ingredient": "Aうすくちしょうゆ",
+      "normalized": "aうすくちしょうゆ",
+      "tokens": [
+        "aう",
+        "うす",
+        "すく",
+        "くち",
+        "ちし",
+        "しょ",
+        "ょう",
+        "うゆ"
+      ]
+    },
+    {
+      "ingredient": "B顆粒和風だし",
+      "normalized": "b顆粒和風だし",
+      "tokens": [
+        "b顆",
+        "顆粒",
+        "粒和",
+        "和風",
+        "風だ",
+        "だし"
+      ]
+    },
+    {
+      "ingredient": "なめこ",
+      "normalized": "なめこ",
+      "tokens": [
+        "なめ",
+        "めこ"
+      ]
+    },
+    {
+      "ingredient": "●にんにく",
+      "normalized": "●にんにく",
+      "tokens": [
+        "●に",
+        "にん",
+        "んに",
+        "にく"
+      ]
+    },
+    {
+      "ingredient": "もずく（味付き）",
+      "normalized": "もずく 味付き",
+      "tokens": [
+        "もず",
+        "ずく",
+        "味付",
+        "付き"
+      ]
+    },
+    {
+      "ingredient": "マーマレードジャム",
+      "normalized": "マ マレ ドジャム",
+      "tokens": [
+        "マレ",
+        "ドジ",
+        "ジャ",
+        "ャム"
+      ]
+    },
+    {
+      "ingredient": "干しぶどう",
+      "normalized": "干しぶどう",
+      "tokens": [
+        "干し",
+        "しぶ",
+        "ぶど",
+        "どう"
+      ]
+    },
+    {
+      "ingredient": "炒りくるみ",
+      "normalized": "炒りくるみ",
+      "tokens": [
+        "炒り",
+        "りく",
+        "くる",
+        "るみ"
+      ]
+    },
+    {
+      "ingredient": "ゴールドキウイ",
+      "normalized": "ゴ ルドキウイ",
+      "tokens": [
+        "ルド",
+        "ドキ",
+        "キウ",
+        "ウイ"
+      ]
+    },
+    {
+      "ingredient": "コーヒー",
+      "normalized": "コ ヒ",
+      "tokens": []
+    },
+    {
+      "ingredient": "切干しだいこん",
+      "normalized": "切干しだいこん",
+      "tokens": [
+        "切干",
+        "干し",
+        "しだ",
+        "だい",
+        "いこ",
+        "こん"
+      ]
+    },
+    {
+      "ingredient": "豚バラ肉（ブロック）",
+      "normalized": "豚バラ肉 ブロック",
+      "tokens": [
+        "豚バ",
+        "バラ",
+        "ラ肉",
+        "ブロ",
+        "ロッ",
+        "ック"
+      ]
+    },
+    {
+      "ingredient": "長ねぎ（青い部分）",
+      "normalized": "長ねぎ 青い部分",
+      "tokens": [
+        "長ね",
+        "ねぎ",
+        "青い",
+        "い部",
+        "部分"
+      ]
+    },
+    {
+      "ingredient": "カットわかめ（乾）",
+      "normalized": "カットわかめ 乾",
+      "tokens": [
+        "カッ",
+        "ット",
+        "トわ",
+        "わか",
+        "かめ"
+      ]
+    },
+    {
+      "ingredient": "アスパラガス　",
+      "normalized": "アスパラガス",
+      "tokens": [
+        "アス",
+        "スパ",
+        "パラ",
+        "ラガ",
+        "ガス"
+      ]
+    },
+    {
+      "ingredient": "●バター",
+      "normalized": "●バタ",
+      "tokens": [
+        "●バ",
+        "バタ"
+      ]
+    },
+    {
+      "ingredient": "A卵",
+      "normalized": "a卵",
+      "tokens": [
+        "a卵"
+      ]
+    },
+    {
+      "ingredient": "A薄力粉",
+      "normalized": "a薄力粉",
+      "tokens": [
+        "a薄",
+        "薄力",
+        "力粉"
+      ]
+    },
+    {
+      "ingredient": "Bみりん",
+      "normalized": "bみりん",
+      "tokens": [
+        "bみ",
+        "みり",
+        "りん"
+      ]
+    },
+    {
+      "ingredient": "糸みつば",
+      "normalized": "糸みつば",
+      "tokens": [
+        "糸み",
+        "みつ",
+        "つば"
+      ]
+    },
+    {
+      "ingredient": "レモン",
+      "normalized": "レモン",
+      "tokens": [
+        "レモ",
+        "モン"
+      ]
+    },
+    {
+      "ingredient": "うすくちしょうゆ",
+      "normalized": "うすくちしょうゆ",
+      "tokens": [
+        "うす",
+        "すく",
+        "くち",
+        "ちし",
+        "しょ",
+        "ょう",
+        "うゆ"
+      ]
+    },
+    {
+      "ingredient": "白あん",
+      "normalized": "白あん",
+      "tokens": [
+        "白あ",
+        "あん"
+      ]
+    },
+    {
+      "ingredient": "茹でひよこまめ",
+      "normalized": "茹でひよこまめ",
+      "tokens": [
+        "茹で",
+        "でひ",
+        "ひよ",
+        "よこ",
+        "こま",
+        "まめ"
+      ]
+    },
+    {
+      "ingredient": " 顆粒コンソメ",
+      "normalized": "顆粒コンソメ",
+      "tokens": [
+        "顆粒",
+        "粒コ",
+        "コン",
+        "ンソ",
+        "ソメ"
+      ]
+    },
+    {
+      "ingredient": "ハイカカオチョコレート",
+      "normalized": "ハイカカオチョコレ ト",
+      "tokens": [
+        "ハイ",
+        "イカ",
+        "カカ",
+        "カオ",
+        "オチ",
+        "チョ",
+        "ョコ",
+        "コレ"
+      ]
+    },
+    {
+      "ingredient": "昆布の佃煮",
+      "normalized": "昆布の佃煮",
+      "tokens": [
+        "昆布",
+        "布の",
+        "の佃",
+        "佃煮"
+      ]
+    },
+    {
+      "ingredient": "うどん（ゆで）",
+      "normalized": "うどん ゆで",
+      "tokens": [
+        "うど",
+        "どん",
+        "ゆで"
+      ]
+    },
+    {
+      "ingredient": "ごぼう",
+      "normalized": "ごぼう",
+      "tokens": [
+        "ごぼ",
+        "ぼう"
+      ]
+    },
+    {
+      "ingredient": "豆板醤",
+      "normalized": "豆板醤",
+      "tokens": [
+        "豆板",
+        "板醤"
+      ]
+    },
+    {
+      "ingredient": "めんつゆ　三倍濃縮",
+      "normalized": "めんつゆ 三倍濃縮",
+      "tokens": [
+        "めん",
+        "んつ",
+        "つゆ",
+        "三倍",
+        "倍濃",
+        "濃縮"
+      ]
+    },
+    {
+      "ingredient": "いちご",
+      "normalized": "いちご",
+      "tokens": [
+        "いち",
+        "ちご"
+      ]
+    },
+    {
+      "ingredient": "さば",
+      "normalized": "さば",
+      "tokens": [
+        "さば"
+      ]
+    },
+    {
+      "ingredient": "ひじき（乾）",
+      "normalized": "ひじき 乾",
+      "tokens": [
+        "ひじ",
+        "じき"
+      ]
+    },
+    {
+      "ingredient": "鶏ささ身",
+      "normalized": "鶏ささ身",
+      "tokens": [
+        "鶏さ",
+        "ささ",
+        "さ身"
+      ]
+    },
+    {
+      "ingredient": "胡麻ドレッシング",
+      "normalized": "胡麻ドレッシング",
+      "tokens": [
+        "胡麻",
+        "麻ド",
+        "ドレ",
+        "レッ",
+        "ッシ",
+        "シン",
+        "ング"
+      ]
+    },
+    {
+      "ingredient": "ししゃも　",
+      "normalized": "ししゃも",
+      "tokens": [
+        "しし",
+        "しゃ",
+        "ゃも"
+      ]
+    },
+    {
+      "ingredient": "顆粒和風だし",
+      "normalized": "顆粒和風だし",
+      "tokens": [
+        "顆粒",
+        "粒和",
+        "和風",
+        "風だ",
+        "だし"
+      ]
+    },
+    {
+      "ingredient": "ぶどうジュース",
+      "normalized": "ぶどうジュ ス",
+      "tokens": [
+        "ぶど",
+        "どう",
+        "うジ",
+        "ジュ"
+      ]
+    },
+    {
+      "ingredient": "ほうれん草",
+      "normalized": "ほうれん草",
+      "tokens": [
+        "ほう",
+        "うれ",
+        "れん",
+        "ん草"
+      ]
+    },
+    {
+      "ingredient": "Ａ顆粒中華だし",
+      "normalized": "a顆粒中華だし",
+      "tokens": [
+        "a顆",
+        "顆粒",
+        "粒中",
+        "中華",
+        "華だ",
+        "だし"
+      ]
+    },
+    {
+      "ingredient": "Ａ塩",
+      "normalized": "a塩",
+      "tokens": [
+        "a塩"
+      ]
+    },
+    {
+      "ingredient": "Ａこしょう",
+      "normalized": "aこしょう",
+      "tokens": [
+        "aこ",
+        "こし",
+        "しょ",
+        "ょう"
+      ]
+    },
+    {
+      "ingredient": "◎ごま油",
+      "normalized": "◎ごま油",
+      "tokens": [
+        "◎ご",
+        "ごま",
+        "ま油"
+      ]
+    },
+    {
+      "ingredient": "Ｂしょうゆ",
+      "normalized": "bしょうゆ",
+      "tokens": [
+        "bし",
+        "しょ",
+        "ょう",
+        "うゆ"
+      ]
+    },
+    {
+      "ingredient": "Ｂ砂糖",
+      "normalized": "b砂糖",
+      "tokens": [
+        "b砂",
+        "砂糖"
+      ]
+    },
+    {
+      "ingredient": "Ｂおろしにんにく",
+      "normalized": "bおろしにんにく",
+      "tokens": [
+        "bお",
+        "おろ",
+        "ろし",
+        "しに",
+        "にん",
+        "んに",
+        "にく"
+      ]
+    },
+    {
+      "ingredient": "きざみのり",
+      "normalized": "きざみのり",
+      "tokens": [
+        "きざ",
+        "ざみ",
+        "みの",
+        "のり"
+      ]
+    },
+    {
+      "ingredient": "絹豆腐",
+      "normalized": "絹豆腐",
+      "tokens": [
+        "絹豆",
+        "豆腐"
+      ]
+    },
+    {
+      "ingredient": "和風ドレッシング",
+      "normalized": "和風ドレッシング",
+      "tokens": [
+        "和風",
+        "風ド",
+        "ドレ",
+        "レッ",
+        "ッシ",
+        "シン",
+        "ング"
+      ]
+    },
+    {
+      "ingredient": "塩昆布",
+      "normalized": "塩昆布",
+      "tokens": [
+        "塩昆",
+        "昆布"
+      ]
+    },
+    {
+      "ingredient": "ブロッコリー",
+      "normalized": "ブロッコリ",
+      "tokens": [
+        "ブロ",
+        "ロッ",
+        "ッコ",
+        "コリ"
+      ]
+    },
+    {
+      "ingredient": "えのき",
+      "normalized": "えのき",
+      "tokens": [
+        "えの",
+        "のき"
+      ]
+    },
+    {
+      "ingredient": "ココア",
+      "normalized": "ココア",
+      "tokens": [
+        "ココ",
+        "コア"
+      ]
+    },
+    {
+      "ingredient": "ロールパン",
+      "normalized": "ロ ルパン",
+      "tokens": [
+        "ルパ",
+        "パン"
+      ]
+    },
+    {
+      "ingredient": "チキンボール",
+      "normalized": "チキンボ ル",
+      "tokens": [
+        "チキ",
+        "キン",
+        "ンボ"
+      ]
+    },
+    {
+      "ingredient": "はるさめ　乾",
+      "normalized": "はるさめ 乾",
+      "tokens": [
+        "はる",
+        "るさ",
+        "さめ"
+      ]
+    },
+    {
+      "ingredient": "●洋風出汁",
+      "normalized": "●洋風出汁",
+      "tokens": [
+        "●洋",
+        "洋風",
+        "風出",
+        "出汁"
+      ]
+    },
+    {
+      "ingredient": "くるみ　いり",
+      "normalized": "くるみ いり",
+      "tokens": [
+        "くる",
+        "るみ",
+        "いり"
+      ]
+    },
+    {
+      "ingredient": "ごまドレッシング",
+      "normalized": "ごまドレッシング",
+      "tokens": [
+        "ごま",
+        "まド",
+        "ドレ",
+        "レッ",
+        "ッシ",
+        "シン",
+        "ング"
+      ]
+    },
+    {
+      "ingredient": "グリ―ンキウイ",
+      "normalized": "グリ―ンキウイ",
+      "tokens": [
+        "グリ",
+        "リ―",
+        "―ン",
+        "ンキ",
+        "キウ",
+        "ウイ"
+      ]
+    },
+    {
+      "ingredient": "カリフラワー",
+      "normalized": "カリフラワ",
+      "tokens": [
+        "カリ",
+        "リフ",
+        "フラ",
+        "ラワ"
+      ]
+    },
+    {
+      "ingredient": "チンゲン菜",
+      "normalized": "チンゲン菜",
+      "tokens": [
+        "チン",
+        "ンゲ",
+        "ゲン",
+        "ン菜"
+      ]
+    },
+    {
+      "ingredient": "ぽん酢しょうゆ",
+      "normalized": "ぽん酢しょうゆ",
+      "tokens": [
+        "ぽん",
+        "ん酢",
+        "酢し",
+        "しょ",
+        "ょう",
+        "うゆ"
+      ]
+    },
+    {
+      "ingredient": "練りわさび",
+      "normalized": "練りわさび",
+      "tokens": [
+        "練り",
+        "りわ",
+        "わさ",
+        "さび"
+      ]
+    },
+    {
+      "ingredient": "白菜",
+      "normalized": "白菜",
+      "tokens": [
+        "白菜"
+      ]
+    },
+    {
+      "ingredient": "A人参",
+      "normalized": "a人参",
+      "tokens": [
+        "a人",
+        "人参"
+      ]
+    },
+    {
+      "ingredient": "Aごぼう",
+      "normalized": "aごぼう",
+      "tokens": [
+        "aご",
+        "ごぼ",
+        "ぼう"
+      ]
+    },
+    {
+      "ingredient": "Aさといも",
+      "normalized": "aさといも",
+      "tokens": [
+        "aさ",
+        "さと",
+        "とい",
+        "いも"
+      ]
+    },
+    {
+      "ingredient": "Aしいたけ",
+      "normalized": "aしいたけ",
+      "tokens": [
+        "aし",
+        "しい",
+        "いた",
+        "たけ"
+      ]
+    },
+    {
+      "ingredient": "C顆粒和風だし",
+      "normalized": "c顆粒和風だし",
+      "tokens": [
+        "c顆",
+        "顆粒",
+        "粒和",
+        "和風",
+        "風だ",
+        "だし"
+      ]
+    },
+    {
+      "ingredient": "C砂糖",
+      "normalized": "c砂糖",
+      "tokens": [
+        "c砂",
+        "砂糖"
+      ]
+    },
+    {
+      "ingredient": "C料理酒",
+      "normalized": "c料理酒",
+      "tokens": [
+        "c料",
+        "料理",
+        "理酒"
+      ]
+    },
+    {
+      "ingredient": "Cしょうゆ",
+      "normalized": "cしょうゆ",
+      "tokens": [
+        "cし",
+        "しょ",
+        "ょう",
+        "うゆ"
+      ]
+    },
+    {
+      "ingredient": "ほうれん草　",
+      "normalized": "ほうれん草",
+      "tokens": [
+        "ほう",
+        "うれ",
+        "れん",
+        "ん草"
+      ]
+    },
+    {
+      "ingredient": "つきこんにゃく　",
+      "normalized": "つきこんにゃく",
+      "tokens": [
+        "つき",
+        "きこ",
+        "こん",
+        "んに",
+        "にゃ",
+        "ゃく"
+      ]
+    },
+    {
+      "ingredient": "ひじき　乾",
+      "normalized": "ひじき 乾",
+      "tokens": [
+        "ひじ",
+        "じき"
+      ]
+    },
+    {
+      "ingredient": "●ねりごま（白）",
+      "normalized": "●ねりごま 白",
+      "tokens": [
+        "●ね",
+        "ねり",
+        "りご",
+        "ごま"
+      ]
+    },
+    {
+      "ingredient": "青しその実",
+      "normalized": "青しその実",
+      "tokens": [
+        "青し",
+        "しそ",
+        "その",
+        "の実"
+      ]
+    },
+    {
+      "ingredient": "竹輪",
+      "normalized": "竹輪",
+      "tokens": [
+        "竹輪"
+      ]
+    },
+    {
+      "ingredient": "乾燥白花豆",
+      "normalized": "乾燥白花豆",
+      "tokens": [
+        "乾燥",
+        "燥白",
+        "白花",
+        "花豆"
+      ]
+    },
+    {
+      "ingredient": "A玉ねぎ",
+      "normalized": "a玉ねぎ",
+      "tokens": [
+        "a玉",
+        "玉ね",
+        "ねぎ"
+      ]
+    },
+    {
+      "ingredient": "Aにんにく",
+      "normalized": "aにんにく",
+      "tokens": [
+        "aに",
+        "にん",
+        "んに",
+        "にく"
+      ]
+    },
+    {
+      "ingredient": "Aセロリ",
+      "normalized": "aセロリ",
+      "tokens": [
+        "aセ",
+        "セロ",
+        "ロリ"
+      ]
+    },
+    {
+      "ingredient": "ホールトマト缶",
+      "normalized": "ホ ルトマト缶",
+      "tokens": [
+        "ルト",
+        "トマ",
+        "マト",
+        "ト缶"
+      ]
+    },
+    {
+      "ingredient": "Bこしょう",
+      "normalized": "bこしょう",
+      "tokens": [
+        "bこ",
+        "こし",
+        "しょ",
+        "ょう"
+      ]
+    },
+    {
+      "ingredient": "Bコンソメ",
+      "normalized": "bコンソメ",
+      "tokens": [
+        "bコ",
+        "コン",
+        "ンソ",
+        "ソメ"
+      ]
+    },
+    {
+      "ingredient": "大根",
+      "normalized": "大根",
+      "tokens": [
+        "大根"
+      ]
+    },
+    {
+      "ingredient": "かいわれ大根",
+      "normalized": "かいわれ大根",
+      "tokens": [
+        "かい",
+        "いわ",
+        "われ",
+        "れ大",
+        "大根"
+      ]
+    },
+    {
+      "ingredient": "●コンソメ",
+      "normalized": "●コンソメ",
+      "tokens": [
+        "●コ",
+        "コン",
+        "ンソ",
+        "ソメ"
+      ]
+    },
+    {
+      "ingredient": "べったら漬け",
+      "normalized": "べったら漬け",
+      "tokens": [
+        "べっ",
+        "った",
+        "たら",
+        "ら漬",
+        "漬け"
+      ]
+    },
+    {
+      "ingredient": "●片栗粉",
+      "normalized": "●片栗粉",
+      "tokens": [
+        "●片",
+        "片栗",
+        "栗粉"
+      ]
+    },
+    {
+      "ingredient": "ザーサイ",
+      "normalized": "ザ サイ",
+      "tokens": [
+        "サイ"
+      ]
+    },
+    {
+      "ingredient": "餃子",
+      "normalized": "餃子",
+      "tokens": [
+        "餃子"
+      ]
+    },
+    {
+      "ingredient": "アプリコットジャム",
+      "normalized": "アプリコットジャム",
+      "tokens": [
+        "アプ",
+        "プリ",
+        "リコ",
+        "コッ",
+        "ット",
+        "トジ",
+        "ジャ",
+        "ャム"
+      ]
+    },
+    {
+      "ingredient": "チンゲン菜　",
+      "normalized": "チンゲン菜",
+      "tokens": [
+        "チン",
+        "ンゲ",
+        "ゲン",
+        "ン菜"
+      ]
+    },
+    {
+      "ingredient": "だししょうゆ",
+      "normalized": "だししょうゆ",
+      "tokens": [
+        "だし",
+        "しし",
+        "しょ",
+        "ょう",
+        "うゆ"
+      ]
+    },
+    {
+      "ingredient": "豚ばら肉（ブロック）",
+      "normalized": "豚ばら肉 ブロック",
+      "tokens": [
+        "豚ば",
+        "ばら",
+        "ら肉",
+        "ブロ",
+        "ロッ",
+        "ック"
+      ]
+    },
+    {
+      "ingredient": "A片栗粉",
+      "normalized": "a片栗粉",
+      "tokens": [
+        "a片",
+        "片栗",
+        "栗粉"
+      ]
+    },
+    {
+      "ingredient": "小松菜　",
+      "normalized": "小松菜",
+      "tokens": [
+        "小松",
+        "松菜"
+      ]
+    },
+    {
+      "ingredient": "はるさめ",
+      "normalized": "はるさめ",
+      "tokens": [
+        "はる",
+        "るさ",
+        "さめ"
+      ]
+    },
+    {
+      "ingredient": "カニカマ",
+      "normalized": "カニカマ",
+      "tokens": [
+        "カニ",
+        "ニカ",
+        "カマ"
+      ]
+    },
+    {
+      "ingredient": "パクチー",
+      "normalized": "パクチ",
+      "tokens": [
+        "パク",
+        "クチ"
+      ]
+    },
+    {
+      "ingredient": "Bうすくちしょうゆ",
+      "normalized": "bうすくちしょうゆ",
+      "tokens": [
+        "bう",
+        "うす",
+        "すく",
+        "くち",
+        "ちし",
+        "しょ",
+        "ょう",
+        "うゆ"
+      ]
+    },
+    {
+      "ingredient": "ゆで小豆",
+      "normalized": "ゆで小豆",
+      "tokens": [
+        "ゆで",
+        "で小",
+        "小豆"
+      ]
+    },
+    {
+      "ingredient": "めかじき　",
+      "normalized": "めかじき",
+      "tokens": [
+        "めか",
+        "かじ",
+        "じき"
+      ]
+    },
+    {
+      "ingredient": "◎油",
+      "normalized": "◎油",
+      "tokens": [
+        "◎油"
+      ]
+    },
+    {
+      "ingredient": "白菜　",
+      "normalized": "白菜",
+      "tokens": [
+        "白菜"
+      ]
+    },
+    {
+      "ingredient": "ぬかみそ漬け",
+      "normalized": "ぬかみそ漬け",
+      "tokens": [
+        "ぬか",
+        "かみ",
+        "みそ",
+        "そ漬",
+        "漬け"
+      ]
+    },
+    {
+      "ingredient": "焼き豚",
+      "normalized": "焼き豚",
+      "tokens": [
+        "焼き",
+        "き豚"
+      ]
+    },
+    {
+      "ingredient": "グリンピース",
+      "normalized": "グリンピ ス",
+      "tokens": [
+        "グリ",
+        "リン",
+        "ンピ"
+      ]
+    },
+    {
+      "ingredient": "●オイスターソース",
+      "normalized": "●オイスタ ソ ス",
+      "tokens": [
+        "●オ",
+        "オイ",
+        "イス",
+        "スタ"
+      ]
+    },
+    {
+      "ingredient": "ラード",
+      "normalized": "ラ ド",
+      "tokens": []
+    },
+    {
+      "ingredient": "トウバンジャン",
+      "normalized": "トウバンジャン",
+      "tokens": [
+        "トウ",
+        "ウバ",
+        "バン",
+        "ンジ",
+        "ジャ",
+        "ャン"
+      ]
+    },
+    {
+      "ingredient": "B片栗粉",
+      "normalized": "b片栗粉",
+      "tokens": [
+        "b片",
+        "片栗",
+        "栗粉"
+      ]
+    },
+    {
+      "ingredient": "とうがらし",
+      "normalized": "とうがらし",
+      "tokens": [
+        "とう",
+        "うが",
+        "がら",
+        "らし"
+      ]
+    },
+    {
+      "ingredient": "●トマトケチャップ",
+      "normalized": "●トマトケチャップ",
+      "tokens": [
+        "●ト",
+        "トマ",
+        "マト",
+        "トケ",
+        "ケチ",
+        "チャ",
+        "ャッ",
+        "ップ"
+      ]
+    },
+    {
+      "ingredient": "●ウスターソース",
+      "normalized": "●ウスタ ソ ス",
+      "tokens": [
+        "●ウ",
+        "ウス",
+        "スタ"
+      ]
+    },
+    {
+      "ingredient": "セロリ　",
+      "normalized": "セロリ",
+      "tokens": [
+        "セロ",
+        "ロリ"
+      ]
+    },
+    {
+      "ingredient": "粉とうがらし",
+      "normalized": "粉とうがらし",
+      "tokens": [
+        "粉と",
+        "とう",
+        "うが",
+        "がら",
+        "らし"
+      ]
+    },
+    {
+      "ingredient": "●ぽん酢しょうゆ",
+      "normalized": "●ぽん酢しょうゆ",
+      "tokens": [
+        "●ぽ",
+        "ぽん",
+        "ん酢",
+        "酢し",
+        "しょ",
+        "ょう",
+        "うゆ"
+      ]
+    },
+    {
+      "ingredient": "ヨーグルトドリンク",
+      "normalized": "ヨ グルトドリンク",
+      "tokens": [
+        "グル",
+        "ルト",
+        "トド",
+        "ドリ",
+        "リン",
+        "ンク"
+      ]
+    },
+    {
+      "ingredient": "しらす干し",
+      "normalized": "しらす干し",
+      "tokens": [
+        "しら",
+        "らす",
+        "す干",
+        "干し"
+      ]
+    },
+    {
+      "ingredient": "野沢菜漬け",
+      "normalized": "野沢菜漬け",
+      "tokens": [
+        "野沢",
+        "沢菜",
+        "菜漬",
+        "漬け"
+      ]
+    },
+    {
+      "ingredient": "そば",
+      "normalized": "そば",
+      "tokens": [
+        "そば"
+      ]
+    },
+    {
+      "ingredient": "うずら卵（卵黄）",
+      "normalized": "うずら卵 卵黄",
+      "tokens": [
+        "うず",
+        "ずら",
+        "ら卵",
+        "卵黄"
+      ]
+    },
+    {
+      "ingredient": "かまぼこ",
+      "normalized": "かまぼこ",
+      "tokens": [
+        "かま",
+        "まぼ",
+        "ぼこ"
+      ]
+    },
+    {
+      "ingredient": "梅干し　",
+      "normalized": "梅干し",
+      "tokens": [
+        "梅干",
+        "干し"
+      ]
+    },
+    {
+      "ingredient": "ほうれんそう",
+      "normalized": "ほうれんそう",
+      "tokens": [
+        "ほう",
+        "うれ",
+        "れん",
+        "んそ",
+        "そう"
+      ]
+    },
+    {
+      "ingredient": "ブロッコリースプラウト",
+      "normalized": "ブロッコリ スプラウト",
+      "tokens": [
+        "ブロ",
+        "ロッ",
+        "ッコ",
+        "コリ",
+        "スプ",
+        "プラ",
+        "ラウ",
+        "ウト"
+      ]
+    },
+    {
+      "ingredient": "カフェオレ",
+      "normalized": "カフェオレ",
+      "tokens": [
+        "カフ",
+        "フェ",
+        "ェオ",
+        "オレ"
+      ]
+    },
+    {
+      "ingredient": "みつば",
+      "normalized": "みつば",
+      "tokens": [
+        "みつ",
+        "つば"
+      ]
+    },
+    {
+      "ingredient": "レタス　",
+      "normalized": "レタス",
+      "tokens": [
+        "レタ",
+        "タス"
+      ]
+    },
+    {
+      "ingredient": "B豆板醤",
+      "normalized": "b豆板醤",
+      "tokens": [
+        "b豆",
+        "豆板",
+        "板醤"
+      ]
+    },
+    {
+      "ingredient": "●穀物酢",
+      "normalized": "●穀物酢",
+      "tokens": [
+        "●穀",
+        "穀物",
+        "物酢"
+      ]
+    },
+    {
+      "ingredient": "甘夏みかん",
+      "normalized": "甘夏みかん",
+      "tokens": [
+        "甘夏",
+        "夏み",
+        "みか",
+        "かん"
+      ]
+    },
+    {
+      "ingredient": "無塩バター",
+      "normalized": "無塩バタ",
+      "tokens": [
+        "無塩",
+        "塩バ",
+        "バタ"
+      ]
+    },
+    {
+      "ingredient": "あさり（冷凍）",
+      "normalized": "あさり 冷凍",
+      "tokens": [
+        "あさ",
+        "さり",
+        "冷凍"
+      ]
+    },
+    {
+      "ingredient": "冷凍えび",
+      "normalized": "冷凍えび",
+      "tokens": [
+        "冷凍",
+        "凍え",
+        "えび"
+      ]
+    },
+    {
+      "ingredient": "冷凍イカ",
+      "normalized": "冷凍イカ",
+      "tokens": [
+        "冷凍",
+        "凍イ",
+        "イカ"
+      ]
+    },
+    {
+      "ingredient": "パプリカ　粉",
+      "normalized": "パプリカ 粉",
+      "tokens": [
+        "パプ",
+        "プリ",
+        "リカ"
+      ]
+    },
+    {
+      "ingredient": "乾燥とうがらし",
+      "normalized": "乾燥とうがらし",
+      "tokens": [
+        "乾燥",
+        "燥と",
+        "とう",
+        "うが",
+        "がら",
+        "らし"
+      ]
+    },
+    {
+      "ingredient": "Aオリーブ油",
+      "normalized": "aオリ ブ油",
+      "tokens": [
+        "aオ",
+        "オリ",
+        "ブ油"
+      ]
+    },
+    {
+      "ingredient": "A酢",
+      "normalized": "a酢",
+      "tokens": [
+        "a酢"
+      ]
+    },
+    {
+      "ingredient": "●ローストアーモンド（無塩）",
+      "normalized": "●ロ ストア モンド 無塩",
+      "tokens": [
+        "●ロ",
+        "スト",
+        "トア",
+        "モン",
+        "ンド",
+        "無塩"
+      ]
+    },
+    {
+      "ingredient": "らっかせい（炒り）",
+      "normalized": "らっかせい 炒り",
+      "tokens": [
+        "らっ",
+        "っか",
+        "かせ",
+        "せい",
+        "炒り"
+      ]
+    },
+    {
+      "ingredient": "片栗粉",
+      "normalized": "片栗粉",
+      "tokens": [
+        "片栗",
+        "栗粉"
+      ]
+    },
+    {
+      "ingredient": "乾しいたけ",
+      "normalized": "乾しいたけ",
+      "tokens": [
+        "乾し",
+        "しい",
+        "いた",
+        "たけ"
+      ]
+    },
+    {
+      "ingredient": "パイナップル缶",
+      "normalized": "パイナップル缶",
+      "tokens": [
+        "パイ",
+        "イナ",
+        "ナッ",
+        "ップ",
+        "プル",
+        "ル缶"
+      ]
+    },
+    {
+      "ingredient": "B玉ねぎ",
+      "normalized": "b玉ねぎ",
+      "tokens": [
+        "b玉",
+        "玉ね",
+        "ねぎ"
+      ]
+    },
+    {
+      "ingredient": "Bピーマン",
+      "normalized": "bピ マン",
+      "tokens": [
+        "bピ",
+        "マン"
+      ]
+    },
+    {
+      "ingredient": "B人参",
+      "normalized": "b人参",
+      "tokens": [
+        "b人",
+        "人参"
+      ]
+    },
+    {
+      "ingredient": "Bたけのこ（水煮）",
+      "normalized": "bたけのこ 水煮",
+      "tokens": [
+        "bた",
+        "たけ",
+        "けの",
+        "のこ",
+        "水煮"
+      ]
+    },
+    {
+      "ingredient": "C中華だし汁",
+      "normalized": "c中華だし汁",
+      "tokens": [
+        "c中",
+        "中華",
+        "華だ",
+        "だし",
+        "し汁"
+      ]
+    },
+    {
+      "ingredient": "C片栗粉",
+      "normalized": "c片栗粉",
+      "tokens": [
+        "c片",
+        "片栗",
+        "栗粉"
+      ]
+    },
+    {
+      "ingredient": "水菜　",
+      "normalized": "水菜",
+      "tokens": [
+        "水菜"
+      ]
+    },
+    {
+      "ingredient": "ピザソース",
+      "normalized": "ピザソ ス",
+      "tokens": [
+        "ピザ",
+        "ザソ"
+      ]
+    },
+    {
+      "ingredient": "りんご",
+      "normalized": "りんご",
+      "tokens": [
+        "りん",
+        "んご"
+      ]
+    },
+    {
+      "ingredient": "中華だし汁",
+      "normalized": "中華だし汁",
+      "tokens": [
+        "中華",
+        "華だ",
+        "だし",
+        "し汁"
+      ]
+    },
+    {
+      "ingredient": "●ココナッツミルク",
+      "normalized": "●ココナッツミルク",
+      "tokens": [
+        "●コ",
+        "ココ",
+        "コナ",
+        "ナッ",
+        "ッツ",
+        "ツミ",
+        "ミル",
+        "ルク"
+      ]
+    },
+    {
+      "ingredient": "豚ばら肉",
+      "normalized": "豚ばら肉",
+      "tokens": [
+        "豚ば",
+        "ばら",
+        "ら肉"
+      ]
+    },
+    {
+      "ingredient": "ピンクグレープフルーツ",
+      "normalized": "ピンクグレ プフル ツ",
+      "tokens": [
+        "ピン",
+        "ンク",
+        "クグ",
+        "グレ",
+        "プフ",
+        "フル"
+      ]
+    },
+    {
+      "ingredient": "●みそ",
+      "normalized": "●みそ",
+      "tokens": [
+        "●み",
+        "みそ"
+      ]
+    },
+    {
+      "ingredient": "ミックスベジタブル",
+      "normalized": "ミックスベジタブル",
+      "tokens": [
+        "ミッ",
+        "ック",
+        "クス",
+        "スベ",
+        "ベジ",
+        "ジタ",
+        "タブ",
+        "ブル"
+      ]
+    },
+    {
+      "ingredient": "●粉とうがらし",
+      "normalized": "●粉とうがらし",
+      "tokens": [
+        "●粉",
+        "粉と",
+        "とう",
+        "うが",
+        "がら",
+        "らし"
+      ]
+    },
+    {
+      "ingredient": "ぜんまい（水煮）",
+      "normalized": "ぜんまい 水煮",
+      "tokens": [
+        "ぜん",
+        "んま",
+        "まい",
+        "水煮"
+      ]
+    },
+    {
+      "ingredient": "だいず（水煮）",
+      "normalized": "だいず 水煮",
+      "tokens": [
+        "だい",
+        "いず",
+        "水煮"
+      ]
+    },
+    {
+      "ingredient": "こんぶ（乾）",
+      "normalized": "こんぶ 乾",
+      "tokens": [
+        "こん",
+        "んぶ"
+      ]
+    },
+    {
+      "ingredient": "花麩",
+      "normalized": "花麩",
+      "tokens": [
+        "花麩"
+      ]
+    },
+    {
+      "ingredient": "あおさ",
+      "normalized": "あおさ",
+      "tokens": [
+        "あお",
+        "おさ"
+      ]
+    },
+    {
+      "ingredient": "蒸し中華めん　",
+      "normalized": "蒸し中華めん",
+      "tokens": [
+        "蒸し",
+        "し中",
+        "中華",
+        "華め",
+        "めん"
+      ]
+    },
+    {
+      "ingredient": "ぎょうざ",
+      "normalized": "ぎょうざ",
+      "tokens": [
+        "ぎょ",
+        "ょう",
+        "うざ"
+      ]
+    },
+    {
+      "ingredient": "揚げ玉",
+      "normalized": "揚げ玉",
+      "tokens": [
+        "揚げ",
+        "げ玉"
+      ]
+    },
+    {
+      "ingredient": "●しらす干し　",
+      "normalized": "●しらす干し",
+      "tokens": [
+        "●し",
+        "しら",
+        "らす",
+        "す干",
+        "干し"
+      ]
+    },
+    {
+      "ingredient": "赤えんどう豆（缶）",
+      "normalized": "赤えんどう豆 缶",
+      "tokens": [
+        "赤え",
+        "えん",
+        "んど",
+        "どう",
+        "う豆"
+      ]
+    },
+    {
+      "ingredient": "●粉寒天",
+      "normalized": "●粉寒天",
+      "tokens": [
+        "●粉",
+        "粉寒",
+        "寒天"
+      ]
+    },
+    {
+      "ingredient": "黒蜜",
+      "normalized": "黒蜜",
+      "tokens": [
+        "黒蜜"
+      ]
+    },
+    {
+      "ingredient": "●ピーナッツバター（無塩）",
+      "normalized": "●ピ ナッツバタ 無塩",
+      "tokens": [
+        "●ピ",
+        "ナッ",
+        "ッツ",
+        "ツバ",
+        "バタ",
+        "無塩"
+      ]
+    },
+    {
+      "ingredient": "おから",
+      "normalized": "おから",
+      "tokens": [
+        "おか",
+        "から"
+      ]
+    },
+    {
+      "ingredient": "●粒入りマスタード",
+      "normalized": "●粒入りマスタ ド",
+      "tokens": [
+        "●粒",
+        "粒入",
+        "入り",
+        "りマ",
+        "マス",
+        "スタ"
+      ]
+    },
+    {
+      "ingredient": "ひじき",
+      "normalized": "ひじき",
+      "tokens": [
+        "ひじ",
+        "じき"
+      ]
+    },
+    {
+      "ingredient": "トマトホール缶",
+      "normalized": "トマトホ ル缶",
+      "tokens": [
+        "トマ",
+        "マト",
+        "トホ",
+        "ル缶"
+      ]
+    },
+    {
+      "ingredient": "●ごまドレッシング",
+      "normalized": "●ごまドレッシング",
+      "tokens": [
+        "●ご",
+        "ごま",
+        "まド",
+        "ドレ",
+        "レッ",
+        "ッシ",
+        "シン",
+        "ング"
+      ]
+    },
+    {
+      "ingredient": "●唐辛子粉",
+      "normalized": "●唐辛子粉",
+      "tokens": [
+        "●唐",
+        "唐辛",
+        "辛子",
+        "子粉"
+      ]
+    },
+    {
+      "ingredient": "いわし（3枚おろし）",
+      "normalized": "いわし 3枚おろし",
+      "tokens": [
+        "いわ",
+        "わし",
+        "3枚",
+        "枚お",
+        "おろ",
+        "ろし"
+      ]
+    },
+    {
+      "ingredient": "ダイスカットチーズ",
+      "normalized": "ダイスカットチ ズ",
+      "tokens": [
+        "ダイ",
+        "イス",
+        "スカ",
+        "カッ",
+        "ット",
+        "トチ"
+      ]
+    },
+    {
+      "ingredient": "トマトジュース",
+      "normalized": "トマトジュ ス",
+      "tokens": [
+        "トマ",
+        "マト",
+        "トジ",
+        "ジュ"
+      ]
+    },
+    {
+      "ingredient": "抹茶",
+      "normalized": "抹茶",
+      "tokens": [
+        "抹茶"
+      ]
+    }
+  ]
+}
